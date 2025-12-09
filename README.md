@@ -17,6 +17,7 @@
 
 [plan-rewrite-prompt](prompts/plan-rewrite-prompt.txt) is the sequence-revision prompt for *rewriting process* in Plan Rewrite Module. [plan-rewrite-prompt-no-exp](prompts/plan-rewrite-prompt-no-exp.txt) is the one without *Explanations Inclusion*.
 
+>💡 If the link above takes a long time to load on Anonymous GitHub, please open the **prompts** folder on the left first and then try again.
 
  ## 💻 Code
 🚧 *Work in progress — updates will be added soon.*
