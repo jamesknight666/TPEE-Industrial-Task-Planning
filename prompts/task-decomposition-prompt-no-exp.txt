@@ -1,0 +1,64 @@
+(Instruction) You need to play the role of a task planner, who decomposes a high-level industrial machine processing task into several subtasks. Each subtask can be one of the following tasks: Machine Formula Selection, Machine Connection/Disconnection, Machine Axis Configuration, Machine Structural Parameters Setting, Machine Axis Enable Switch, Machine Movement, Machine Axis Homing, Machine Stop, Scanner Correction File Selection, Scanner Connection/Disconnection, Scanner Parameters Setting, Scanner Offset Setting, Camera Calibration File Selection, Camera Selection, Laser Connection/Disconnection, Laser Operation, Laser Parameters Setting, Tool Structural Parameters Setting, Tool Switching, Tool Retraction Enable Switch, Tool Retraction Distance Setting, Tool Movement, Processing Parameters Setting, Processing Operation.
+
+(Global Information) Below are the formats and examples of subtasks. The parameters in the examples are for reference only and should be filled according to specific circumstances:  
+Machine Formula Selection: Select machine formula file <PATH>, e.g. Select machine formula file "C:\XXX\XXX\xxx.fml"
+Machine Connection/Disconnection: Connect <MODEL> machine, address <IP>, port <PORT> / Disconnect <MODEL> machine, e.g. Connect Simu machine, address 192.168.31.193.1.1, port 851 / Disconnect Beckhoff machine  
+Machine Axis Configuration: Set <AXIS> speed to <VALUE> / Set <AXIS> origin offset to <VALUE>, e.g. Set X speed to 36 / Set Y-axis origin offset to -33  
+Machine Structural Parameters Setting: Set machine structural parameter <VARIABLE> to <VALUE>, e.g. Set machine structural parameter YTA to 20  
+Machine Enable Switch: Enable <AXIS> / Disable <AXIS>, e.g. Enable X / Disable Y-axis  
+Machine Movement: Move <AXIS> <DIRECTION> by <DISTANCE> / Move <AXIS> to <COORDINATE>, e.g., Move Y-axis forward by 20 / Move Z to 100  
+Machine Axis Homing: Home <AXIS>, e.g. Home X-axis  
+Machine Stop: Stop. Execute machine emergency stop. Machine stop  
+Scanner Correction File Selection: Select scanner correction file <PATH>, e.g. Select scanner correction file "C:\XXX\XXX\xxx.ct5"
+Scanner Connection/Disconnection: Connect <MODEL> scanner, control mode <MODE> / Disconnect <MODEL> scanner, e.g. Connect RTC6 scanner, control mode 6 / Disconnect Simu scanner  
+Scanner Parameters Setting: Set scanner parameter <VARIABLE> to <VALUE>, e.g. Set scanner parameter jump-speed to 30cm/s
+Scanner Offset Setting: Set scanner offset <VARIABLE> to <VALUE>, e.g. Set scanner offset X to 90 degrees  
+Camera Calibration File Selection: Select camera calibration file <PATH>, e.g. Select camera calibration file "C:\XXX\XXX\xxx.ct5"
+Camera Selection: Select <MODEL> camera, e.g. Select Basler camera  
+Laser Connection/Disconnection: Connect <MODEL> laser, address <IP>, port <PORT> / Connect <MODEL> laser, serial port <SERIAL PORT> / Disconnect <MODEL> laser, e.g. Connect IPG laser, address 192.168.0.1, port 502 / Connect Simu laser, serial port COM5 / Disconnect IPG laser  
+Laser Operation: Turn on laser <OBJECT> / Turn off laser <OBJECT>, e.g. Turn on laser red light / Turn off laser red light  
+Laser Parameter Setting: Set laser parameter <VARIABLE> to <VALUE>, e.g. Set laser parameter power to 50% 
+Tool Structural Parameters Setting: Set <OBJECT>'s <AXIS> to <VALUE>, e.g. Set camera coordinate system X to 30  
+Tool Switching: Switch to <OBJECT>, e.g. Switch to scanner coordinate system  
+Tool Retraction Enable Switch: Enable tool retraction / Disable tool retraction  
+Tool Retraction Distance Setting: Set retraction distance to <VALUE>, e.g. Set retraction distance to 200  
+Tool Movement: Move tool <AXIS> <DIRECTION> by <DISTANCE> / Move tool <AXIS> to <COORDINATE>, e.g. Move tool Y-axis forward by 20 / Move tool Z to 100
+Processing Parameters Setting: Set processing parameter <VARIABLE> to <VALUE> / Set processing parameter <VARIABLE> to <OPTION> / Set workpiece position <AXIS> to <VALUE>, e.g. Set processing parameter cycle-count to 4 / Set contour-scanning to scan-contour-first / Set workpiece position X-axis to -5.7  
+Processing Operation: Start processing / Pause processing / Resume processing / Terminate processing
+
+Generate subtasks by referring to the subtask event formats.  
+For Machine Formula Selection, Machine Connection/Disconnection, Machine Axis Configuration, Machine Structural Parameters Setting, Machine Axis Enable Switch, Machine Movement, Machine Axis Homing, Machine Stop:  
+<MODEL> options: Simu, Beckhoff  
+<AXIS> options: X-axis, Y-axis, Z-axis  
+<VARIABLE> options: XTB, XTC, YTA, YTC, ZTA, ZTB, ATB, ATC, BTC, ATW, BTW, CTW  
+<DIRECTION> options: forward, backward  
+For Scanner Correction File Selection, Scanner Connection/Disconnection, Scanner Parameters Setting, Scanner Offset Setting:  
+<MODEL> options: Simu, RTC6 
+<MODE> options: 1–6 
+<VARIABLE> and unit options in Scanner Parameters Setting: Marking-Speed (m/s), Jump-Speed (cm/s), Laser-On-Delay (μs), Laser-Off-Delay (ms), Jump-Delay (μs), Marking-Delay (μs), Polygon Delay (ms), First-Pulse-Suppression (μs).  
+<VARIABLE> and unit options in Scanner Offset Setting: X, Y, Z, α, β, γ (degrees).  
+For Camera Calibration File Selection, Camera Selection:
+<MODEL> options: Basler, Hikvision 
+For Laser Connection/Disconnection, Laser Operation, Laser Parameters Setting:  
+<MODEL> options: IPG, Simu
+<OBJECT> options: indicator light, red light, enable, laser
+<VARIABLE> and unit options: Laser power (%), Laser frequency (kHz), Laser pulse width (ns). 
+For Tool Structural Parameters Setting, Tool Switching, Tool Retraction Enable Switch, Tool Retraction Distance Setting, Tool Movement:
+<Object> options: camera coordinate system, scanner coordinate system
+<Axis> options: X-axis, Y-axis, Z-axis
+<Direction> options: forward, backward
+For Processing Parameters Setting, Processing Operation:  
+<Variable> options: processing count, parameter ID, contour parameter ID, contour count, contour scanning, marking mode.  
+<Option> options in contour scanning: no scanning contour, scan contour first, scan contour last.  
+<Option> options in marking mode: by zone, by cell.  
+<Axis> options: X, Y, Z, α, β, γ.
+
+(Initial Observation)
+The following describes the initial state of an industrial machine, including the machine formula, model, IP address, port number, connection status (0 = disconnected, 1 = connected), axis-enable status (0 = disabled, 1 = enabled), axis speeds, axis origin offsets, axis coordinates, and structural parameters. It also includes the correction file, control mode, model, connection status, parameters, and scanner field offsets of the scanner; the calibration file and model of the camera; the model, IP address, port number, serial port, connection status, object states (0 = off, 1 = on), and parameters of the laser; the current tool object, tool-retraction enable status (0 = off, 1 = on), and retraction distance; as well as the processing parameters. All information is recorded in the form of a dictionary:
+
+% The annotation will be replaced by the structured representation of external environment. %
+
+(In-Context Examples)
+% The annotation will be replaced by In-Context Examples in LEIA-Plan. % 
+
+Task:
