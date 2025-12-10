@@ -1,0 +1,672 @@
+{"id": 1, "text": "connect machine tool", "type": 2}
+{"id": 2, "text": "disconnect machine tool", "type": 2}
+{"id": 3, "text": "connect to this machine tool", "type": 2}
+{"id": 4, "text": "disconnect from this machine tool", "type": 2}
+{"id": 5, "text": "establish machine tool connection", "type": 2}
+{"id": 6, "text": "terminate machine tool connection", "type": 2}
+{"id": 7, "text": "connect machine", "type": 2}
+{"id": 8, "text": "disconnect machine connection", "type": 2}
+{"id": 9, "text": "disconnect this machine tool", "type": 2}
+{"id": 10, "text": "connect to this machine", "type": 2}
+{"id": 11, "text": "terminate machine connection", "type": 2}
+{"id": 12, "text": "enable X axis", "type": 5}
+{"id": 13, "text": "turn on X axis enable", "type": 5}
+{"id": 14, "text": "activate X axis enable", "type": 5}
+{"id": 15, "text": "turn on X axis motor", "type": 5}
+{"id": 16, "text": "start X axis enable", "type": 5}
+{"id": 17, "text": "enable Y axis", "type": 5}
+{"id": 18, "text": "enable Z axis", "type": 5}
+{"id": 19, "text": "disable first axis", "type": 5}
+{"id": 20, "text": "turn off first axis motor", "type": 5}
+{"id": 21, "text": "deactivate first axis enable", "type": 5}
+{"id": 22, "text": "disable second axis", "type": 5}
+{"id": 23, "text": "disable third axis", "type": 5}
+{"id": 24, "text": "move X axis by one unit", "type": 6}
+{"id": 25, "text": "move Y axis by twenty units", "type": 6}
+{"id": 26, "text": "move Z axis 34 units", "type": 6}
+{"id": 27, "text": "move X axis in positive direction by one unit", "type": 6}
+{"id": 28, "text": "move Y axis in negative direction by 4 units", "type": 6}
+{"id": 29, "text": "move Z axis 22", "type": 6}
+{"id": 30, "text": "X axis move forward 34", "type": 6}
+{"id": 31, "text": "Y axis move -29", "type": 6}
+{"id": 32, "text": "Z move 14", "type": 6}
+{"id": 33, "text": "X move +38", "type": 6}
+{"id": 34, "text": "move X axis in positive direction by seventeen units", "type": 6}
+{"id": 35, "text": "move X axis backwards 6 units", "type": 6}
+{"id": 36, "text": "move X axis to position 43", "type": 6}
+{"id": 37, "text": "move Z axis to coordinate 40", "type": 6}
+{"id": 38, "text": "move Y axis to -22", "type": 6}
+{"id": 39, "text": "move third axis to 33", "type": 6}
+{"id": 40, "text": "move first axis to 50", "type": 6}
+{"id": 41, "text": "X move to 89", "type": 6}
+{"id": 42, "text": "Y axis move to negative 21", "type": 6}
+{"id": 43, "text": "Z move to +44", "type": 6}
+{"id": 44, "text": "X axis move to coordinate positive thirteen", "type": 6}
+{"id": 45, "text": "Y move to negative sixteen", "type": 6}
+{"id": 46, "text": "set machine formula", "type": 1}
+{"id": 47, "text": "machine formula setup", "type": 1}
+{"id": 48, "text": "machine formula", "type": 1}
+{"id": 49, "text": "select machine formula", "type": 1}
+{"id": 50, "text": "machine formula selection", "type": 1}
+{"id": 51, "text": "select machine formula file", "type": 1}
+{"id": 52, "text": "configure machine formula file", "type": 1}
+{"id": 53, "text": "set machine formula file to: \"C:\\Users\\JamesKing\\XYC-ZB_0826_XYZcompensated_02.fml\"", "type": 1}
+{"id": 54, "text": "configure machine formula file as: C:\\Users\\JamesKing\\XYC.fml", "type": 1}
+{"id": 55, "text": "machine formula is D:\\gongshi\\formula.fml", "type": 1}
+{"id": 56, "text": "specify machine formula as D:\\gongshi\\formula.fml", "type": 1}
+{"id": 57, "text": "current machine formula file path is: C:\\Users\\JamesKing\\XYC.fml", "type": 1}
+{"id": 58, "text": "machine formula file selected as: D:\\gongshi\\formula.fml", "type": 1}
+{"id": 59, "text": "disconnect Beckhoff machine", "type": 2}
+{"id": 60, "text": "disconnect Beckhoff machine tool", "type": 2}
+{"id": 61, "text": "disconnect simulation machine connection", "type": 2}
+{"id": 62, "text": "disconnect simu machine", "type": 2}
+{"id": 63, "text": "disconnect simulation machine", "type": 2}
+{"id": 64, "text": "disconnect simu machine connection", "type": 2}
+{"id": 65, "text": "connect Beckhoff machine, IP 192.168.31.193.1.1, port 851", "type": 2}
+{"id": 66, "text": "connect Beckhoff machine tool, IP: 192.168.31.193.1.1, Port: 851", "type": 2}
+{"id": 67, "text": "connect simulation machine, IP is 10.0.0.100, port is 701", "type": 2}
+{"id": 68, "text": "establish simu machine connection, IP address 192.168.1.1, port 701", "type": 2}
+{"id": 69, "text": "connect to Beckhoff machine, IP 10.1.9.8.2, port 17", "type": 2}
+{"id": 70, "text": "connect to Beckhoff machine tool, IP set to 192.168.1.1, port set to 22", "type": 2}
+{"id": 71, "text": "set axis speed", "type": 3}
+{"id": 72, "text": "adjust origin offset", "type": 3}
+{"id": 73, "text": "configure origin offset", "type": 3}
+{"id": 74, "text": "adjust origin offset value", "type": 3}
+{"id": 75, "text": "set X speed", "type": 3}
+{"id": 76, "text": "configure X axis movement speed", "type": 3}
+{"id": 77, "text": "set second axis origin offset", "type": 3}
+{"id": 78, "text": "adjust second axis origin offset value", "type": 3}
+{"id": 79, "text": "X axis speed is 16", "type": 3}
+{"id": 80, "text": "X speed is 300", "type": 3}
+{"id": 81, "text": "adjust X speed to 30", "type": 3}
+{"id": 82, "text": "set first axis speed to 33", "type": 3}
+{"id": 83, "text": "Y axis speed is 26", "type": 3}
+{"id": 84, "text": "change second axis speed to 256", "type": 3}
+{"id": 85, "text": "set Z speed to 80", "type": 3}
+{"id": 86, "text": "set X origin offset to -22.5", "type": 3}
+{"id": 87, "text": "configure X axis origin offset to 30", "type": 3}
+{"id": 88, "text": "first axis origin offset is ninety-eight", "type": 3}
+{"id": 89, "text": "Y origin offset is negative 34", "type": 3}
+{"id": 90, "text": "set Y origin offset to -77", "type": 3}
+{"id": 91, "text": "Z axis origin offset is -90", "type": 3}
+{"id": 92, "text": "machine structure parameters", "type": 4}
+{"id": 93, "text": "configure machine structure parameters", "type": 4}
+{"id": 94, "text": "set machine structure parameters", "type": 4}
+{"id": 95, "text": "set machine structure parameter XTB to 40", "type": 4}
+{"id": 96, "text": "machine structure parameter XTC is +39", "type": 4}
+{"id": 97, "text": "change machine structure parameter YTA to ninety-eight", "type": 4}
+{"id": 98, "text": "set machine structure parameter YTC to negative 44", "type": 4}
+{"id": 99, "text": "machine structure parameter ZTA set to -800", "type": 4}
+{"id": 100, "text": "adjust machine structure parameter ZTB to positive thirty", "type": 4}
+{"id": 101, "text": "machine structure parameter ATB changed to 700", "type": 4}
+{"id": 102, "text": "adjust machine structure parameter ATC to negative 40", "type": 4}
+{"id": 103, "text": "machine structure parameter BTC modified to positive 22", "type": 4}
+{"id": 104, "text": "machine structure parameter ATW set to 600", "type": 4}
+{"id": 105, "text": "machine structure parameter BTW assigned -20", "type": 4}
+{"id": 106, "text": "machine structure parameter CTW given value 100", "type": 4}
+{"id": 107, "text": "return home", "type": 7}
+{"id": 108, "text": "axis homing", "type": 7}
+{"id": 109, "text": "first axis return to zero", "type": 7}
+{"id": 110, "text": "X axis homing", "type": 7}
+{"id": 111, "text": "home X axis", "type": 7}
+{"id": 112, "text": "return X axis to zero", "type": 7}
+{"id": 113, "text": "home X", "type": 7}
+{"id": 114, "text": "return X axis to origin", "type": 7}
+{"id": 115, "text": "reset X axis to zero position", "type": 7}
+{"id": 116, "text": "execute X axis homing", "type": 7}
+{"id": 117, "text": "zero X axis", "type": 7}
+{"id": 118, "text": "execute second axis homing operation", "type": 7}
+{"id": 119, "text": "Y axis homing", "type": 7}
+{"id": 120, "text": "home Y axis", "type": 7}
+{"id": 121, "text": "return Y axis to zero", "type": 7}
+{"id": 122, "text": "home Y", "type": 7}
+{"id": 123, "text": "reset Y axis to origin", "type": 7}
+{"id": 124, "text": "return Y axis to zero position", "type": 7}
+{"id": 125, "text": "execute Y axis homing operation", "type": 7}
+{"id": 126, "text": "set Y axis to zero position", "type": 7}
+{"id": 127, "text": "third axis homing", "type": 7}
+{"id": 128, "text": "Z axis homing", "type": 7}
+{"id": 129, "text": "home Z axis", "type": 7}
+{"id": 130, "text": "return Z axis to zero", "type": 7}
+{"id": 131, "text": "home Z", "type": 7}
+{"id": 132, "text": "return Z axis to origin position", "type": 7}
+{"id": 133, "text": "restore Z axis to zero point", "type": 7}
+{"id": 134, "text": "execute Z axis reset", "type": 7}
+{"id": 135, "text": "zero Z axis", "type": 7}
+{"id": 136, "text": "machine emergency stop", "type": 8}
+{"id": 137, "text": "stop all axes motion", "type": 8}
+{"id": 138, "text": "machine stop motion", "type": 8}
+{"id": 139, "text": "machine emergency halt", "type": 8}
+{"id": 140, "text": "stop machine", "type": 8}
+{"id": 141, "text": "halt all axes", "type": 8}
+{"id": 142, "text": "emergency stop", "type": 8}
+{"id": 143, "text": "trigger machine emergency stop", "type": 8}
+{"id": 144, "text": "immediately stop all axes", "type": 8}
+{"id": 145, "text": "immediately halt machine motion", "type": 8}
+{"id": 146, "text": "execute machine emergency stop", "type": 8}
+{"id": 147, "text": "terminate machine motion", "type": 8}
+{"id": 148, "text": "immediately stop all axis movements", "type": 8}
+{"id": 149, "text": "interrupt machine motion", "type": 8}
+{"id": 150, "text": "stop all machine operations", "type": 8}
+{"id": 151, "text": "immediately halt all axes", "type": 8}
+{"id": 152, "text": "enter machine emergency stop state", "type": 8}
+{"id": 153, "text": "stop all motion axis operations", "type": 8}
+{"id": 154, "text": "interrupt machine motion process", "type": 8}
+{"id": 155, "text": "machine halt all axis motion", "type": 8}
+{"id": 156, "text": "set scanner file", "type": 9}
+{"id": 157, "text": "control scanner correction file setup", "type": 9}
+{"id": 158, "text": "control scanner correction file", "type": 9}
+{"id": 159, "text": "select scanner correction file", "type": 9}
+{"id": 160, "text": "control scanner file selection", "type": 9}
+{"id": 161, "text": "set control scanner file path to: \"C:\\Users\\JamesKing\\XYC-ZB_0826_XYZcompensated_02.ct5\"", "type": 9}
+{"id": 162, "text": "configure scanner calibration file path to: \"C:\\Users\\JamesKing\\XYC.ct5\"", "type": 9}
+{"id": 163, "text": "specify control scanner file as: \"D:\\jiaozheng\\formula.ct5\"", "type": 9}
+{"id": 164, "text": "set control scanner correction file path to: \"D:\\file\\formula.ct5\"", "type": 9}
+{"id": 165, "text": "configure scanner file as: \"C:\\Users\\JamesKing\\XYC-ZB_0826_XYZcompensated_02.ct5\"", "type": 9}
+{"id": 166, "text": "set control scanner calibration file to: \"C:\\Users\\JamesKing\\XYC.ct5\"", "type": 9}
+{"id": 167, "text": "select scanner file path as: \"D:\\jiaozheng\\formula.ct5\"", "type": 9}
+{"id": 168, "text": "specify control scanner correction file: \"D:\\file\\formula.ct5\"", "type": 9}
+{"id": 169, "text": "set scanner file location to: \"C:\\Users\\JamesKing\\XYC-ZB_0826_XYZcompensated_02.ct5\"", "type": 9}
+{"id": 170, "text": "configure control scanner correction file to: \"D:\\file\\formula.ct5\"", "type": 9}
+{"id": 171, "text": "select control scanner calibration file path as: \"C:\\Users\\JamesKing\\XYC.ct5\"", "type": 9}
+{"id": 172, "text": "select scanner correction file: \"D:\\file\\formula.ct5\"", "type": 9}
+{"id": 173, "text": "configure scanner correction file: \"D:\\jiaozheng\\formula.ct5\"", "type": 9}
+{"id": 174, "text": "select control scanner file location: \"C:\\Users\\JamesKing\\XYC-ZB_0826_XYZcompensated_02.ct5\"", "type": 9}
+{"id": 175, "text": "select control scanner file path as: \"C:\\Users\\JamesKing\\XYC.ct5\"", "type": 9}
+{"id": 176, "text": "select scanner file: \"D:\\jiaozheng\\formula.ct5\"", "type": 9}
+{"id": 177, "text": "specify scanner correction file: \"D:\\file\\formula.ct5\"", "type": 9}
+{"id": 178, "text": "set control scanner file to: \"C:\\Users\\JamesKing\\XYC.ct5\"", "type": 9}
+{"id": 179, "text": "configure control scanner correction file to: \"D:\\file\\formula.ct5\"", "type": 9}
+{"id": 180, "text": "connect scanner", "type": 10}
+{"id": 181, "text": "disconnect control scanner connection", "type": 10}
+{"id": 182, "text": "connect galvanometer", "type": 10}
+{"id": 183, "text": "disconnect galvanometer connection", "type": 10}
+{"id": 184, "text": "connect this galvanometer to system", "type": 10}
+{"id": 185, "text": "disconnect galvanometer from system", "type": 10}
+{"id": 186, "text": "connect galvanometer device", "type": 10}
+{"id": 187, "text": "release galvanometer connection", "type": 10}
+{"id": 188, "text": "disconnect this galvanometer connection", "type": 10}
+{"id": 189, "text": "reconnect galvanometer", "type": 10}
+{"id": 190, "text": "terminate galvanometer connection", "type": 10}
+{"id": 191, "text": "connect RTC6 galvanometer, control mode set to 1", "type": 10}
+{"id": 192, "text": "connect RTC6, mode is 3", "type": 10}
+{"id": 193, "text": "disconnect RTC6 connection", "type": 10}
+{"id": 194, "text": "disconnect RTC6 galvanometer", "type": 10}
+{"id": 195, "text": "connect simulation galvanometer, control mode set to 2", "type": 10}
+{"id": 196, "text": "connect simu control card, mode set to 4", "type": 10}
+{"id": 197, "text": "release simulation galvanometer connection", "type": 10}
+{"id": 198, "text": "disconnect simu card connection", "type": 10}
+{"id": 199, "text": "connect simulation control card, set control mode to 5", "type": 10}
+{"id": 200, "text": "connect simu galvanometer, set control to 6", "type": 10}
+{"id": 201, "text": "disconnect simulation control card connection", "type": 10}
+{"id": 202, "text": "release simu galvanometer connection", "type": 10}
+{"id": 203, "text": "galvanometer parameters", "type": 11}
+{"id": 204, "text": "set galvanometer parameters", "type": 11}
+{"id": 205, "text": "control card parameters", "type": 11}
+{"id": 206, "text": "set card parameters", "type": 11}
+{"id": 207, "text": "set marking speed to 10m/s", "type": 11}
+{"id": 208, "text": "jump speed set to 30cm/s", "type": 11}
+{"id": 209, "text": "set marking-speed to 20 meters per second", "type": 11}
+{"id": 210, "text": "set jump-speed to fifteen centimeters per second", "type": 11}
+{"id": 211, "text": "laser-on-delay set to 30μs", "type": 11}
+{"id": 212, "text": "set laser on delay to 40 microseconds", "type": 11}
+{"id": 213, "text": "set laser-off-delay to twenty ms", "type": 11}
+{"id": 214, "text": "laser off delay is twenty-five milliseconds", "type": 11}
+{"id": 215, "text": "change jump-delay to 17μs", "type": 11}
+{"id": 216, "text": "set jump delay to 10 microseconds", "type": 11}
+{"id": 217, "text": "set marking-delay to 50μs", "type": 11}
+{"id": 218, "text": "set marking delay to 60 microseconds", "type": 11}
+{"id": 219, "text": "set polygon delay to 25ms", "type": 11}
+{"id": 220, "text": "polygon-delay set to 30 milliseconds", "type": 11}
+{"id": 221, "text": "first-pulse-suppression set to 100μs", "type": 11}
+{"id": 222, "text": "set first pulse suppression to 120 microseconds", "type": 11}
+{"id": 223, "text": "scan field offset", "type": 12}
+{"id": 224, "text": "galvanometer scan field offset", "type": 12}
+{"id": 225, "text": "set galvanometer scan field offset", "type": 12}
+{"id": 226, "text": "set scan field offset X to 130°", "type": 12}
+{"id": 227, "text": "set galvanometer scan field offset X to 180.2 degrees", "type": 12}
+{"id": 228, "text": "set scan field offset Y to 75°", "type": 12}
+{"id": 229, "text": "galvanometer scan field offset Y set to 90.5 degrees", "type": 12}
+{"id": 230, "text": "set scan field offset Z to 45.6°", "type": 12}
+{"id": 231, "text": "set galvanometer scan field offset Z to 120 degrees", "type": 12}
+{"id": 232, "text": "scan field offset α assigned 15.5°", "type": 12}
+{"id": 233, "text": "galvanometer scan field offset α set to 30 degrees", "type": 12}
+{"id": 234, "text": "set scan field offset β to 60°", "type": 12}
+{"id": 235, "text": "galvanometer scan field offset parameter β changed to 75.3 degrees", "type": 12}
+{"id": 236, "text": "set scan field offset γ to 90°", "type": 12}
+{"id": 237, "text": "set galvanometer scan field offset γ to 110.2 degrees", "type": 12}
+{"id": 238, "text": "set X axis scan field offset to 170.3°", "type": 12}
+{"id": 239, "text": "set Y axis scan field offset to 65°", "type": 12}
+{"id": 240, "text": "set Z axis scan field offset to 80.7°", "type": 12}
+{"id": 241, "text": "set α direction scan field offset to 45°", "type": 12}
+{"id": 242, "text": "set β direction scan field offset to 35.5°", "type": 12}
+{"id": 243, "text": "set γ direction scan field offset to 100°", "type": 12}
+{"id": 244, "text": "camera calibration file selection", "type": 13}
+{"id": 245, "text": "select camera calibration file", "type": 13}
+{"id": 246, "text": "camera calibration file", "type": 13}
+{"id": 247, "text": "specify camera calibration file", "type": 13}
+{"id": 248, "text": "set camera calibration file path to: \"C:\\Users\\JamesKing\\camera.ct5\"", "type": 13}
+{"id": 249, "text": "configure camera calibration file path to: \"C:\\Users\\JamesKing\\cam.ct5\"", "type": 13}
+{"id": 250, "text": "camera calibration file used is D:\\calibration\\biaoding.ct5", "type": 13}
+{"id": 251, "text": "set camera calibration file to: D:\\file\\biao.ct5", "type": 13}
+{"id": 252, "text": "load camera calibration file, path is: \"C:\\Users\\JamesKing\\camera.ct5\"", "type": 13}
+{"id": 253, "text": "camera calibration file path is D:\\calibration\\biaoding.ct5", "type": 13}
+{"id": 254, "text": "camera calibration file path set to D:\\file\\biao.ct5", "type": 13}
+{"id": 255, "text": "set camera calibration file to: \"C:\\Users\\JamesKing\\camera.ct5\"", "type": 13}
+{"id": 256, "text": "select camera calibration file as: \"C:\\Users\\JamesKing\\cam.ct5\"", "type": 13}
+{"id": 257, "text": "calibration file path is D:\\calibration\\biaoding.ct5, applied to camera", "type": 13}
+{"id": 258, "text": "set camera calibration file to: D:\\file\\biao.ct5", "type": 13}
+{"id": 259, "text": "camera selection", "type": 14}
+{"id": 260, "text": "select camera", "type": 14}
+{"id": 261, "text": "switch camera", "type": 14}
+{"id": 262, "text": "camera switch", "type": 14}
+{"id": 263, "text": "switch current camera", "type": 14}
+{"id": 264, "text": "select Hikvision camera", "type": 14}
+{"id": 265, "text": "select Basler camera", "type": 14}
+{"id": 266, "text": "camera selected as Hikvision", "type": 14}
+{"id": 267, "text": "use Basler camera", "type": 14}
+{"id": 268, "text": "set current camera to Hikvision", "type": 14}
+{"id": 269, "text": "set current camera as Basler", "type": 14}
+{"id": 270, "text": "switch camera to Hikvision", "type": 14}
+{"id": 271, "text": "select Basler brand camera", "type": 14}
+{"id": 272, "text": "set camera to Hikvision", "type": 14}
+{"id": 273, "text": "select camera as Basler", "type": 14}
+{"id": 274, "text": "use Hikvision camera", "type": 14}
+{"id": 275, "text": "switch to Basler camera", "type": 14}
+{"id": 276, "text": "set current camera as Hikvision", "type": 14}
+{"id": 277, "text": "use Basler as current camera", "type": 14}
+{"id": 278, "text": "set default camera to Hikvision", "type": 14}
+{"id": 279, "text": "select Hikvision as current camera", "type": 14}
+{"id": 280, "text": "set Basler as current camera", "type": 14}
+{"id": 281, "text": "switch current device to Hikvision camera", "type": 14}
+{"id": 282, "text": "switch to Basler camera mode", "type": 14}
+{"id": 283, "text": "set Hikvision as primary camera", "type": 14}
+{"id": 284, "text": "set Basler as primary camera", "type": 14}
+{"id": 285, "text": "connect laser", "type": 15}
+{"id": 286, "text": "disconnect laser", "type": 15}
+{"id": 287, "text": "connect this laser", "type": 15}
+{"id": 288, "text": "disconnect this laser", "type": 15}
+{"id": 289, "text": "establish laser connection", "type": 15}
+{"id": 290, "text": "terminate laser connection", "type": 15}
+{"id": 291, "text": "connect laser source", "type": 15}
+{"id": 292, "text": "disconnect laser connection", "type": 15}
+{"id": 293, "text": "disconnect this laser source", "type": 15}
+{"id": 294, "text": "connect to this laser", "type": 15}
+{"id": 295, "text": "terminate laser connection", "type": 15}
+{"id": 296, "text": "connect IPG laser, serial port COM3", "type": 15}
+{"id": 297, "text": "disconnect IPG laser serial port connection", "type": 15}
+{"id": 298, "text": "connect IPG laser, IP: 192.168.0.1, Port: 502", "type": 15}
+{"id": 299, "text": "disconnect IPG laser ethernet connection", "type": 15}
+{"id": 300, "text": "connect IPG laser, serial port set to COM5", "type": 15}
+{"id": 301, "text": "disconnect IPG laser serial port connection", "type": 15}
+{"id": 302, "text": "connect IPG laser, ethernet IP address 192.168.1.10, port 503", "type": 15}
+{"id": 303, "text": "disconnect IPG laser ethernet connection", "type": 15}
+{"id": 304, "text": "connect IPG laser, serial port COM7", "type": 15}
+{"id": 305, "text": "disconnect IPG laser, terminate ethernet connection, IP: 192.168.1.100, Port: 504", "type": 15}
+{"id": 306, "text": "connect simulation laser, serial port COM4", "type": 15}
+{"id": 307, "text": "disconnect simulation laser serial port connection", "type": 15}
+{"id": 308, "text": "connect simulation laser, ethernet IP: 10.0.0.10, port 701", "type": 15}
+{"id": 309, "text": "disconnect simulation laser ethernet connection", "type": 15}
+{"id": 310, "text": "connect simulation laser, serial port set to COM6", "type": 15}
+{"id": 311, "text": "disconnect simulation laser serial port connection", "type": 15}
+{"id": 312, "text": "connect simulation laser, IP 192.168.2.1, port 702", "type": 15}
+{"id": 313, "text": "disconnect simulation laser ethernet connection", "type": 15}
+{"id": 314, "text": "connect simu laser, serial port set to COM2", "type": 15}
+{"id": 315, "text": "disconnect simu laser serial port connection", "type": 15}
+{"id": 316, "text": "connect simu laser, IP: 10.1.1.1, Port: 800", "type": 15}
+{"id": 317, "text": "disconnect simu laser ethernet connection", "type": 15}
+{"id": 318, "text": "connect simu laser, serial port COM8", "type": 15}
+{"id": 319, "text": "disconnect simu laser serial port connection", "type": 15}
+{"id": 320, "text": "connect simu laser, ethernet IP address set to 192.168.3.3, port 900", "type": 15}
+{"id": 321, "text": "disconnect simu laser ethernet connection", "type": 15}
+{"id": 322, "text": "indicator light", "type": 16}
+{"id": 323, "text": "red light", "type": 16}
+{"id": 324, "text": "laser enable", "type": 16}
+{"id": 325, "text": "laser", "type": 16}
+{"id": 326, "text": "turn on laser indicator light", "type": 16}
+{"id": 327, "text": "turn off laser indicatorlight", "type": 16}
+{"id": 328, "text": "turn on laser indicator light", "type": 16}
+{"id": 329, "text": "turn off laser indicator light", "type": 16}
+{"id": 330, "text": "turn on laser red light", "type": 16}
+{"id": 331, "text": "turn off laser red light", "type": 16}
+{"id": 332, "text": "turn on laser red light", "type": 16}
+{"id": 333, "text": "turn off laser red light", "type": 16}
+{"id": 334, "text": "turn off red light", "type": 16}
+{"id": 335, "text": "activate laser enable", "type": 16}
+{"id": 336, "text": "turn on laser enable", "type": 16}
+{"id": 337, "text": "turn off laser enable", "type": 16}
+{"id": 338, "text": "turn on laser", "type": 16}
+{"id": 339, "text": "turn off laser", "type": 16}
+{"id": 340, "text": "activate laser emission", "type": 16}
+{"id": 341, "text": "deactivate laser emission", "type": 16}
+{"id": 342, "text": "enable laser", "type": 16}
+{"id": 343, "text": "laser output", "type": 16}
+{"id": 344, "text": "stop laser output", "type": 16}
+{"id": 345, "text": "start laser output", "type": 16}
+{"id": 346, "text": "stop laser emission", "type": 16}
+{"id": 347, "text": "halt laser output", "type": 16}
+{"id": 348, "text": "laser frequency", "type": 17}
+{"id": 349, "text": "laser power", "type": 17}
+{"id": 350, "text": "laser pulse width", "type": 17}
+{"id": 351, "text": "laser parameters", "type": 17}
+{"id": 352, "text": "set laser parameters", "type": 17}
+{"id": 353, "text": "adjust laser frequency", "type": 17}
+{"id": 354, "text": "adjust laser power", "type": 17}
+{"id": 355, "text": "change laser pulse width", "type": 17}
+{"id": 356, "text": "set laser power to 50%", "type": 17}
+{"id": 357, "text": "set laser power to ninety percent", "type": 17}
+{"id": 358, "text": "adjust laser power to 30 percent", "type": 17}
+{"id": 359, "text": "set laser power value to 90%", "type": 17}
+{"id": 360, "text": "laser frequency is 50khz", "type": 17}
+{"id": 361, "text": "set laser frequency to 100 kilohertz", "type": 17}
+{"id": 362, "text": "adjust laser frequency value to sixty khz", "type": 17}
+{"id": 363, "text": "set laser frequency to one hundred thousand hertz", "type": 17}
+{"id": 364, "text": "laser pulse width 0.3 microseconds", "type": 17}
+{"id": 365, "text": "adjust laser pulse width to 200ns", "type": 17}
+{"id": 366, "text": "set laser pulse width to 400 nanoseconds", "type": 17}
+{"id": 367, "text": "adjust laser pulse width value to 0.4 microseconds", "type": 17}
+{"id": 368, "text": "scanner coordinate system", "type": 19}
+{"id": 369, "text": "camera coordinate system", "type": 19}
+{"id": 370, "text": "galvanometer origin coordinates", "type": 18}
+{"id": 371, "text": "camera origin coordinates", "type": 18}
+{"id": 372, "text": "adjust scanner origin coordinates", "type": 18}
+{"id": 373, "text": "set camera origin coordinates", "type": 18}
+{"id": 374, "text": "set galvanometer coordinate system origin X axis to 0", "type": 18}
+{"id": 375, "text": "change galvanometer coordinate system X coordinate to -5.4", "type": 18}
+{"id": 376, "text": "set scanner coordinate system X value to +30.2", "type": 18}
+{"id": 377, "text": "adjust galvanometer coordinate system X axis coordinate to zero", "type": 18}
+{"id": 378, "text": "set scanner coordinate system X to negative five point four", "type": 18}
+{"id": 379, "text": "set galvanometer X axis coordinate to -30.2", "type": 18}
+{"id": 380, "text": "set scanner coordinate system Y coordinate to negative twenty point six", "type": 18}
+{"id": 381, "text": "galvanometer coordinate system Y axis changed to +20.5", "type": 18}
+{"id": 382, "text": "set galvanometer Y axis value to negative 10", "type": 18}
+{"id": 383, "text": "set scanner Y axis coordinate to 20.5", "type": 18}
+{"id": 384, "text": "set galvanometer Y value to negative twenty point six", "type": 18}
+{"id": 385, "text": "set scanner Y axis to -10", "type": 18}
+{"id": 386, "text": "galvanometer coordinate system Z axis coordinate set to 10.5", "type": 18}
+{"id": 387, "text": "set scanner Z axis coordinate to -15.2", "type": 18}
+{"id": 388, "text": "set galvanometer Z coordinate to 5", "type": 18}
+{"id": 389, "text": "set galvanometer coordinate system Z axis to negative twenty point three", "type": 18}
+{"id": 390, "text": "set scanner Z value to 0", "type": 18}
+{"id": 391, "text": "galvanometer Z axis coordinate changed to -5.6", "type": 18}
+{"id": 392, "text": "set camera coordinate system X axis to 0", "type": 18}
+{"id": 393, "text": "camera X coordinate reset to -10.5", "type": 18}
+{"id": 394, "text": "change camera coordinate system X value to +15.2", "type": 18}
+{"id": 395, "text": "set camera X axis coordinate to zero", "type": 18}
+{"id": 396, "text": "camera X value adjusted to negative 25.3", "type": 18}
+{"id": 397, "text": "set camera coordinate system X axis to 30.0", "type": 18}
+{"id": 398, "text": "set camera Y axis coordinate to -12.4", "type": 18}
+{"id": 399, "text": "camera coordinate system Y value changed to +25.1", "type": 18}
+{"id": 400, "text": "camera Y axis value adjusted to negative 5", "type": 18}
+{"id": 401, "text": "set camera Y coordinate to +10.5", "type": 18}
+{"id": 402, "text": "change camera coordinate system Y axis to -18.2", "type": 18}
+{"id": 403, "text": "camera Y value set to +20", "type": 18}
+{"id": 404, "text": "set camera coordinate system Z value to 15.5", "type": 18}
+{"id": 405, "text": "camera Z axis coordinate adjusted to -7.8", "type": 18}
+{"id": 406, "text": "set camera Z value to zero", "type": 18}
+{"id": 407, "text": "adjust camera coordinate system Z value to -12.5", "type": 18}
+{"id": 408, "text": "camera Z axis set to +8.6", "type": 18}
+{"id": 409, "text": "switch coordinate system", "type": 19}
+{"id": 410, "text": "switch to scanner coordinate system", "type": 19}
+{"id": 411, "text": "switch to camera coordinate system", "type": 19}
+{"id": 412, "text": "change to galvanometer as origin", "type": 19}
+{"id": 413, "text": "change to camera as origin", "type": 19}
+{"id": 414, "text": "use scanner as origin", "type": 19}
+{"id": 415, "text": "use camera as origin", "type": 19}
+{"id": 416, "text": "change to galvanometer coordinate system", "type": 19}
+{"id": 417, "text": "switch to camera coordinate system", "type": 19}
+{"id": 418, "text": "set current coordinate system to galvanometer coordinate system", "type": 19}
+{"id": 419, "text": "adjust coordinate system to camera coordinate system", "type": 19}
+{"id": 420, "text": "use scanner coordinate system as current coordinate system", "type": 19}
+{"id": 421, "text": "use camera coordinate system as reference coordinate system", "type": 19}
+{"id": 422, "text": "switch coordinate origin to galvanometer", "type": 19}
+{"id": 423, "text": "switch coordinate origin to camera", "type": 19}
+{"id": 424, "text": "set scanner as coordinate system origin", "type": 19}
+{"id": 425, "text": "set camera as coordinate system origin", "type": 19}
+{"id": 426, "text": "use galvanometer as reference coordinate system", "type": 19}
+{"id": 427, "text": "use camera as reference coordinate system", "type": 19}
+{"id": 428, "text": "change reference origin to scanner", "type": 19}
+{"id": 429, "text": "change reference origin to camera", "type": 19}
+{"id": 430, "text": "switch coordinate system to galvanometer coordinate system", "type": 19}
+{"id": 431, "text": "switch coordinate system to camera coordinate system", "type": 19}
+{"id": 432, "text": "use galvanometer as coordinate origin", "type": 19}
+{"id": 433, "text": "use camera as coordinate origin", "type": 19}
+{"id": 434, "text": "tool retract enable", "type": 20}
+{"id": 435, "text": "activate tool retract enable", "type": 20}
+{"id": 436, "text": "turn on tool retract enable", "type": 20}
+{"id": 437, "text": "turn off tool retract enable", "type": 20}
+{"id": 438, "text": "deactivate tool retract enable", "type": 20}
+{"id": 439, "text": "enable tool retract", "type": 20}
+{"id": 440, "text": "tool retract distance", "type": 21}
+{"id": 441, "text": "modify tool retract distance", "type": 21}
+{"id": 442, "text": "adjust tool retract distance", "type": 21}
+{"id": 443, "text": "adjust tool retract distance to 200", "type": 21}
+{"id": 444, "text": "set tool retract distance to one hundred fifty", "type": 21}
+{"id": 445, "text": "set tool retract distance to 270", "type": 21}
+{"id": 446, "text": "change tool retract distance to 150", "type": 21}
+{"id": 447, "text": "set tool retract distance to 200", "type": 21}
+{"id": 448, "text": "adjust tool retract distance to two hundred", "type": 21}
+{"id": 449, "text": "set tool retract distance to 150", "type": 21}
+{"id": 450, "text": "adjust tool retract distance to 270", "type": 21}
+{"id": 451, "text": "change tool retract distance value to 150", "type": 21}
+{"id": 452, "text": "set tool retract distance to 200", "type": 21}
+{"id": 453, "text": "tool movement", "type": 22}
+{"id": 454, "text": "move tool X axis by one unit", "type": 22}
+{"id": 455, "text": "move tool Y axis by twenty units", "type": 22}
+{"id": 456, "text": "move tool Z axis in positive direction by 34 units", "type": 22}
+{"id": 457, "text": "move tool X axis in forward direction by one unit", "type": 22}
+{"id": 458, "text": "move tool Y axis in negative direction by four units", "type": 22}
+{"id": 459, "text": "tool Z axis move -22", "type": 22}
+{"id": 460, "text": "tool X positive direction move 34", "type": 22}
+{"id": 461, "text": "tool Y backward direction move 29", "type": 22}
+{"id": 462, "text": "move tool Z negative fourteen", "type": 22}
+{"id": 463, "text": "tool X positive direction move 38", "type": 22}
+{"id": 464, "text": "move tool X axis in forward direction by 17 units", "type": 22}
+{"id": 465, "text": "tool X axis in backward direction move six units", "type": 22}
+{"id": 466, "text": "tool X axis move to 43", "type": 22}
+{"id": 467, "text": "move tool Z to absolute coordinate 40", "type": 22}
+{"id": 468, "text": "move tool Y axis to coordinate -22", "type": 22}
+{"id": 469, "text": "tool third axis move to 33", "type": 22}
+{"id": 470, "text": "move tool first axis to fifty", "type": 22}
+{"id": 471, "text": "tool X move to absolute coordinate 89", "type": 22}
+{"id": 472, "text": "move tool Y axis to -21", "type": 22}
+{"id": 473, "text": "tool Z move to +44", "type": 22}
+{"id": 474, "text": "move tool X axis to +13", "type": 22}
+{"id": 475, "text": "move tool Y axis to -16", "type": 22}
+{"id": 476, "text": "move tool X to absolute position 45", "type": 22}
+{"id": 477, "text": "move tool Y axis in negative direction by 3 units", "type": 22}
+{"id": 478, "text": "move tool first axis to absolute coordinate 72", "type": 22}
+{"id": 479, "text": "move tool third axis to 18", "type": 22}
+{"id": 480, "text": "move tool X axis to absolute coordinate -15", "type": 22}
+{"id": 481, "text": "move tool Z axis in positive direction by 9 units", "type": 22}
+{"id": 482, "text": "move tool Y axis to absolute coordinate 25", "type": 22}
+{"id": 483, "text": "move tool X axis in backward direction by 5", "type": 22}
+{"id": 484, "text": "move tool Z axis to 31", "type": 22}
+{"id": 485, "text": "move tool X axis in forward direction by 10 units", "type": 22}
+{"id": 486, "text": "move tool Y axis to -13", "type": 22}
+{"id": 487, "text": "processing parameter settings", "type": 23}
+{"id": 488, "text": "processing count settings", "type": 23}
+{"id": 489, "text": "adjust processing count", "type": 23}
+{"id": 490, "text": "parameter id settings", "type": 23}
+{"id": 491, "text": "adjust parameter ID", "type": 23}
+{"id": 492, "text": "modify parameter number", "type": 23}
+{"id": 493, "text": "contour parameter id settings", "type": 23}
+{"id": 494, "text": "adjust contour parameter ID", "type": 23}
+{"id": 495, "text": "modify contour parameter number", "type": 23}
+{"id": 496, "text": "set contour scanning", "type": 23}
+{"id": 497, "text": "contour scanning options", "type": 23}
+{"id": 498, "text": "contour pass count settings", "type": 23}
+{"id": 499, "text": "adjust contour count", "type": 23}
+{"id": 500, "text": "modify contour count", "type": 23}
+{"id": 501, "text": "set processing count to 1", "type": 23}
+{"id": 502, "text": "set processing count to 2", "type": 23}
+{"id": 503, "text": "set processing loop count to 3", "type": 23}
+{"id": 504, "text": "increase processing loop count to 4", "type": 23}
+{"id": 505, "text": "set processing count to 5", "type": 23}
+{"id": 506, "text": "update processing count to 6", "type": 23}
+{"id": 507, "text": "reduce processing count to 2", "type": 23}
+{"id": 508, "text": "set parameter id to 10", "type": 23}
+{"id": 509, "text": "adjust parameter ID to 12", "type": 23}
+{"id": 510, "text": "set parameter ID to 20", "type": 23}
+{"id": 511, "text": "change parameter number to 15", "type": 23}
+{"id": 512, "text": "set parameter ID to 18", "type": 23}
+{"id": 513, "text": "adjust parameter number to 22", "type": 23}
+{"id": 514, "text": "set contour parameter ID to 15", "type": 23}
+{"id": 515, "text": "set contour parameter number to 20", "type": 23}
+{"id": 516, "text": "change contour parameter ID to 25", "type": 23}
+{"id": 517, "text": "adjust contour parameter id to 30", "type": 23}
+{"id": 518, "text": "set contour parameter number to 35", "type": 23}
+{"id": 519, "text": "set contour parameter ID to 40", "type": 23}
+{"id": 520, "text": "do not scan contour", "type": 23}
+{"id": 521, "text": "do not perform contour scan", "type": 23}
+{"id": 522, "text": "skip contour scanning step", "type": 23}
+{"id": 523, "text": "contour does not need scanning", "type": 23}
+{"id": 524, "text": "contour scanning feature disabled", "type": 23}
+{"id": 525, "text": "scan contour first", "type": 23}
+{"id": 526, "text": "perform contour scan first", "type": 23}
+{"id": 527, "text": "prioritize contour scanning", "type": 23}
+{"id": 528, "text": "set contour scan as priority step", "type": 23}
+{"id": 529, "text": "scan contour first", "type": 23}
+{"id": 530, "text": "scan contour later", "type": 23}
+{"id": 531, "text": "scan contour afterwards", "type": 23}
+{"id": 532, "text": "set contour scan as final step", "type": 23}
+{"id": 533, "text": "deferred contour scanning", "type": 23}
+{"id": 534, "text": "postpone contour scanning step", "type": 23}
+{"id": 535, "text": "set contour count to 14", "type": 23}
+{"id": 536, "text": "set contour count to 16", "type": 23}
+{"id": 537, "text": "adjust contour scan count to 18", "type": 23}
+{"id": 538, "text": "set contour scan loops to 20", "type": 23}
+{"id": 539, "text": "change contour count to 22", "type": 23}
+{"id": 540, "text": "update contour count to 24", "type": 23}
+{"id": 541, "text": "positioning parameter settings", "type": 23}
+{"id": 542, "text": "workpiece position adjustment", "type": 23}
+{"id": 543, "text": "modify workpiece X value", "type": 23}
+{"id": 544, "text": "set workpiece position Y", "type": 23}
+{"id": 545, "text": "reset workpiece Z value", "type": 23}
+{"id": 546, "text": "adjust workpiece position alpha", "type": 23}
+{"id": 547, "text": "assign value to workpiece beta", "type": 23}
+{"id": 548, "text": "workpiece gamma value", "type": 23}
+{"id": 549, "text": "set workpiece X axis position to 0", "type": 23}
+{"id": 550, "text": "change workpiece X coordinate to +10.5", "type": 23}
+{"id": 551, "text": "set workpiece X value to -20.3", "type": 23}
+{"id": 552, "text": "adjust workpiece X axis coordinate to zero", "type": 23}
+{"id": 553, "text": "set workpiece X coordinate to +15.6", "type": 23}
+{"id": 554, "text": "set workpiece X value to -5.4", "type": 23}
+{"id": 555, "text": "change workpiece X axis to 30.0", "type": 23}
+{"id": 556, "text": "set workpiece X coordinate to -12.7", "type": 23}
+{"id": 557, "text": "adjust workpiece X value to 25.3", "type": 23}
+{"id": 558, "text": "set workpiece X axis value to -30.5", "type": 23}
+{"id": 559, "text": "set workpiece Y coordinate to -5.2", "type": 23}
+{"id": 560, "text": "set workpiece Y coordinate to +15.8", "type": 23}
+{"id": 561, "text": "set workpiece Y coordinate to -10.5", "type": 23}
+{"id": 562, "text": "set workpiece Y axis position to 0", "type": 23}
+{"id": 563, "text": "set workpiece Y axis value to +20.1", "type": 23}
+{"id": 564, "text": "adjust workpiece Y axis coordinate to -25.4", "type": 23}
+{"id": 565, "text": "set workpiece Y value to +5.6", "type": 23}
+{"id": 566, "text": "set workpiece Y coordinate to -12.3", "type": 23}
+{"id": 567, "text": "change workpiece Y axis coordinate to +10.0", "type": 23}
+{"id": 568, "text": "adjust workpiece Y value to -18.7", "type": 23}
+{"id": 569, "text": "set workpiece Z axis position to +8.5", "type": 23}
+{"id": 570, "text": "set workpiece Z axis coordinate to -10.2", "type": 23}
+{"id": 571, "text": "set workpiece Z value to 0", "type": 23}
+{"id": 572, "text": "adjust workpiece Z axis to +5.3", "type": 23}
+{"id": 573, "text": "set workpiece Z coordinate to -20.1", "type": 23}
+{"id": 574, "text": "set workpiece Z axis coordinate to +12.5", "type": 23}
+{"id": 575, "text": "adjust workpiece Z axis coordinate to -7.8", "type": 23}
+{"id": 576, "text": "set workpiece Z axis value to +3.9", "type": 23}
+{"id": 577, "text": "change workpiece Z coordinate to zero", "type": 23}
+{"id": 578, "text": "set workpiece Z value to -15.6", "type": 23}
+{"id": 579, "text": "set workpiece alpha axis to +5.5", "type": 23}
+{"id": 580, "text": "adjust workpiece α coordinate to -10.1", "type": 23}
+{"id": 581, "text": "set workpiece alpha value to zero", "type": 23}
+{"id": 582, "text": "set workpiece α axis to +12.3", "type": 23}
+{"id": 583, "text": "set workpiece alpha axis to -7.6", "type": 23}
+{"id": 584, "text": "adjust workpiece α coordinate to +15.0", "type": 23}
+{"id": 585, "text": "set workpiece alpha value to -3.2", "type": 23}
+{"id": 586, "text": "set workpiece α axis to +20.5", "type": 23}
+{"id": 587, "text": "set workpiece alpha to -8.9", "type": 23}
+{"id": 588, "text": "change workpiece α coordinate to zero", "type": 23}
+{"id": 589, "text": "set workpiece beta axis to +10.5", "type": 23}
+{"id": 590, "text": "adjust workpiece β axis to -5.7", "type": 23}
+{"id": 591, "text": "set workpiece beta coordinate to zero", "type": 23}
+{"id": 592, "text": "set workpiece β value to +25.3", "type": 23}
+{"id": 593, "text": "adjust workpiece beta axis to -12.1", "type": 23}
+{"id": 594, "text": "set workpiece β axis to +8.4", "type": 23}
+{"id": 595, "text": "set workpiece beta value to -6.0", "type": 23}
+{"id": 596, "text": "change workpiece β axis to +15.0", "type": 23}
+{"id": 597, "text": "set workpiece beta coordinate to -10.9", "type": 23}
+{"id": 598, "text": "adjust workpiece β value to +5.1", "type": 23}
+{"id": 599, "text": "set workpiece γ axis to -12.5", "type": 23}
+{"id": 600, "text": "set workpiece gamma coordinate to +7.2", "type": 23}
+{"id": 601, "text": "set workpiece γ value to zero", "type": 23}
+{"id": 602, "text": "set workpiece gamma axis to -8.3", "type": 23}
+{"id": 603, "text": "adjust workpiece γ coordinate to +10.4", "type": 23}
+{"id": 604, "text": "set workpiece gamma value to -6.7", "type": 23}
+{"id": 605, "text": "set workpiece γ coordinate to +14.5", "type": 23}
+{"id": 606, "text": "set workpiece gamma axis value to zero", "type": 23}
+{"id": 607, "text": "adjust workpiece γ coordinate to +3.9", "type": 23}
+{"id": 608, "text": "set workpiece gamma axis to -9.0", "type": 23}
+{"id": 609, "text": "marking mode settings", "type": 23}
+{"id": 610, "text": "marking mode: by zone", "type": 23}
+{"id": 611, "text": "marking mode: by cell", "type": 23}
+{"id": 612, "text": "select partition marking mode", "type": 23}
+{"id": 613, "text": "select cell marking mode", "type": 23}
+{"id": 614, "text": "marking mode set to zone", "type": 23}
+{"id": 615, "text": "marking mode set to cell", "type": 23}
+{"id": 616, "text": "partition marking", "type": 23}
+{"id": 617, "text": "cell marking", "type": 23}
+{"id": 618, "text": "switch marking mode to zone", "type": 23}
+{"id": 619, "text": "choose partition marking", "type": 23}
+{"id": 620, "text": "set marking to zone mode", "type": 23}
+{"id": 621, "text": "enable partition marking mode", "type": 23}
+{"id": 622, "text": "marking method set to zone", "type": 23}
+{"id": 623, "text": "set marking method to partition marking", "type": 23}
+{"id": 624, "text": "perform marking in zone mode", "type": 23}
+{"id": 625, "text": "marking mode selected: cell mode", "type": 23}
+{"id": 626, "text": "switch marking mode to cell mode", "type": 23}
+{"id": 627, "text": "select cell mode marking", "type": 23}
+{"id": 628, "text": "set marking to cell mode", "type": 23}
+{"id": 629, "text": "enable cell marking mode", "type": 23}
+{"id": 630, "text": "marking method set to cell", "type": 23}
+{"id": 631, "text": "set marking method to cell marking", "type": 23}
+{"id": 632, "text": "perform marking in cell mode", "type": 23}
+{"id": 633, "text": "start processing", "type": 24}
+{"id": 634, "text": "start processing workflow", "type": 24}
+{"id": 635, "text": "start processing file", "type": 24}
+{"id": 636, "text": "initiate processing", "type": 24}
+{"id": 637, "text": "start processing workflow", "type": 24}
+{"id": 638, "text": "begin execution of processing", "type": 24}
+{"id": 639, "text": "start processing task", "type": 24}
+{"id": 640, "text": "start processing file handling", "type": 24}
+{"id": 641, "text": "pause processing", "type": 24}
+{"id": 642, "text": "pause processing workflow", "type": 24}
+{"id": 643, "text": "pause processing file", "type": 24}
+{"id": 644, "text": "pause current processing", "type": 24}
+{"id": 645, "text": "interrupt processing operation", "type": 24}
+{"id": 646, "text": "temporarily stop processing", "type": 24}
+{"id": 647, "text": "pause processing task", "type": 24}
+{"id": 648, "text": "pause processing file handling", "type": 24}
+{"id": 649, "text": "resume processing", "type": 24}
+{"id": 650, "text": "resume processing workflow", "type": 24}
+{"id": 651, "text": "resume processing file", "type": 24}
+{"id": 652, "text": "restore processing", "type": 24}
+{"id": 653, "text": "continue execution of processing", "type": 24}
+{"id": 654, "text": "restore processing workflow", "type": 24}
+{"id": 655, "text": "continue processing operations", "type": 24}
+{"id": 656, "text": "continue processing file handling", "type": 24}
+{"id": 657, "text": "restore processing file handling", "type": 24}
+{"id": 658, "text": "terminate processing", "type": 24}
+{"id": 659, "text": "abort processing", "type": 24}
+{"id": 660, "text": "terminate processing workflow", "type": 24}
+{"id": 661, "text": "abort processing workflow", "type": 24}
+{"id": 662, "text": "terminate processing file", "type": 24}
+{"id": 663, "text": "abort processing file", "type": 24}
+{"id": 664, "text": "stop processing operation", "type": 24}
+{"id": 665, "text": "terminate current processing task", "type": 24}
+{"id": 666, "text": "abort processing workflow", "type": 24}
+{"id": 667, "text": "stop processing workflow", "type": 24}
+{"id": 668, "text": "terminate processing file handling", "type": 24}
+{"id": 669, "text": "abort processing file handling", "type": 24}
+{"id": 670, "text": "end processing", "type": 24}
+{"id": 671, "text": "end processing workflow", "type": 24}
+{"id": 672, "text": "stop processing file operation", "type": 24}

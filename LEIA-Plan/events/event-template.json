@@ -1,0 +1,29 @@
+{"event_id": 1, "event_type": "Machine-File", "role_list": [{"role": "Path"}], "class": "Machine"}
+{"event_id": 2, "event_type": "Machine-Connect", "role_list": [{"role": "Type"}, {"role": "Address"}, {"role": "Port"}, {"role": "Switch"}], "class": "Machine"}
+{"event_id": 3, "event_type": "Machine-AxisConfig", "role_list": [{"role": "Axis"}, {"role": "Speed"}, {"role": "Offset"}], "class": "Machine"}
+{"event_id": 4, "event_type": "Machine-Parameters", "role_list": [{"role": "Variable"}, {"role": "Value"}], "class": "Machine"}
+{"event_id": 5, "event_type": "Machine-AxisEnable", "role_list": [{"role": "Axis"}, {"role": "Switch"}], "class": "Machine"}
+{"event_id": 6, "event_type": "Machine-Move", "role_list": [{"role": "Axis"}, {"role": "Direction"}, {"role": "Distance"}, {"role": "Coordinate"}], "class": "Machine"}
+{"event_id": 7, "event_type": "Machine-Home", "role_list": [{"role": "Axis"}], "class": "Machine"}
+{"event_id": 8, "event_type": "Machine-Stop", "role_list": [{"role": "Switch"}], "class": "Machine"}
+
+{"event_id": 9, "event_type": "Board-File", "role_list": [{"role": "Path"}], "class": "Board"}
+{"event_id": 10, "event_type": "Board-Connect", "role_list": [{"role": "Type"}, {"role": "Mode"}], "class": "Board"}
+{"event_id": 11, "event_type": "Board-Parameters", "role_list": [{"role": "Variable"}, {"role": "Value"}], "class": "Board"}
+{"event_id": 12, "event_type": "Board-Offset", "role_list": [{"role": "Variable"}, {"role": "Value"}], "class": "Board"}
+
+{"event_id": 13, "event_type": "Camera-File", "role_list": [{"role": "Path"}], "class": "Camera"}
+{"event_id": 14, "event_type": "Camera-Select", "role_list": [{"role": "Type"}], "class": "Camera"}
+
+{"event_id": 15, "event_type": "Laser-Connect", "role_list": [{"role": "Type"}, {"role": "Mode"}, {"role": "Address"}, {"role": "Port"}], "class": "Laser"}
+{"event_id": 16, "event_type": "Laser-Operate", "role_list": [{"role": "Event"}, {"role": "Switch"}], "class": "Laser"}
+{"event_id": 17, "event_type": "Laser-Parameters", "role_list": [{"role": "Variable"}, {"role": "Value"}], "class": "Laser"}
+
+{"event_id": 18, "event_type": "Tool-Parameters", "role_list": [{"role": "System"}, {"role": "Axis"}, {"role": "Value"}], "class": "Tool"}
+{"event_id": 19, "event_type": "Tool-Switch", "role_list": [{"role": "System"}], "class": "Tool"}
+{"event_id": 20, "event_type": "Tool-RetractEnable", "role_list": [{"role": "Switch"}], "class": "Tool"}
+{"event_id": 21, "event_type": "Tool-RetractDistance", "role_list": [{"role": "Value"}], "class": "Tool"}
+{"event_id": 22, "event_type": "Tool-Move", "role_list": [{"role": "Axis"}, {"role": "Direction"}, {"role": "Distance"}, {"role": "Coordinate"}], "class": "Tool"}
+
+{"event_id": 23, "event_type": "Process-Parameters", "role_list": [{"role": "Variable"}, {"role": "Value"}, {"role": "Option"}], "class": "Process"}
+{"event_id": 24, "event_type": "Process-Operate", "role_list": [{"role": "Event"}, {"role": "Switch"}], "class": "Process"}

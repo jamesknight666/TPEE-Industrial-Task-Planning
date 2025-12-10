@@ -4,9 +4,9 @@
  <img src="fig/method.png" style="display:block;margin:0 auto;max-width:90%;height:auto;">
 
  ## 📝 LEIA-Plan
-[LEIA-Plan](./LEIA-Plan/) is a laser-etching industrial dataset of atomic events and multi-step workflows, constructed from real operational scenarios involving five-axis CNC machines, dynamic-focusing galvanometers, and pulsed fiber lasers.
+[LEIA-Plan](./LEIA-Plan/README.md) is a laser-etching industrial dataset of atomic events and multi-step workflows, constructed from real operational scenarios involving five-axis CNC machines, dynamic-focusing galvanometers, and pulsed fiber lasers.
 
-⏳*Details will be updated soon.*
+⏳*Details will be continuously updated.*
 
 ## 💬 Prompt
 [task-decomposition-prompt](prompts/task-decomposition-prompt.txt) is used in Prompt Composition Module and Plan Sampling Module in TPEE for sampling candidate atomic-event sequences.
