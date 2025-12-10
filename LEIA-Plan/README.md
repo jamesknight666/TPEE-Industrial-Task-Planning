@@ -2,7 +2,7 @@
 LEIA-Plan is a laser-etching industrial dataset of atomic events and multi-step workflows, constructed from real operational scenarios involving five-axis CNC machines, dynamic-focusing galvanometers, and pulsed fiber lasers.
 
 ## Events
-A large number of specific atomic operation commands from laser etching industrial processing scenarios were analyzed and summarized in [events]{./events/}.
+A large number of specific atomic operation commands from laser etching industrial processing scenarios were analyzed and summarized in [events](./events/).
 
 [event-template](events/event-template.json) contains 24 types of event templates, including their categories and parameters. Its wording differs slightly from the *Global Information* in prompts used in TPEE. The table below shows the correspondence between them.
 
