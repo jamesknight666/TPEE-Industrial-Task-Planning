@@ -1,6 +1,8 @@
 # TPEE: Event-Structured LLM Planning for Continuous-Parameter Industrial Workflows
 ✨This repository contains the implementation of TPEE framework and details of the dataset LEIA-Plan in **"TPEE: Event-Structured LLM Planning for Continuous-Parameter Industrial Workflows"** (*Submitted to ICAPS 2026*).
 
+>💡 If any link blow takes a long time to load on Anonymous GitHub, please open all folders on the left first and then try again.
+
  <img src="fig/method.png" style="display:block;margin:0 auto;max-width:90%;height:auto;">
 
  ## 📝 LEIA-Plan
@@ -16,8 +18,6 @@
 [plan-select-prompt](prompts/plan-select-prompt.txt) is prompt for selecting initial atomic-event sequence from candidate atomic-event sequences in Plan Sampling Module. And [plan-select-prompt-no-exp](prompts/plan-select-prompt-no-exp.txt) is the one without *Explanations Inclusion*.
 
 [plan-rewrite-prompt](prompts/plan-rewrite-prompt.txt) is the sequence-revision prompt for *rewriting process* in Plan Rewrite Module. [plan-rewrite-prompt-no-exp](prompts/plan-rewrite-prompt-no-exp.txt) is the one without *Explanations Inclusion*.
-
->💡 If the link above takes a long time to load on Anonymous GitHub, please open the **prompts** folder on the left first and then try again.
 
  ## 💻 Code
 🚧 *Work in progress — updates will be added soon.*
