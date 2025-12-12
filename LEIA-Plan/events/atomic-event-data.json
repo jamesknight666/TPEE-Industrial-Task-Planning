@@ -1,489 +1,489 @@
-{"id": 1, "text": "connect machine tool", "type": 2}
-{"id": 2, "text": "disconnect machine tool", "type": 2}
-{"id": 3, "text": "connect to this machine tool", "type": 2}
-{"id": 4, "text": "disconnect from this machine tool", "type": 2}
-{"id": 5, "text": "establish machine tool connection", "type": 2}
-{"id": 6, "text": "terminate machine tool connection", "type": 2}
-{"id": 7, "text": "connect machine", "type": 2}
-{"id": 8, "text": "disconnect machine connection", "type": 2}
-{"id": 9, "text": "disconnect this machine tool", "type": 2}
-{"id": 10, "text": "connect to this machine", "type": 2}
-{"id": 11, "text": "terminate machine connection", "type": 2}
-{"id": 12, "text": "enable X axis", "type": 5}
-{"id": 13, "text": "turn on X axis enable", "type": 5}
-{"id": 14, "text": "activate X axis enable", "type": 5}
-{"id": 15, "text": "turn on X axis motor", "type": 5}
-{"id": 16, "text": "start X axis enable", "type": 5}
-{"id": 17, "text": "enable Y axis", "type": 5}
-{"id": 18, "text": "enable Z axis", "type": 5}
-{"id": 19, "text": "disable first axis", "type": 5}
-{"id": 20, "text": "turn off first axis motor", "type": 5}
-{"id": 21, "text": "deactivate first axis enable", "type": 5}
-{"id": 22, "text": "disable second axis", "type": 5}
-{"id": 23, "text": "disable third axis", "type": 5}
-{"id": 24, "text": "move X axis by one unit", "type": 6}
-{"id": 25, "text": "move Y axis by twenty units", "type": 6}
-{"id": 26, "text": "move Z axis 34 units", "type": 6}
-{"id": 27, "text": "move X axis in positive direction by one unit", "type": 6}
-{"id": 28, "text": "move Y axis in negative direction by 4 units", "type": 6}
-{"id": 29, "text": "move Z axis 22", "type": 6}
-{"id": 30, "text": "X axis move forward 34", "type": 6}
-{"id": 31, "text": "Y axis move -29", "type": 6}
-{"id": 32, "text": "Z move 14", "type": 6}
-{"id": 33, "text": "X move +38", "type": 6}
-{"id": 34, "text": "move X axis in positive direction by seventeen units", "type": 6}
-{"id": 35, "text": "move X axis backwards 6 units", "type": 6}
-{"id": 36, "text": "move X axis to position 43", "type": 6}
-{"id": 37, "text": "move Z axis to coordinate 40", "type": 6}
-{"id": 38, "text": "move Y axis to -22", "type": 6}
-{"id": 39, "text": "move third axis to 33", "type": 6}
-{"id": 40, "text": "move first axis to 50", "type": 6}
-{"id": 41, "text": "X move to 89", "type": 6}
-{"id": 42, "text": "Y axis move to negative 21", "type": 6}
-{"id": 43, "text": "Z move to +44", "type": 6}
-{"id": 44, "text": "X axis move to coordinate positive thirteen", "type": 6}
-{"id": 45, "text": "Y move to negative sixteen", "type": 6}
-{"id": 46, "text": "set machine formula", "type": 1}
-{"id": 47, "text": "machine formula setup", "type": 1}
-{"id": 48, "text": "machine formula", "type": 1}
-{"id": 49, "text": "select machine formula", "type": 1}
-{"id": 50, "text": "machine formula selection", "type": 1}
-{"id": 51, "text": "select machine formula file", "type": 1}
-{"id": 52, "text": "configure machine formula file", "type": 1}
-{"id": 53, "text": "set machine formula file to: \"C:\\Users\\JamesKing\\XYC-ZB_0826_XYZcompensated_02.fml\"", "type": 1}
-{"id": 54, "text": "configure machine formula file as: C:\\Users\\JamesKing\\XYC.fml", "type": 1}
-{"id": 55, "text": "machine formula is D:\\gongshi\\formula.fml", "type": 1}
-{"id": 56, "text": "specify machine formula as D:\\gongshi\\formula.fml", "type": 1}
-{"id": 57, "text": "current machine formula file path is: C:\\Users\\JamesKing\\XYC.fml", "type": 1}
-{"id": 58, "text": "machine formula file selected as: D:\\gongshi\\formula.fml", "type": 1}
-{"id": 59, "text": "disconnect Beckhoff machine", "type": 2}
-{"id": 60, "text": "disconnect Beckhoff machine tool", "type": 2}
-{"id": 61, "text": "disconnect simulation machine connection", "type": 2}
-{"id": 62, "text": "disconnect simu machine", "type": 2}
-{"id": 63, "text": "disconnect simulation machine", "type": 2}
-{"id": 64, "text": "disconnect simu machine connection", "type": 2}
-{"id": 65, "text": "connect Beckhoff machine, IP 192.168.31.193.1.1, port 851", "type": 2}
-{"id": 66, "text": "connect Beckhoff machine tool, IP: 192.168.31.193.1.1, Port: 851", "type": 2}
-{"id": 67, "text": "connect simulation machine, IP is 10.0.0.100, port is 701", "type": 2}
-{"id": 68, "text": "establish simu machine connection, IP address 192.168.1.1, port 701", "type": 2}
-{"id": 69, "text": "connect to Beckhoff machine, IP 10.1.9.8.2, port 17", "type": 2}
-{"id": 70, "text": "connect to Beckhoff machine tool, IP set to 192.168.1.1, port set to 22", "type": 2}
-{"id": 71, "text": "set axis speed", "type": 3}
-{"id": 72, "text": "adjust origin offset", "type": 3}
-{"id": 73, "text": "configure origin offset", "type": 3}
-{"id": 74, "text": "adjust origin offset value", "type": 3}
-{"id": 75, "text": "set X speed", "type": 3}
-{"id": 76, "text": "configure X axis movement speed", "type": 3}
-{"id": 77, "text": "set second axis origin offset", "type": 3}
-{"id": 78, "text": "adjust second axis origin offset value", "type": 3}
-{"id": 79, "text": "X axis speed is 16", "type": 3}
-{"id": 80, "text": "X speed is 300", "type": 3}
-{"id": 81, "text": "adjust X speed to 30", "type": 3}
-{"id": 82, "text": "set first axis speed to 33", "type": 3}
-{"id": 83, "text": "Y axis speed is 26", "type": 3}
-{"id": 84, "text": "change second axis speed to 256", "type": 3}
-{"id": 85, "text": "set Z speed to 80", "type": 3}
-{"id": 86, "text": "set X origin offset to -22.5", "type": 3}
-{"id": 87, "text": "configure X axis origin offset to 30", "type": 3}
-{"id": 88, "text": "first axis origin offset is ninety-eight", "type": 3}
-{"id": 89, "text": "Y origin offset is negative 34", "type": 3}
-{"id": 90, "text": "set Y origin offset to -77", "type": 3}
-{"id": 91, "text": "Z axis origin offset is -90", "type": 3}
-{"id": 92, "text": "machine structure parameters", "type": 4}
-{"id": 93, "text": "configure machine structure parameters", "type": 4}
-{"id": 94, "text": "set machine structure parameters", "type": 4}
-{"id": 95, "text": "set machine structure parameter XTB to 40", "type": 4}
-{"id": 96, "text": "machine structure parameter XTC is +39", "type": 4}
-{"id": 97, "text": "change machine structure parameter YTA to ninety-eight", "type": 4}
-{"id": 98, "text": "set machine structure parameter YTC to negative 44", "type": 4}
-{"id": 99, "text": "machine structure parameter ZTA set to -800", "type": 4}
-{"id": 100, "text": "adjust machine structure parameter ZTB to positive thirty", "type": 4}
-{"id": 101, "text": "machine structure parameter ATB changed to 700", "type": 4}
-{"id": 102, "text": "adjust machine structure parameter ATC to negative 40", "type": 4}
-{"id": 103, "text": "machine structure parameter BTC modified to positive 22", "type": 4}
-{"id": 104, "text": "machine structure parameter ATW set to 600", "type": 4}
-{"id": 105, "text": "machine structure parameter BTW assigned -20", "type": 4}
-{"id": 106, "text": "machine structure parameter CTW given value 100", "type": 4}
-{"id": 107, "text": "return home", "type": 7}
-{"id": 108, "text": "axis homing", "type": 7}
-{"id": 109, "text": "first axis return to zero", "type": 7}
-{"id": 110, "text": "X axis homing", "type": 7}
-{"id": 111, "text": "home X axis", "type": 7}
-{"id": 112, "text": "return X axis to zero", "type": 7}
-{"id": 113, "text": "home X", "type": 7}
-{"id": 114, "text": "return X axis to origin", "type": 7}
-{"id": 115, "text": "reset X axis to zero position", "type": 7}
-{"id": 116, "text": "execute X axis homing", "type": 7}
-{"id": 117, "text": "zero X axis", "type": 7}
-{"id": 118, "text": "execute second axis homing operation", "type": 7}
-{"id": 119, "text": "Y axis homing", "type": 7}
-{"id": 120, "text": "home Y axis", "type": 7}
-{"id": 121, "text": "return Y axis to zero", "type": 7}
-{"id": 122, "text": "home Y", "type": 7}
-{"id": 123, "text": "reset Y axis to origin", "type": 7}
-{"id": 124, "text": "return Y axis to zero position", "type": 7}
-{"id": 125, "text": "execute Y axis homing operation", "type": 7}
-{"id": 126, "text": "set Y axis to zero position", "type": 7}
-{"id": 127, "text": "third axis homing", "type": 7}
-{"id": 128, "text": "Z axis homing", "type": 7}
-{"id": 129, "text": "home Z axis", "type": 7}
-{"id": 130, "text": "return Z axis to zero", "type": 7}
-{"id": 131, "text": "home Z", "type": 7}
-{"id": 132, "text": "return Z axis to origin position", "type": 7}
-{"id": 133, "text": "restore Z axis to zero point", "type": 7}
-{"id": 134, "text": "execute Z axis reset", "type": 7}
-{"id": 135, "text": "zero Z axis", "type": 7}
-{"id": 136, "text": "machine emergency stop", "type": 8}
-{"id": 137, "text": "stop all axes motion", "type": 8}
-{"id": 138, "text": "machine stop motion", "type": 8}
-{"id": 139, "text": "machine emergency halt", "type": 8}
-{"id": 140, "text": "stop machine", "type": 8}
-{"id": 141, "text": "halt all axes", "type": 8}
-{"id": 142, "text": "emergency stop", "type": 8}
-{"id": 143, "text": "trigger machine emergency stop", "type": 8}
-{"id": 144, "text": "immediately stop all axes", "type": 8}
-{"id": 145, "text": "immediately halt machine motion", "type": 8}
-{"id": 146, "text": "execute machine emergency stop", "type": 8}
-{"id": 147, "text": "terminate machine motion", "type": 8}
-{"id": 148, "text": "immediately stop all axis movements", "type": 8}
-{"id": 149, "text": "interrupt machine motion", "type": 8}
-{"id": 150, "text": "stop all machine operations", "type": 8}
-{"id": 151, "text": "immediately halt all axes", "type": 8}
-{"id": 152, "text": "enter machine emergency stop state", "type": 8}
-{"id": 153, "text": "stop all motion axis operations", "type": 8}
-{"id": 154, "text": "interrupt machine motion process", "type": 8}
-{"id": 155, "text": "machine halt all axis motion", "type": 8}
-{"id": 156, "text": "set scanner file", "type": 9}
-{"id": 157, "text": "control scanner correction file setup", "type": 9}
-{"id": 158, "text": "control scanner correction file", "type": 9}
-{"id": 159, "text": "select scanner correction file", "type": 9}
-{"id": 160, "text": "control scanner file selection", "type": 9}
-{"id": 161, "text": "set control scanner file path to: \"C:\\Users\\JamesKing\\XYC-ZB_0826_XYZcompensated_02.ct5\"", "type": 9}
-{"id": 162, "text": "configure scanner calibration file path to: \"C:\\Users\\JamesKing\\XYC.ct5\"", "type": 9}
-{"id": 163, "text": "specify control scanner file as: \"D:\\jiaozheng\\formula.ct5\"", "type": 9}
-{"id": 164, "text": "set control scanner correction file path to: \"D:\\file\\formula.ct5\"", "type": 9}
-{"id": 165, "text": "configure scanner file as: \"C:\\Users\\JamesKing\\XYC-ZB_0826_XYZcompensated_02.ct5\"", "type": 9}
-{"id": 166, "text": "set control scanner calibration file to: \"C:\\Users\\JamesKing\\XYC.ct5\"", "type": 9}
-{"id": 167, "text": "select scanner file path as: \"D:\\jiaozheng\\formula.ct5\"", "type": 9}
-{"id": 168, "text": "specify control scanner correction file: \"D:\\file\\formula.ct5\"", "type": 9}
-{"id": 169, "text": "set scanner file location to: \"C:\\Users\\JamesKing\\XYC-ZB_0826_XYZcompensated_02.ct5\"", "type": 9}
-{"id": 170, "text": "configure control scanner correction file to: \"D:\\file\\formula.ct5\"", "type": 9}
-{"id": 171, "text": "select control scanner calibration file path as: \"C:\\Users\\JamesKing\\XYC.ct5\"", "type": 9}
-{"id": 172, "text": "select scanner correction file: \"D:\\file\\formula.ct5\"", "type": 9}
-{"id": 173, "text": "configure scanner correction file: \"D:\\jiaozheng\\formula.ct5\"", "type": 9}
-{"id": 174, "text": "select control scanner file location: \"C:\\Users\\JamesKing\\XYC-ZB_0826_XYZcompensated_02.ct5\"", "type": 9}
-{"id": 175, "text": "select control scanner file path as: \"C:\\Users\\JamesKing\\XYC.ct5\"", "type": 9}
-{"id": 176, "text": "select scanner file: \"D:\\jiaozheng\\formula.ct5\"", "type": 9}
-{"id": 177, "text": "specify scanner correction file: \"D:\\file\\formula.ct5\"", "type": 9}
-{"id": 178, "text": "set control scanner file to: \"C:\\Users\\JamesKing\\XYC.ct5\"", "type": 9}
-{"id": 179, "text": "configure control scanner correction file to: \"D:\\file\\formula.ct5\"", "type": 9}
-{"id": 180, "text": "connect scanner", "type": 10}
-{"id": 181, "text": "disconnect control scanner connection", "type": 10}
-{"id": 182, "text": "connect galvanometer", "type": 10}
-{"id": 183, "text": "disconnect galvanometer connection", "type": 10}
-{"id": 184, "text": "connect this galvanometer to system", "type": 10}
-{"id": 185, "text": "disconnect galvanometer from system", "type": 10}
-{"id": 186, "text": "connect galvanometer device", "type": 10}
-{"id": 187, "text": "release galvanometer connection", "type": 10}
-{"id": 188, "text": "disconnect this galvanometer connection", "type": 10}
-{"id": 189, "text": "reconnect galvanometer", "type": 10}
-{"id": 190, "text": "terminate galvanometer connection", "type": 10}
-{"id": 191, "text": "connect RTC6 galvanometer, control mode set to 1", "type": 10}
-{"id": 192, "text": "connect RTC6, mode is 3", "type": 10}
-{"id": 193, "text": "disconnect RTC6 connection", "type": 10}
-{"id": 194, "text": "disconnect RTC6 galvanometer", "type": 10}
-{"id": 195, "text": "connect simulation galvanometer, control mode set to 2", "type": 10}
-{"id": 196, "text": "connect simu control card, mode set to 4", "type": 10}
-{"id": 197, "text": "release simulation galvanometer connection", "type": 10}
-{"id": 198, "text": "disconnect simu card connection", "type": 10}
-{"id": 199, "text": "connect simulation control card, set control mode to 5", "type": 10}
-{"id": 200, "text": "connect simu galvanometer, set control to 6", "type": 10}
-{"id": 201, "text": "disconnect simulation control card connection", "type": 10}
-{"id": 202, "text": "release simu galvanometer connection", "type": 10}
-{"id": 203, "text": "galvanometer parameters", "type": 11}
-{"id": 204, "text": "set galvanometer parameters", "type": 11}
-{"id": 205, "text": "control card parameters", "type": 11}
-{"id": 206, "text": "set card parameters", "type": 11}
-{"id": 207, "text": "set marking speed to 10m/s", "type": 11}
-{"id": 208, "text": "jump speed set to 30cm/s", "type": 11}
-{"id": 209, "text": "set marking-speed to 20 meters per second", "type": 11}
-{"id": 210, "text": "set jump-speed to fifteen centimeters per second", "type": 11}
-{"id": 211, "text": "laser-on-delay set to 30μs", "type": 11}
-{"id": 212, "text": "set laser on delay to 40 microseconds", "type": 11}
-{"id": 213, "text": "set laser-off-delay to twenty ms", "type": 11}
-{"id": 214, "text": "laser off delay is twenty-five milliseconds", "type": 11}
-{"id": 215, "text": "change jump-delay to 17μs", "type": 11}
-{"id": 216, "text": "set jump delay to 10 microseconds", "type": 11}
-{"id": 217, "text": "set marking-delay to 50μs", "type": 11}
-{"id": 218, "text": "set marking delay to 60 microseconds", "type": 11}
-{"id": 219, "text": "set polygon delay to 25ms", "type": 11}
-{"id": 220, "text": "polygon-delay set to 30 milliseconds", "type": 11}
-{"id": 221, "text": "first-pulse-suppression set to 100μs", "type": 11}
-{"id": 222, "text": "set first pulse suppression to 120 microseconds", "type": 11}
-{"id": 223, "text": "scan field offset", "type": 12}
-{"id": 224, "text": "galvanometer scan field offset", "type": 12}
-{"id": 225, "text": "set galvanometer scan field offset", "type": 12}
-{"id": 226, "text": "set scan field offset X to 130°", "type": 12}
-{"id": 227, "text": "set galvanometer scan field offset X to 180.2 degrees", "type": 12}
-{"id": 228, "text": "set scan field offset Y to 75°", "type": 12}
-{"id": 229, "text": "galvanometer scan field offset Y set to 90.5 degrees", "type": 12}
-{"id": 230, "text": "set scan field offset Z to 45.6°", "type": 12}
-{"id": 231, "text": "set galvanometer scan field offset Z to 120 degrees", "type": 12}
-{"id": 232, "text": "scan field offset α assigned 15.5°", "type": 12}
-{"id": 233, "text": "galvanometer scan field offset α set to 30 degrees", "type": 12}
-{"id": 234, "text": "set scan field offset β to 60°", "type": 12}
-{"id": 235, "text": "galvanometer scan field offset parameter β changed to 75.3 degrees", "type": 12}
-{"id": 236, "text": "set scan field offset γ to 90°", "type": 12}
-{"id": 237, "text": "set galvanometer scan field offset γ to 110.2 degrees", "type": 12}
-{"id": 238, "text": "set X axis scan field offset to 170.3°", "type": 12}
-{"id": 239, "text": "set Y axis scan field offset to 65°", "type": 12}
-{"id": 240, "text": "set Z axis scan field offset to 80.7°", "type": 12}
-{"id": 241, "text": "set α direction scan field offset to 45°", "type": 12}
-{"id": 242, "text": "set β direction scan field offset to 35.5°", "type": 12}
-{"id": 243, "text": "set γ direction scan field offset to 100°", "type": 12}
-{"id": 244, "text": "camera calibration file selection", "type": 13}
-{"id": 245, "text": "select camera calibration file", "type": 13}
-{"id": 246, "text": "camera calibration file", "type": 13}
-{"id": 247, "text": "specify camera calibration file", "type": 13}
-{"id": 248, "text": "set camera calibration file path to: \"C:\\Users\\JamesKing\\camera.ct5\"", "type": 13}
-{"id": 249, "text": "configure camera calibration file path to: \"C:\\Users\\JamesKing\\cam.ct5\"", "type": 13}
-{"id": 250, "text": "camera calibration file used is D:\\calibration\\biaoding.ct5", "type": 13}
-{"id": 251, "text": "set camera calibration file to: D:\\file\\biao.ct5", "type": 13}
-{"id": 252, "text": "load camera calibration file, path is: \"C:\\Users\\JamesKing\\camera.ct5\"", "type": 13}
-{"id": 253, "text": "camera calibration file path is D:\\calibration\\biaoding.ct5", "type": 13}
-{"id": 254, "text": "camera calibration file path set to D:\\file\\biao.ct5", "type": 13}
-{"id": 255, "text": "set camera calibration file to: \"C:\\Users\\JamesKing\\camera.ct5\"", "type": 13}
-{"id": 256, "text": "select camera calibration file as: \"C:\\Users\\JamesKing\\cam.ct5\"", "type": 13}
-{"id": 257, "text": "calibration file path is D:\\calibration\\biaoding.ct5, applied to camera", "type": 13}
-{"id": 258, "text": "set camera calibration file to: D:\\file\\biao.ct5", "type": 13}
-{"id": 259, "text": "camera selection", "type": 14}
-{"id": 260, "text": "select camera", "type": 14}
-{"id": 261, "text": "switch camera", "type": 14}
-{"id": 262, "text": "camera switch", "type": 14}
-{"id": 263, "text": "switch current camera", "type": 14}
-{"id": 264, "text": "select Hikvision camera", "type": 14}
-{"id": 265, "text": "select Basler camera", "type": 14}
-{"id": 266, "text": "camera selected as Hikvision", "type": 14}
-{"id": 267, "text": "use Basler camera", "type": 14}
-{"id": 268, "text": "set current camera to Hikvision", "type": 14}
-{"id": 269, "text": "set current camera as Basler", "type": 14}
-{"id": 270, "text": "switch camera to Hikvision", "type": 14}
-{"id": 271, "text": "select Basler brand camera", "type": 14}
-{"id": 272, "text": "set camera to Hikvision", "type": 14}
-{"id": 273, "text": "select camera as Basler", "type": 14}
-{"id": 274, "text": "use Hikvision camera", "type": 14}
-{"id": 275, "text": "switch to Basler camera", "type": 14}
-{"id": 276, "text": "set current camera as Hikvision", "type": 14}
-{"id": 277, "text": "use Basler as current camera", "type": 14}
-{"id": 278, "text": "set default camera to Hikvision", "type": 14}
-{"id": 279, "text": "select Hikvision as current camera", "type": 14}
-{"id": 280, "text": "set Basler as current camera", "type": 14}
-{"id": 281, "text": "switch current device to Hikvision camera", "type": 14}
-{"id": 282, "text": "switch to Basler camera mode", "type": 14}
-{"id": 283, "text": "set Hikvision as primary camera", "type": 14}
-{"id": 284, "text": "set Basler as primary camera", "type": 14}
-{"id": 285, "text": "connect laser", "type": 15}
-{"id": 286, "text": "disconnect laser", "type": 15}
-{"id": 287, "text": "connect this laser", "type": 15}
-{"id": 288, "text": "disconnect this laser", "type": 15}
-{"id": 289, "text": "establish laser connection", "type": 15}
-{"id": 290, "text": "terminate laser connection", "type": 15}
-{"id": 291, "text": "connect laser source", "type": 15}
-{"id": 292, "text": "disconnect laser connection", "type": 15}
-{"id": 293, "text": "disconnect this laser source", "type": 15}
-{"id": 294, "text": "connect to this laser", "type": 15}
-{"id": 295, "text": "terminate laser connection", "type": 15}
-{"id": 296, "text": "connect IPG laser, serial port COM3", "type": 15}
-{"id": 297, "text": "disconnect IPG laser serial port connection", "type": 15}
-{"id": 298, "text": "connect IPG laser, IP: 192.168.0.1, Port: 502", "type": 15}
-{"id": 299, "text": "disconnect IPG laser ethernet connection", "type": 15}
-{"id": 300, "text": "connect IPG laser, serial port set to COM5", "type": 15}
-{"id": 301, "text": "disconnect IPG laser serial port connection", "type": 15}
-{"id": 302, "text": "connect IPG laser, ethernet IP address 192.168.1.10, port 503", "type": 15}
-{"id": 303, "text": "disconnect IPG laser ethernet connection", "type": 15}
-{"id": 304, "text": "connect IPG laser, serial port COM7", "type": 15}
-{"id": 305, "text": "disconnect IPG laser, terminate ethernet connection, IP: 192.168.1.100, Port: 504", "type": 15}
-{"id": 306, "text": "connect simulation laser, serial port COM4", "type": 15}
-{"id": 307, "text": "disconnect simulation laser serial port connection", "type": 15}
-{"id": 308, "text": "connect simulation laser, ethernet IP: 10.0.0.10, port 701", "type": 15}
-{"id": 309, "text": "disconnect simulation laser ethernet connection", "type": 15}
-{"id": 310, "text": "connect simulation laser, serial port set to COM6", "type": 15}
-{"id": 311, "text": "disconnect simulation laser serial port connection", "type": 15}
-{"id": 312, "text": "connect simulation laser, IP 192.168.2.1, port 702", "type": 15}
-{"id": 313, "text": "disconnect simulation laser ethernet connection", "type": 15}
-{"id": 314, "text": "connect simu laser, serial port set to COM2", "type": 15}
-{"id": 315, "text": "disconnect simu laser serial port connection", "type": 15}
-{"id": 316, "text": "connect simu laser, IP: 10.1.1.1, Port: 800", "type": 15}
-{"id": 317, "text": "disconnect simu laser ethernet connection", "type": 15}
-{"id": 318, "text": "connect simu laser, serial port COM8", "type": 15}
-{"id": 319, "text": "disconnect simu laser serial port connection", "type": 15}
-{"id": 320, "text": "connect simu laser, ethernet IP address set to 192.168.3.3, port 900", "type": 15}
-{"id": 321, "text": "disconnect simu laser ethernet connection", "type": 15}
-{"id": 322, "text": "indicator light", "type": 16}
-{"id": 323, "text": "red light", "type": 16}
-{"id": 324, "text": "laser enable", "type": 16}
-{"id": 325, "text": "laser", "type": 16}
-{"id": 326, "text": "turn on laser indicator light", "type": 16}
-{"id": 327, "text": "turn off laser indicatorlight", "type": 16}
-{"id": 328, "text": "turn on laser indicator light", "type": 16}
-{"id": 329, "text": "turn off laser indicator light", "type": 16}
-{"id": 330, "text": "turn on laser red light", "type": 16}
-{"id": 331, "text": "turn off laser red light", "type": 16}
-{"id": 332, "text": "turn on laser red light", "type": 16}
-{"id": 333, "text": "turn off laser red light", "type": 16}
-{"id": 334, "text": "turn off red light", "type": 16}
-{"id": 335, "text": "activate laser enable", "type": 16}
-{"id": 336, "text": "turn on laser enable", "type": 16}
-{"id": 337, "text": "turn off laser enable", "type": 16}
-{"id": 338, "text": "turn on laser", "type": 16}
-{"id": 339, "text": "turn off laser", "type": 16}
-{"id": 340, "text": "activate laser emission", "type": 16}
-{"id": 341, "text": "deactivate laser emission", "type": 16}
-{"id": 342, "text": "enable laser", "type": 16}
-{"id": 343, "text": "laser output", "type": 16}
-{"id": 344, "text": "stop laser output", "type": 16}
-{"id": 345, "text": "start laser output", "type": 16}
-{"id": 346, "text": "stop laser emission", "type": 16}
-{"id": 347, "text": "halt laser output", "type": 16}
-{"id": 348, "text": "laser frequency", "type": 17}
-{"id": 349, "text": "laser power", "type": 17}
-{"id": 350, "text": "laser pulse width", "type": 17}
-{"id": 351, "text": "laser parameters", "type": 17}
-{"id": 352, "text": "set laser parameters", "type": 17}
-{"id": 353, "text": "adjust laser frequency", "type": 17}
-{"id": 354, "text": "adjust laser power", "type": 17}
-{"id": 355, "text": "change laser pulse width", "type": 17}
-{"id": 356, "text": "set laser power to 50%", "type": 17}
-{"id": 357, "text": "set laser power to ninety percent", "type": 17}
-{"id": 358, "text": "adjust laser power to 30 percent", "type": 17}
-{"id": 359, "text": "set laser power value to 90%", "type": 17}
-{"id": 360, "text": "laser frequency is 50khz", "type": 17}
-{"id": 361, "text": "set laser frequency to 100 kilohertz", "type": 17}
-{"id": 362, "text": "adjust laser frequency value to sixty khz", "type": 17}
-{"id": 363, "text": "set laser frequency to one hundred thousand hertz", "type": 17}
-{"id": 364, "text": "laser pulse width 0.3 microseconds", "type": 17}
-{"id": 365, "text": "adjust laser pulse width to 200ns", "type": 17}
-{"id": 366, "text": "set laser pulse width to 400 nanoseconds", "type": 17}
-{"id": 367, "text": "adjust laser pulse width value to 0.4 microseconds", "type": 17}
-{"id": 368, "text": "scanner coordinate system", "type": 19}
-{"id": 369, "text": "camera coordinate system", "type": 19}
-{"id": 370, "text": "galvanometer origin coordinates", "type": 18}
-{"id": 371, "text": "camera origin coordinates", "type": 18}
-{"id": 372, "text": "adjust scanner origin coordinates", "type": 18}
-{"id": 373, "text": "set camera origin coordinates", "type": 18}
-{"id": 374, "text": "set galvanometer coordinate system origin X axis to 0", "type": 18}
-{"id": 375, "text": "change galvanometer coordinate system X coordinate to -5.4", "type": 18}
-{"id": 376, "text": "set scanner coordinate system X value to +30.2", "type": 18}
-{"id": 377, "text": "adjust galvanometer coordinate system X axis coordinate to zero", "type": 18}
-{"id": 378, "text": "set scanner coordinate system X to negative five point four", "type": 18}
-{"id": 379, "text": "set galvanometer X axis coordinate to -30.2", "type": 18}
-{"id": 380, "text": "set scanner coordinate system Y coordinate to negative twenty point six", "type": 18}
-{"id": 381, "text": "galvanometer coordinate system Y axis changed to +20.5", "type": 18}
-{"id": 382, "text": "set galvanometer Y axis value to negative 10", "type": 18}
-{"id": 383, "text": "set scanner Y axis coordinate to 20.5", "type": 18}
-{"id": 384, "text": "set galvanometer Y value to negative twenty point six", "type": 18}
-{"id": 385, "text": "set scanner Y axis to -10", "type": 18}
-{"id": 386, "text": "galvanometer coordinate system Z axis coordinate set to 10.5", "type": 18}
-{"id": 387, "text": "set scanner Z axis coordinate to -15.2", "type": 18}
-{"id": 388, "text": "set galvanometer Z coordinate to 5", "type": 18}
-{"id": 389, "text": "set galvanometer coordinate system Z axis to negative twenty point three", "type": 18}
-{"id": 390, "text": "set scanner Z value to 0", "type": 18}
-{"id": 391, "text": "galvanometer Z axis coordinate changed to -5.6", "type": 18}
-{"id": 392, "text": "set camera coordinate system X axis to 0", "type": 18}
-{"id": 393, "text": "camera X coordinate reset to -10.5", "type": 18}
-{"id": 394, "text": "change camera coordinate system X value to +15.2", "type": 18}
-{"id": 395, "text": "set camera X axis coordinate to zero", "type": 18}
-{"id": 396, "text": "camera X value adjusted to negative 25.3", "type": 18}
-{"id": 397, "text": "set camera coordinate system X axis to 30.0", "type": 18}
-{"id": 398, "text": "set camera Y axis coordinate to -12.4", "type": 18}
-{"id": 399, "text": "camera coordinate system Y value changed to +25.1", "type": 18}
-{"id": 400, "text": "camera Y axis value adjusted to negative 5", "type": 18}
-{"id": 401, "text": "set camera Y coordinate to +10.5", "type": 18}
-{"id": 402, "text": "change camera coordinate system Y axis to -18.2", "type": 18}
-{"id": 403, "text": "camera Y value set to +20", "type": 18}
-{"id": 404, "text": "set camera coordinate system Z value to 15.5", "type": 18}
-{"id": 405, "text": "camera Z axis coordinate adjusted to -7.8", "type": 18}
-{"id": 406, "text": "set camera Z value to zero", "type": 18}
-{"id": 407, "text": "adjust camera coordinate system Z value to -12.5", "type": 18}
-{"id": 408, "text": "camera Z axis set to +8.6", "type": 18}
-{"id": 409, "text": "switch coordinate system", "type": 19}
-{"id": 410, "text": "switch to scanner coordinate system", "type": 19}
-{"id": 411, "text": "switch to camera coordinate system", "type": 19}
-{"id": 412, "text": "change to galvanometer as origin", "type": 19}
-{"id": 413, "text": "change to camera as origin", "type": 19}
-{"id": 414, "text": "use scanner as origin", "type": 19}
-{"id": 415, "text": "use camera as origin", "type": 19}
-{"id": 416, "text": "change to galvanometer coordinate system", "type": 19}
-{"id": 417, "text": "switch to camera coordinate system", "type": 19}
-{"id": 418, "text": "set current coordinate system to galvanometer coordinate system", "type": 19}
-{"id": 419, "text": "adjust coordinate system to camera coordinate system", "type": 19}
-{"id": 420, "text": "use scanner coordinate system as current coordinate system", "type": 19}
-{"id": 421, "text": "use camera coordinate system as reference coordinate system", "type": 19}
-{"id": 422, "text": "switch coordinate origin to galvanometer", "type": 19}
-{"id": 423, "text": "switch coordinate origin to camera", "type": 19}
-{"id": 424, "text": "set scanner as coordinate system origin", "type": 19}
-{"id": 425, "text": "set camera as coordinate system origin", "type": 19}
-{"id": 426, "text": "use galvanometer as reference coordinate system", "type": 19}
-{"id": 427, "text": "use camera as reference coordinate system", "type": 19}
-{"id": 428, "text": "change reference origin to scanner", "type": 19}
-{"id": 429, "text": "change reference origin to camera", "type": 19}
-{"id": 430, "text": "switch coordinate system to galvanometer coordinate system", "type": 19}
-{"id": 431, "text": "switch coordinate system to camera coordinate system", "type": 19}
-{"id": 432, "text": "use galvanometer as coordinate origin", "type": 19}
-{"id": 433, "text": "use camera as coordinate origin", "type": 19}
-{"id": 434, "text": "tool retract enable", "type": 20}
-{"id": 435, "text": "activate tool retract enable", "type": 20}
-{"id": 436, "text": "turn on tool retract enable", "type": 20}
-{"id": 437, "text": "turn off tool retract enable", "type": 20}
-{"id": 438, "text": "deactivate tool retract enable", "type": 20}
-{"id": 439, "text": "enable tool retract", "type": 20}
-{"id": 440, "text": "tool retract distance", "type": 21}
-{"id": 441, "text": "modify tool retract distance", "type": 21}
-{"id": 442, "text": "adjust tool retract distance", "type": 21}
-{"id": 443, "text": "adjust tool retract distance to 200", "type": 21}
-{"id": 444, "text": "set tool retract distance to one hundred fifty", "type": 21}
-{"id": 445, "text": "set tool retract distance to 270", "type": 21}
-{"id": 446, "text": "change tool retract distance to 150", "type": 21}
-{"id": 447, "text": "set tool retract distance to 200", "type": 21}
-{"id": 448, "text": "adjust tool retract distance to two hundred", "type": 21}
-{"id": 449, "text": "set tool retract distance to 150", "type": 21}
-{"id": 450, "text": "adjust tool retract distance to 270", "type": 21}
-{"id": 451, "text": "change tool retract distance value to 150", "type": 21}
-{"id": 452, "text": "set tool retract distance to 200", "type": 21}
-{"id": 453, "text": "tool movement", "type": 22}
-{"id": 454, "text": "move tool X axis by one unit", "type": 22}
-{"id": 455, "text": "move tool Y axis by twenty units", "type": 22}
-{"id": 456, "text": "move tool Z axis in positive direction by 34 units", "type": 22}
-{"id": 457, "text": "move tool X axis in forward direction by one unit", "type": 22}
-{"id": 458, "text": "move tool Y axis in negative direction by four units", "type": 22}
-{"id": 459, "text": "tool Z axis move -22", "type": 22}
-{"id": 460, "text": "tool X positive direction move 34", "type": 22}
-{"id": 461, "text": "tool Y backward direction move 29", "type": 22}
-{"id": 462, "text": "move tool Z negative fourteen", "type": 22}
-{"id": 463, "text": "tool X positive direction move 38", "type": 22}
-{"id": 464, "text": "move tool X axis in forward direction by 17 units", "type": 22}
-{"id": 465, "text": "tool X axis in backward direction move six units", "type": 22}
-{"id": 466, "text": "tool X axis move to 43", "type": 22}
-{"id": 467, "text": "move tool Z to absolute coordinate 40", "type": 22}
-{"id": 468, "text": "move tool Y axis to coordinate -22", "type": 22}
-{"id": 469, "text": "tool third axis move to 33", "type": 22}
-{"id": 470, "text": "move tool first axis to fifty", "type": 22}
-{"id": 471, "text": "tool X move to absolute coordinate 89", "type": 22}
-{"id": 472, "text": "move tool Y axis to -21", "type": 22}
-{"id": 473, "text": "tool Z move to +44", "type": 22}
-{"id": 474, "text": "move tool X axis to +13", "type": 22}
-{"id": 475, "text": "move tool Y axis to -16", "type": 22}
-{"id": 476, "text": "move tool X to absolute position 45", "type": 22}
-{"id": 477, "text": "move tool Y axis in negative direction by 3 units", "type": 22}
-{"id": 478, "text": "move tool first axis to absolute coordinate 72", "type": 22}
-{"id": 479, "text": "move tool third axis to 18", "type": 22}
-{"id": 480, "text": "move tool X axis to absolute coordinate -15", "type": 22}
-{"id": 481, "text": "move tool Z axis in positive direction by 9 units", "type": 22}
-{"id": 482, "text": "move tool Y axis to absolute coordinate 25", "type": 22}
-{"id": 483, "text": "move tool X axis in backward direction by 5", "type": 22}
-{"id": 484, "text": "move tool Z axis to 31", "type": 22}
-{"id": 485, "text": "move tool X axis in forward direction by 10 units", "type": 22}
-{"id": 486, "text": "move tool Y axis to -13", "type": 22}
+﻿{"id": 1, "text": "connect machine tool", "event_type": 2, "entities":[{"label":"trigger", "content":"connect", "start_offset":0,"end_offset":7},{"label":"Switch", "content":"connect", "start_offset":0,"end_offset":7}]}
+{"id": 2, "text": "disconnect machine tool", "event_type": 2, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Switch", "content": "disconnect", "start_offset": 0, "end_offset": 10}]}
+{"id": 3, "text": "connect to this machine tool", "event_type": 2, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Switch", "content": "connect", "start_offset": 0, "end_offset": 7}]}
+{"id": 4, "text": "disconnect from this machine tool", "event_type": 2, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Switch", "content": "disconnect", "start_offset": 0, "end_offset": 10}]}
+{"id": 5, "text": "establish machine tool connection", "event_type": 2, "entities": [{"label": "trigger", "content": "establish", "start_offset": 0, "end_offset": 9}, {"label": "Switch", "content": "establish", "start_offset": 0, "end_offset": 9}]}
+{"id": 6, "text": "terminate machine tool connection", "event_type": 2, "entities": [{"label": "trigger", "content": "terminate", "start_offset": 0, "end_offset": 9}, {"label": "Switch", "content": "terminate", "start_offset": 0, "end_offset": 9}]}
+{"id": 7, "text": "connect machine", "event_type": 2, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Switch", "content": "connect", "start_offset": 0, "end_offset": 7}]}
+{"id": 8, "text": "disconnect machine connection", "event_type": 2, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Switch", "content": "disconnect", "start_offset": 0, "end_offset": 10}]}
+{"id": 9, "text": "disconnect this machine tool", "event_type": 2, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Switch", "content": "disconnect", "start_offset": 0, "end_offset": 10}]}
+{"id": 10, "text": "connect to this machine", "event_type": 2, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Switch", "content": "connect", "start_offset": 0, "end_offset": 7}]}
+{"id": 11, "text": "terminate machine connection", "event_type": 2, "entities": [{"label": "trigger", "content": "terminate", "start_offset": 0, "end_offset": 9}, {"label": "Switch", "content": "terminate", "start_offset": 0, "end_offset": 9}]}
+{"id": 12, "text": "enable X axis", "event_type": 5, "entities": [{"label":"trigger","content":"enable","start_offset":0,"end_offset":6},{"label":"Switch","content":"enable","start_offset":0,"end_offset":6},{"label":"Axis","content":"X","start_offset":7,"end_offset":8}]}
+{"id": 13, "text": "turn on X axis enable", "event_type": 5, "entities": [{"label":"trigger","content":"axis enable","start_offset":10,"end_offset":21},{"label":"Switch","content":"turn on","start_offset":0,"end_offset":7},{"label":"Axis","content":"X","start_offset":8,"end_offset":9}]}
+{"id": 14, "text": "activate X axis enable", "event_type": 5, "entities": [{"label":"trigger","content":"axis enable","start_offset":11,"end_offset":22},{"label":"Switch","content":"activate","start_offset":0,"end_offset":8},{"label":"Axis","content":"X","start_offset":9,"end_offset":10}]}
+{"id": 15, "text": "turn on X axis motor", "event_type": 5, "entities": [{"label":"trigger","content":"axis motor","start_offset":10,"end_offset":20},{"label":"Switch","content":"turn on","start_offset":0,"end_offset":7},{"label":"Axis","content":"X","start_offset":8,"end_offset":9}]}
+{"id": 16, "text": "start X axis enable", "event_type": 5, "entities": [{"label":"trigger","content":"axis enable","start_offset":8,"end_offset":19},{"label":"Switch","content":"start","start_offset":0,"end_offset":5},{"label":"Axis","content":"X","start_offset":6,"end_offset":7}]}
+{"id": 17, "text": "enable Y axis", "event_type": 5, "entities": [{"label":"trigger","content":"enable","start_offset":0,"end_offset":6},{"label":"Switch","content":"enable","start_offset":0,"end_offset":6},{"label":"Axis","content":"Y","start_offset":7,"end_offset":8}]}
+{"id": 18, "text": "enable Z axis", "event_type": 5, "entities": [{"label":"trigger","content":"enable","start_offset":0,"end_offset":6},{"label":"Switch","content":"enable","start_offset":0,"end_offset":6},{"label":"Axis","content":"Z","start_offset":7,"end_offset":8}]}
+{"id": 19, "text": "disable first axis", "event_type": 5, "entities": [{"label":"trigger","content":"disable","start_offset":0,"end_offset":7},{"label":"Switch","content":"disable","start_offset":0,"end_offset":7},{"label":"Axis","content":"first","start_offset":8,"end_offset":13}]}
+{"id": 20, "text": "turn off first axis motor", "event_type": 5, "entities": [{"label":"trigger","content":"axis motor","start_offset":15,"end_offset":25},{"label":"Switch","content":"turn off","start_offset":0,"end_offset":8},{"label":"Axis","content":"first","start_offset":9,"end_offset":14}]}
+{"id": 21, "text": "deactivate first axis enable", "event_type": 5, "entities": [{"label":"trigger","content":"axis enable","start_offset":17,"end_offset":28},{"label":"Switch","content":"deactivate","start_offset":0,"end_offset":10},{"label":"Axis","content":"first axis","start_offset":11,"end_offset":21}]}
+{"id": 22, "text": "disable second axis", "event_type": 5, "entities": [{"label":"trigger","content":"disable","start_offset":0,"end_offset":7},{"label":"Switch","content":"disable","start_offset":0,"end_offset":7},{"label":"Axis","content":"second","start_offset":8,"end_offset":14}]}
+{"id": 23, "text": "disable third axis", "event_type": 5, "entities": [{"label":"trigger","content":"disable","start_offset":0,"end_offset":7},{"label":"Switch","content":"disable","start_offset":0,"end_offset":7},{"label":"Axis","content":"third","start_offset":8,"end_offset":13}]}
+{"id": 24, "text": "move X axis by one unit", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "X", "start_offset": 5, "end_offset": 6}, {"label": "Distance", "content": "one unit", "start_offset": 15, "end_offset": 23}]}
+{"id": 25, "text": "move Y axis by twenty units", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Y", "start_offset": 5, "end_offset": 6}, {"label": "Distance", "content": "twenty units", "start_offset": 15, "end_offset": 27}]}
+{"id": 26, "text": "move Z axis 34 units", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Z", "start_offset": 5, "end_offset": 6}, {"label": "Distance", "content": "34 units", "start_offset": 12, "end_offset": 20}]}
+{"id": 27, "text": "move X axis in positive direction by one unit", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "X", "start_offset": 5, "end_offset": 6}, {"label": "Direction", "content": "positive", "start_offset": 15, "end_offset": 23}, {"label": "Distance", "content": "one unit", "start_offset": 37, "end_offset": 45}]}
+{"id": 28, "text": "move Y axis in negative direction by 4 units", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Y", "start_offset": 5, "end_offset": 6}, {"label": "Direction", "content": "negative", "start_offset": 15, "end_offset": 23}, {"label": "Distance", "content": "4 units", "start_offset": 37, "end_offset": 44}]}
+{"id": 29, "text": "move Z axis 22", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Z", "start_offset": 5, "end_offset": 6}, {"label": "Distance", "content": "22", "start_offset": 12, "end_offset": 14}]}
+{"id": 30, "text": "X axis move forward 34", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 7, "end_offset": 11}, {"label": "Axis", "content": "X", "start_offset": 0, "end_offset": 1}, {"label": "Direction", "content": "forward", "start_offset": 12, "end_offset": 19}, {"label": "Distance", "content": "34", "start_offset": 20, "end_offset": 22}]}
+{"id": 31, "text": "Y axis move -29", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 7, "end_offset": 11}, {"label": "Axis", "content": "Y", "start_offset": 0, "end_offset": 1}, {"label": "Distance", "content": "-29", "start_offset": 12, "end_offset": 15}]}
+{"id": 32, "text": "Z move 14", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 2, "end_offset": 6}, {"label": "Axis", "content": "Z", "start_offset": 0, "end_offset": 1, {"label": "Distance", "content": "14", "start_offset": 7, "end_offset": 9}]}
+{"id": 33, "text": "X move +38", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 2, "end_offset": 6}, {"label": "Axis", "content": "X", "start_offset": 0, "end_offset": 1}, {"label": "Distance", "content": "+38", "start_offset": 7, "end_offset": 10}]}
+{"id": 34, "text": "move X axis in positive direction by seventeen units", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "X", "start_offset": 5, "end_offset": 6}, {"label": "Direction", "content": "positive", "start_offset": 15, "end_offset": 23}, {"label": "Distance", "content": "seventeen units", "start_offset": 37, "end_offset": 52}]}
+{"id": 35, "text": "move X axis backwards 6 units", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "X", "start_offset": 5, "end_offset": 6}, {"label": "Direction", "content": "backwards", "start_offset": 12, "end_offset": 21}, {"label": "Distance", "content": "6 units", "start_offset": 22, "end_offset": 29}]}
+{"id": 36, "text": "move X axis to position 43", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "X", "start_offset": 5, "end_offset": 6}, {"label": "Coordinate", "content": "43", "start_offset": 24, "end_offset": 26}]}
+{"id": 37, "text": "move Z axis to coordinate 40", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Z", "start_offset": 5, "end_offset": 6}, {"label": "Coordinate", "content": "40", "start_offset": 26, "end_offset": 28}]}
+{"id": 38, "text": "move Y axis to -22", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Y", "start_offset": 5, "end_offset": 6}, {"label": "Coordinate", "content": "-22", "start_offset": 15, "end_offset": 18}]}
+{"id": 39, "text": "move third axis to 33", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "third", "start_offset": 5, "end_offset": 10}, {"label": "Coordinate", "content": "33", "start_offset": 19, "end_offset": 21}]}
+{"id": 40, "text": "move first axis to 50", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "first", "start_offset": 5, "end_offset": 10}, {"label": "Coordinate", "content": "50", "start_offset": 19, "end_offset": 21}]}
+{"id": 41, "text": "X move to 89", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 2, "end_offset": 6}, {"label": "Axis", "content": "X", "start_offset": 0, "end_offset": 1}, {"label": "Coordinate", "content": "89", "start_offset": 10, "end_offset": 12}]}
+{"id": 42, "text": "Y axis move to negative 21", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 7, "end_offset": 11}, {"label": "Axis", "content": "Y", "start_offset": 0, "end_offset": 1}, {"label": "Coordinate", "content": "negative 21", "start_offset": 15, "end_offset": 26}]}
+{"id": 43, "text": "Z move to +44", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 2, "end_offset": 6}, {"label": "Axis", "content": "Z", "start_offset": 0, "end_offset": 7}, {"label": "Coordinate", "content": "+44", "start_offset": 10, "end_offset": 13}]}
+{"id": 44, "text": "X axis move to coordinate positive thirteen", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 7, "end_offset": 11}, {"label": "Axis", "content": "X", "start_offset": 0, "end_offset": 1}, {"label": "Coordinate", "content": "positive thirteen", "start_offset": 26, "end_offset": 43}]}
+{"id": 45, "text": "Y move to negative sixteen", "event_type": 6, "entities": [{"label": "trigger", "content": "move", "start_offset": 2, "end_offset": 6}, {"label": "Axis", "content": "Y", "start_offset": 0, "end_offset": 1}, {"label": "Coordinaten", "content": "negative sixteen", "start_offset": 10, "end_offset": 26}]}
+{"id": 46, "text": "set machine formula", "event_type": 1, "entities": [{"label":"trigger","content":"formula","start_offset":12,"end_offset":19}]}
+{"id": 47, "text": "machine formula setup", "event_type": 1, "entities": [{"label":"trigger","content":"formula","start_offset":8,"end_offset":15}]}
+{"id": 48, "text": "machine formula", "event_type": 1, "entities": [{"label":"trigger","content":"formula","start_offset":8,"end_offset":15}]}
+{"id": 49, "text": "select machine formula", "event_type": 1, "entities": [{"label":"trigger","content":"formula","start_offset":15,"end_offset":22}]}
+{"id": 50, "text": "machine formula selection", "event_type": 1, "entities": [{"label":"trigger","content":"formula","start_offset":8,"end_offset":15}]}
+{"id": 51, "text": "select machine formula file", "event_type": 1, "entities": [{"label":"trigger","content":"formula file","start_offset":15,"end_offset":27}]}
+{"id": 52, "text": "configure machine formula file", "event_type": 1, "entities": [{"label":"trigger","content":"formula file","start_offset":18,"end_offset":30}]}
+{"id": 53, "text": "set machine formula file to: \"C:\\Users\\JamesKing\\XYC-ZB_0826_XYZcompensated_02.fml\"", "event_type": 1, "entities": [{"label":"trigger","content":"formula file","start_offset":12,"end_offset":24},{"label":"Path","content":"C:\\Users\\JamesKing\\XYC-ZB_0826_XYZcompensated_02.fml","start_offset":30,"end_offset":82}]}
+{"id": 54, "text": "configure machine formula file as: C:\\Users\\JamesKing\\XYC.fml", "event_type": 1, "entities": [{"label":"trigger","content":"formula file","start_offset":18,"end_offset":30},{"label":"Path","content":"C:\\Users\\JamesKing\\XYC.fml","start_offset":35,"end_offset":61}]}
+{"id": 55, "text": "machine formula is D:\\gongshi\\formula.fml", "event_type": 1, "entities": [{"label":"trigger","content":"formula","start_offset":8,"end_offset":15},{"label":"Path","content":"D:\\gongshi\\formula.fml","start_offset":19,"end_offset":41}]}
+{"id": 56, "text": "specify machine formula as D:\\gongshi\\formula.fml", "event_type": 1, "entities": [{"label":"trigger","content":"formula","start_offset":16,"end_offset":23},{"label":"Path","content":"D:\\gongshi\\formula.fml","start_offset":27,"end_offset":49}]}
+{"id": 57, "text": "current machine formula file path is: C:\\Users\\JamesKing\\XYC.fml", "event_type": 1, "entities": [{"label":"trigger","content":"formula file path","start_offset":16,"end_offset":33},{"label":"Path","content":"C:\\Users\\JamesKing\\XYC.fml","start_offset":38,"end_offset":64}]}
+{"id": 58, "text": "machine formula file selected as: D:\\gongshi\\formula.fml", "event_type": 1, "entities": [{"label":"trigger","content":"formula file","start_offset":8,"end_offset":20},{"label":"Path","content":"D:\\gongshi\\formula.fml","start_offset":34,"end_offset":56}]}
+{"id": 59, "text": "disconnect Beckhoff machine", "event_type": 2, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Switch", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "Beckhoff", "start_offset": 11, "end_offset": 19}]}
+{"id": 60, "text": "disconnect Beckhoff machine tool", "event_type": 2, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Switch", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "Beckhoff", "start_offset": 11, "end_offset": 19}]}
+{"id": 61, "text": "disconnect simulation machine connection", "event_type": 2, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Switch", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "simulation", "start_offset": 11, "end_offset": 21}]}
+{"id": 62, "text": "disconnect simu machine", "event_type": 2, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Switch", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "simu", "start_offset": 11, "end_offset": 15}]}
+{"id": 63, "text": "disconnect simulation machine", "event_type": 2, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Switch", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "simulation", "start_offset": 11, "end_offset": 21}]}
+{"id": 64, "text": "disconnect simu machine connection", "event_type": 2, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Switch", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "simu", "start_offset": 11, "end_offset": 15}]}
+{"id": 65, "text": "connect Beckhoff machine, IP 192.168.31.193.1.1, port 851", "event_type": 2, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Switch", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "Beckhoff", "start_offset": 8, "end_offset": 16}, {"label": "Address", "content": "192.168.31.193.1.1", "start_offset": 29, "end_offset": 47}, {"label": "Port", "content": "851", "start_offset": 54, "end_offset": 57}]}
+{"id": 66, "text": "connect Beckhoff machine tool, IP: 192.168.31.193.1.1, Port: 851", "event_type": 2, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Switch", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "Beckhoff", "start_offset": 8, "end_offset": 16}, {"label": "Address", "content": "192.168.31.193.1.1", "start_offset": 35, "end_offset": 53}, {"label": "Port", "content": "851", "start_offset": 61, "end_offset": 64}]}
+{"id": 67, "text": "connect simulation machine, IP is 10.0.0.100, port is 701", "event_type": 2, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Switch", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "simulation", "start_offset": 8, "end_offset": 18}, {"label": "Address", "content": "10.0.0.100", "start_offset": 34, "end_offset": 44}, {"label": "Port", "content": "701", "start_offset": 54, "end_offset": 57}]}
+{"id": 68, "text": "establish simu machine connection, IP address 192.168.1.1, port 701", "event_type": 2, "entities": [{"label": "trigger", "content": "establish", "start_offset": 0, "end_offset": 9}, {"label": "Switch", "content": "establish", "start_offset": 0, "end_offset": 9}, {"label": "Type", "content": "simu", "start_offset": 10, "end_offset": 14}, {"label": "Address", "content": "192.168.1.1", "start_offset": 46, "end_offset": 57}, {"label": "Port", "content": "701", "start_offset": 64, "end_offset": 67}]}
+{"id": 69, "text": "connect to Beckhoff machine, IP 10.1.9.8.2, port 17", "event_type": 2, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Switch", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "Beckhoff", "start_offset": 11, "end_offset": 19}, {"label": "Address", "content": "10.1.9.8.2", "start_offset": 32, "end_offset": 42}, {"label": "Port", "content": "17", "start_offset": 49, "end_offset": 51}]}
+{"id": 70, "text": "connect to Beckhoff machine tool, IP set to 192.168.1.1, port set to 22", "event_type": 2, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Switch", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "Beckhoff", "start_offset": 11, "end_offset": 19}, {"label": "Address", "content": "192.168.1.1", "start_offset": 44, "end_offset": 55}, {"label": "Port", "content": "22", "start_offset": 70, "end_offset": 72}]}
+{"id": 71, "text": "set axis speed", "event_type": 3, "entities": [{"label": "trigger", "content": "speed", "start_offset": 9, "end_offset": 14}]}
+{"id": 72, "text": "adjust origin offset", "event_type": 3, "entities": [{"label": "trigger", "content": "offset", "start_offset": 14, "end_offset": 20}]}
+{"id": 73, "text": "configure origin offset", "event_type": 3, "entities": [{"label": "trigger", "content": "offset", "start_offset": 17, "end_offset": 23}]}
+{"id": 74, "text": "adjust origin offset value", "event_type": 3, "entities": [{"label": "trigger", "content": "offset", "start_offset": 14, "end_offset": 20}]}
+{"id": 75, "text": "set X speed", "event_type": 3, "entities": [{"label": "trigger", "content": "speed", "start_offset": 6, "end_offset": 11}, {"label": "Axis", "content": "X", "start_offset": 4, "end_offset": 5}]}
+{"id": 76, "text": "configure X axis movement speed", "event_type": 3, "entities": [{"label": "trigger", "content": "speed", "start_offset": 26, "end_offset": 31}, {"label": "Axis", "content": "X", "start_offset": 10, "end_offset": 11}]}
+{"id": 77, "text": "set second axis origin offset", "event_type": 3, "entities": [{"label": "trigger", "content": "offset", "start_offset": 23, "end_offset": 29}, {"label": "Axis", "content": "second", "start_offset": 4, "end_offset": 10}]}
+{"id": 78, "text": "adjust second axis origin offset value", "event_type": 3, "entities": [{"label": "trigger", "content": "offset", "start_offset": 26, "end_offset": 32}, {"label": "Axis", "content": "second", "start_offset": 7, "end_offset": 13}]}
+{"id": 79, "text": "X axis speed is 16", "event_type": 3, "entities": [{"label": "trigger", "content": "speed", "start_offset": 7, "end_offset": 12}, {"label": "Axis", "content": "X", "start_offset": 0, "end_offset": 1}, {"label": "Speed", "content": "16", "start_offset": 16, "end_offset": 18}]}
+{"id": 80, "text": "X speed is 300", "event_type": 3, "entities": [{"label": "trigger", "content": "speed", "start_offset": 2, "end_offset": 7}, {"label": "Axis", "content": "X", "start_offset": 0, "end_offset": 1}, {"label": "Speed", "content": "300", "start_offset": 11, "end_offset": 14}]}
+{"id": 81, "text": "adjust X speed to 30", "event_type": 3, "entities": [{"label": "trigger", "content": "speed", "start_offset": 9, "end_offset": 14}, {"label": "Axis", "content": "X", "start_offset": 7, "end_offset": 8}, {"label": "Speed", "content": "30", "start_offset": 18, "end_offset": 20}]}
+{"id": 82, "text": "set first axis speed to 33", "event_type": 3, "entities": [{"label": "trigger", "content": "speed", "start_offset": 15, "end_offset": 20}, {"label": "Axis", "content": "first", "start_offset": 4, "end_offset": 9}, {"label": "Speed", "content": "33", "start_offset": 24, "end_offset": 26}]}
+{"id": 83, "text": "Y axis speed is 26", "event_type": 3, "entities": [{"label": "trigger", "content": "speed", "start_offset": 7, "end_offset": 12}, {"label": "Axis", "content": "Y", "start_offset": 0, "end_offset": 1}, {"label": "Speed", "content": "26", "start_offset": 16, "end_offset": 18}]}
+{"id": 84, "text": "change second axis speed to 256", "event_type": 3, "entities": [{"label": "trigger", "content": "speed", "start_offset": 19, "end_offset": 24}, {"label": "Axis", "content": "second", "start_offset": 7, "end_offset": 13}, {"label": "Speed", "content": "256", "start_offset": 28, "end_offset": 31}]}
+{"id": 85, "text": "set Z speed to 80", "event_type": 3, "entities": [{"label": "trigger", "content": "speed", "start_offset": 6, "end_offset": 11}, {"label": "Axis", "content": "Z", "start_offset": 4, "end_offset": 5}, {"label": "Speed", "content": "80", "start_offset": 15, "end_offset": 17}]}
+{"id": 86, "text": "set X origin offset to -22.5", "event_type": 3, "entities": [{"label": "trigger", "content": "offset", "start_offset": 17, "end_offset": 23}, {"label": "Axis", "content": "X", "start_offset": 4, "end_offset": 5}, {"label": "Offset", "content": "-22.5", "start_offset": 27, "end_offset": 32}]}
+{"id": 87, "text": "configure X axis origin offset to 30", "event_type": 3, "entities": [{"label": "trigger", "content": "offset", "start_offset": 24, "end_offset": 30}, {"label": "Axis", "content": "X", "start_offset": 10, "end_offset": 11}, {"label": "Offset", "content": "30", "start_offset": 34, "end_offset": 36}]}
+{"id": 88, "text": "first axis origin offset is ninety-eight", "event_type": 3, "entities": [{"label": "trigger", "content": "offset", "start_offset": 18, "end_offset": 24}, {"label": "Axis", "content": "first", "start_offset": 0, "end_offset": 5}, {"label": "Offset", "content": "ninety-eight", "start_offset": 28, "end_offset": 40}]}
+{"id": 89, "text": "Y origin offset is negative 34", "event_type": 3, "entities": [{"label": "trigger", "content": "offset", "start_offset": 9, "end_offset": 15}, {"label": "Axis", "content": "Y", "start_offset": 0, "end_offset": 1}, {"label": "Offset", "content": "negative 34", "start_offset": 19, "end_offset": 30}]}
+{"id": 90, "text": "set Y origin offset to -77", "event_type": 3, "entities": [{"label": "trigger", "content": "offset", "start_offset": 13, "end_offset": 19}, {"label": "Axis", "content": "Y", "start_offset": 4, "end_offset": 5}, {"label": "Offset", "content": "-77", "start_offset": 23, "end_offset": 26}]}
+{"id": 91, "text": "Z axis origin offset is -90", "event_type": 3, "entities": [{"label": "trigger", "content": "offset", "start_offset": 15, "end_offset": 21}, {"label": "Axis", "content": "Z", "start_offset": 0, "end_offset": 1}, {"label": "Offset", "content": "-90", "start_offset": 24, "end_offset": 27}]}
+{"id": 92, "text": "machine structure parameters", "event_type": 4, "entities": [{"label": "trigger", "content": "parameters", "start_offset": 18, "end_offset": 28}]}
+{"id": 93, "text": "configure machine structure parameters", "event_type": 4, "entities": [{"label": "trigger", "content": "parameters", "start_offset": 28, "end_offset": 38}]}
+{"id": 94, "text": "set machine structure parameters", "event_type": 4, "entities": [{"label": "trigger", "content": "parameters", "start_offset": 22, "end_offset": 32}]}
+{"id": 95, "text": "set machine structure parameter XTB to 40", "event_type": 4, "entities": [{"label": "trigger", "content": "parameter", "start_offset": 22, "end_offset": 31}, {"label": "Variable", "content": "XTB", "start_offset": 32, "end_offset": 35}, {"label": "Value", "content": "40", "start_offset": 39, "end_offset": 41}]}
+{"id": 96, "text": "machine structure parameter XTC is +39", "event_type": 4, "entities": [{"label": "trigger", "content": "parameter", "start_offset": 18, "end_offset": 27}, {"label": "Variable", "content": "XTC", "start_offset": 28, "end_offset": 31}, {"label": "Value", "content": "+39", "start_offset": 35, "end_offset": 38}]}
+{"id": 97, "text": "change machine structure parameter YTA to ninety-eight", "event_type": 4, "entities": [{"label": "trigger", "content": "parameter", "start_offset": 25, "end_offset": 34}, {"label": "Variable", "content": "YTA", "start_offset": 35, "end_offset": 38}, {"label": "Value", "content": "ninety-eight", "start_offset": 42, "end_offset": 54}]}
+{"id": 98, "text": "set machine structure parameter YTC to negative 44", "event_type": 4, "entities": [{"label": "trigger", "content": "parameter", "start_offset": 22, "end_offset": 31}, {"label": "Variable", "content": "YTC", "start_offset": 32, "end_offset": 35}, {"label": "Value", "content": "negative 44", "start_offset": 39, "end_offset": 50}]}
+{"id": 99, "text": "machine structure parameter ZTA set to -800", "event_type": 4, "entities": [{"label": "trigger", "content": "parameter", "start_offset": 18, "end_offset": 27}, {"label": "Variable", "content": "ZTA", "start_offset": 28, "end_offset": 31}, {"label": "Value", "content": "-800", "start_offset": 39, "end_offset": 43}]}
+{"id": 100, "text": "adjust machine structure parameter ZTB to positive thirty", "event_type": 4, "entities": [{"label": "trigger", "content": "parameter", "start_offset": 25, "end_offset": 34}, {"label": "Variable", "content": "ZTB", "start_offset": 35, "end_offset": 38}, {"label": "Value", "content": "positive thirty", "start_offset": 42, "end_offset": 57}]}
+{"id": 101, "text": "machine structure parameter ATB changed to 700", "event_type": 4, "entities": [{"label": "trigger", "content": "parameter", "start_offset": 18, "end_offset": 27}, {"label": "Variable", "content": "ATB", "start_offset": 28, "end_offset": 31}, {"label": "Value", "content": "700", "start_offset": 43, "end_offset": 46}]}
+{"id": 102, "text": "adjust machine structure parameter ATC to negative 40", "event_type": 4, "entities": [{"label": "trigger", "content": "parameter", "start_offset": 25, "end_offset": 34}, {"label": "Variable", "content": "ATC", "start_offset": 35, "end_offset": 38}, {"label": "Value", "content": "negative 40", "start_offset": 42, "end_offset": 53}]}
+{"id": 103, "text": "machine structure parameter BTC modified to positive 22", "event_type": 4, "entities": [{"label": "trigger", "content": "parameter", "start_offset": 18, "end_offset": 27}, {"label": "Variable", "content": "BTC", "start_offset": 28, "end_offset": 31}, {"label": "Value", "content": "positive 22", "start_offset": 44, "end_offset": 55}]}
+{"id": 104, "text": "machine structure parameter ATW set to 600", "event_type": 4, "entities": [{"label": "trigger", "content": "parameter", "start_offset": 18, "end_offset": 27}, {"label": "Variable", "content": "ATW", "start_offset": 28, "end_offset": 31}, {"label": "Value", "content": "600", "start_offset": 39, "end_offset": 42}]}
+{"id": 105, "text": "machine structure parameter BTW assigned -20", "event_type": 4, "entities": [{"label": "trigger", "content": "parameter", "start_offset": 18, "end_offset": 27}, {"label": "Variable", "content": "BTW", "start_offset": 28, "end_offset": 31}, {"label": "Value", "content": "-20", "start_offset": 41, "end_offset": 44}]}
+{"id": 106, "text": "machine structure parameter CTW given value 100", "event_type": 4, "entities": [{"label": "trigger", "content": "parameter", "start_offset": 18, "end_offset": 27}, {"label": "Variable", "content": "CTW", "start_offset": 28, "end_offset": 31}, {"label": "Value", "content": "100", "start_offset": 44, "end_offset": 47}]}
+{"id": 107, "text": "return home", "event_type": 7, "entities": [{"label": "trigger", "content": "home", "start_offset": 7, "end_offset": 11}]}
+{"id": 108, "text": "axis homing", "event_type": 7, "entities": [{"label": "trigger", "content": "homing", "start_offset": 5, "end_offset": 11}]}
+{"id": 109, "text": "first axis return to zero", "event_type": 7, "entities": [{"label": "trigger", "content": "return", "start_offset": 11, "end_offset": 17}, {"label": "Axis", "content": "first", "start_offset": 0, "end_offset": 5}]}
+{"id": 110, "text": "X axis homing", "event_type": 7, "entities": [{"label": "trigger", "content": "homing", "start_offset": 7, "end_offset": 13}, {"label": "Axis", "content": "X", "start_offset": 0, "end_offset": 1}]}
+{"id": 111, "text": "home X axis", "event_type": 7, "entities": [{"label": "trigger", "content": "home", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "X", "start_offset": 5, "end_offset": 6}]}
+{"id": 112, "text": "return X axis to zero", "event_type": 7, "entities": [{"label": "trigger", "content": "zero", "start_offset": 17, "end_offset": 21}, {"label": "Axis", "content": "X", "start_offset": 7, "end_offset": 8}]}
+{"id": 113, "text": "home X", "event_type": 7, "entities": [{"label": "trigger", "content": "home", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "X", "start_offset": 5, "end_offset": 6}]}
+{"id": 114, "text": "return X axis to origin", "event_type": 7, "entities": [{"label": "trigger", "content": "origin", "start_offset": 17, "end_offset": 23}, {"label": "Axis", "content": "X", "start_offset": 7, "end_offset": 8}]}
+{"id": 115, "text": "reset X axis to zero position", "event_type": 7, "entities": [{"label": "trigger", "content": "zero", "start_offset": 16, "end_offset": 20}, {"label": "Axis", "content": "X", "start_offset": 6, "end_offset": 7}]}
+{"id": 116, "text": "execute X axis homing", "event_type": 7, "entities": [{"label": "trigger", "content": "homing", "start_offset": 15, "end_offset": 21}, {"label": "Axis", "content": "X", "start_offset": 8, "end_offset": 9}]}
+{"id": 117, "text": "zero X axis", "event_type": 7, "entities": [{"label": "trigger", "content": "zero", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "X", "start_offset": 5, "end_offset": 6}]}
+{"id": 118, "text": "execute second axis homing operation", "event_type": 7, "entities": [{"label": "trigger", "content": "homing", "start_offset": 20, "end_offset": 26}, {"label": "Axis", "content": "second", "start_offset": 8, "end_offset": 14}]}
+{"id": 119, "text": "Y axis homing", "event_type": 7, "entities": [{"label": "trigger", "content": "homing", "start_offset": 7, "end_offset": 13}, {"label": "Axis", "content": "Y", "start_offset": 0, "end_offset": 1}]}
+{"id": 120, "text": "home Y axis", "event_type": 7, "entities": [{"label": "trigger", "content": "home", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Y", "start_offset": 5, "end_offset": 6}]}
+{"id": 121, "text": "return Y axis to zero", "event_type": 7, "entities": [{"label": "trigger", "content": "return", "start_offset": 0, "end_offset": 6}, {"label": "Axis", "content": "Y", "start_offset": 7, "end_offset": 8}]}
+{"id": 122, "text": "home Y", "event_type": 7, "entities": [{"label": "trigger", "content": "home", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Y", "start_offset": 5, "end_offset": 6}]}
+{"id": 123, "text": "reset Y axis to origin", "event_type": 7, "entities": [{"label": "trigger", "content": "origin", "start_offset": 16, "end_offset": 22}, {"label": "Axis", "content": "Y", "start_offset": 6, "end_offset": 7}]}
+{"id": 124, "text": "return Y axis to zero position", "event_type": 7, "entities": [{"label": "trigger", "content": "return", "start_offset": 0, "end_offset": 6}, {"label": "Axis", "content": "Y", "start_offset": 7, "end_offset": 8}]}
+{"id": 125, "text": "execute Y axis homing operation", "event_type": 7, "entities": [{"label": "trigger", "content": "homing", "start_offset": 15, "end_offset": 21}, {"label": "Axis", "content": "Y", "start_offset": 8, "end_offset": 9}]}
+{"id": 126, "text": "set Y axis to zero position", "event_type": 7, "entities": [{"label": "trigger", "content": "zero", "start_offset": 14, "end_offset": 18}, {"label": "Axis", "content": "Y", "start_offset": 4, "end_offset": 5}]}
+{"id": 127, "text": "third axis homing", "event_type": 7, "entities": [{"label": "trigger", "content": "homing", "start_offset": 11, "end_offset": 17}, {"label": "Axis", "content": "third", "start_offset": 0, "end_offset": 5}]}
+{"id": 128, "text": "Z axis homing", "event_type": 7, "entities": [{"label": "trigger", "content": "homing", "start_offset": 7, "end_offset": 13}, {"label": "Axis", "content": "Z", "start_offset": 0, "end_offset": 1}]}
+{"id": 129, "text": "home Z axis", "event_type": 7, "entities": [{"label": "trigger", "content": "home", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Z", "start_offset": 5, "end_offset": 6}]}
+{"id": 130, "text": "return Z axis to zero", "event_type": 7, "entities": [{"label": "trigger", "content": "return", "start_offset": 0, "end_offset": 6}, {"label": "Axis", "content": "Z", "start_offset": 7, "end_offset": 8}]}
+{"id": 131, "text": "home Z", "event_type": 7, "entities": [{"label": "trigger", "content": "home", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Z", "start_offset": 5, "end_offset": 6}]}
+{"id": 132, "text": "return Z axis to origin position", "event_type": 7, "entities": [{"label": "trigger", "content": "return", "start_offset": 0, "end_offset": 6}, {"label": "Axis", "content": "Z", "start_offset": 7, "end_offset": 8}]}
+{"id": 133, "text": "restore Z axis to zero point", "event_type": 7, "entities": [{"label": "trigger", "content": "restore", "start_offset": 0, "end_offset": 7}, {"label": "Axis", "content": "Z", "start_offset": 8, "end_offset": 9}]}
+{"id": 134, "text": "execute Z axis reset", "event_type": 7, "entities": [{"label": "trigger", "content": "reset", "start_offset": 15, "end_offset": 20}, {"label": "Axis", "content": "Z", "start_offset": 8, "end_offset": 9}]}
+{"id": 135, "text": "zero Z axis", "event_type": 7, "entities": [{"label": "trigger", "content": "zero", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Z", "start_offset": 5, "end_offset": 6}]}
+{"id": 136, "text": "machine emergency stop", "event_type": 8, "entities":[{"label":"trigger","content":"stop","start_offset":19,"end_offset":23},{"label":"Switch","content":"stop","start_offset":19,"end_offset":23}]}
+{"id": 137, "text": "stop all axes motion", "event_type": 8, "entities":[{"label":"trigger","content":"stop","start_offset":0,"end_offset":4},{"label":"Switch","content":"stop","start_offset":0,"end_offset":4}]}
+{"id": 138, "text": "machine stop motion", "event_type": 8, "entities":[{"label":"trigger","content":"stop","start_offset":8,"end_offset":12},{"label":"Switch","content":"stop","start_offset":8,"end_offset":12}]}
+{"id": 139, "text": "machine emergency halt", "event_type": 8, "entities":[{"label":"trigger","content":"halt","start_offset":19,"end_offset":23},{"label":"Switch","content":"halt","start_offset":19,"end_offset":23}]}
+{"id": 140, "text": "stop machine", "event_type": 8, "entities":[{"label":"trigger","content":"stop","start_offset":0,"end_offset":4},{"label":"Switch","content":"stop","start_offset":0,"end_offset":4}]}
+{"id": 141, "text": "halt all axes", "event_type": 8, "entities":[{"label":"trigger","content":"halt","start_offset":0,"end_offset":4},{"label":"Switch","content":"halt","start_offset":0,"end_offset":4}]}
+{"id": 142, "text": "emergency stop", "event_type": 8, "entities":[{"label":"trigger","content":"stop","start_offset":10,"end_offset":14},{"label":"Switch","content":"stop","start_offset":10,"end_offset":14}]}
+{"id": 143, "text": "trigger machine emergency stop", "event_type": 8, "entities":[{"label":"trigger","content":"stop","start_offset":27,"end_offset":31},{"label":"Switch","content":"stop","start_offset":27,"end_offset":31}]}
+{"id": 144, "text": "immediately stop all axes", "event_type": 8, "entities":[{"label":"trigger","content":"stop","start_offset":12,"end_offset":16},{"label":"Switch","content":"stop","start_offset":12,"end_offset":16}]}
+{"id": 145, "text": "immediately halt machine motion", "event_type": 8, "entities":[{"label":"trigger","content":"halt","start_offset":12,"end_offset":16},{"label":"Switch","content":"halt","start_offset":12,"end_offset":16}]}
+{"id": 146, "text": "execute machine emergency stop", "event_type": 8, "entities":[{"label":"trigger","content":"stop","start_offset":27,"end_offset":31},{"label":"Switch","content":"stop","start_offset":27,"end_offset":31}]}
+{"id": 147, "text": "terminate machine motion", "event_type": 8, "entities":[{"label":"trigger","content":"terminate","start_offset":0,"end_offset":9},{"label":"Switch","content":"terminate","start_offset":0,"end_offset":9}]}
+{"id": 148, "text": "immediately stop all axis movements", "event_type": 8, "entities":[{"label":"trigger","content":"stop","start_offset":12,"end_offset":16},{"label":"Switch","content":"stop","start_offset":12,"end_offset":16}]}
+{"id": 149, "text": "interrupt machine motion", "event_type": 8, "entities":[{"label":"trigger","content":"interrupt","start_offset":0,"end_offset":9},{"label":"Switch","content":"interrupt","start_offset":0,"end_offset":9}]}
+{"id": 150, "text": "stop all machine operations", "event_type": 8, "entities":[{"label":"trigger","content":"stop","start_offset":0,"end_offset":4},{"label":"Switch","content":"stop","start_offset":0,"end_offset":4}]}
+{"id": 151, "text": "immediately halt all axes", "event_type": 8, "entities":[{"label":"trigger","content":"halt","start_offset":12,"end_offset":16},{"label":"Switch","content":"halt","start_offset":12,"end_offset":16}]}
+{"id": 152, "text": "enter machine emergency stop state", "event_type": 8, "entities":[{"label":"trigger","content":"stop","start_offset":24,"end_offset":28},{"label":"Switch","content":"stop","start_offset":24,"end_offset":28}]}
+{"id": 153, "text": "stop all motion axis operations", "event_type": 8, "entities":[{"label":"trigger","content":"stop","start_offset":0,"end_offset":4},{"label":"Switch","content":"stop","start_offset":0,"end_offset":4}]}
+{"id": 154, "text": "interrupt machine motion process", "event_type": 8, "entities":[{"label":"trigger","content":"interrupt","start_offset":0,"end_offset":9},{"label":"Switch","content":"interrupt","start_offset":0,"end_offset":9}]}
+{"id": 155, "text": "machine halt all axis motion", "event_type": 8, "entities":[{"label":"trigger","content":"halt","start_offset":8,"end_offset":12},{"label":"Switch","content":"halt","start_offset":8,"end_offset":12}]}
+{"id": 156, "text": "set scanner file", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 12, "end_offset": 16}]}
+{"id": 157, "text": "control scanner correction file setup", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 31, "end_offset": 35}]}
+{"id": 158, "text": "control scanner correction file", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 27, "end_offset": 31}]}
+{"id": 159, "text": "select scanner correction file", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 26, "end_offset": 30}]}
+{"id": 160, "text": "control scanner file selection", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 16, "end_offset": 20}]}
+{"id": 161, "text": "set control scanner file path to: \"C:\\Users\\JamesKing\\XYC-ZB_0826_XYZcompensated_02.ct5\"", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 20, "end_offset": 24}, {"label": "Path", "content": "C:\\Users\\JamesKing\\XYC-ZB_0826_XYZcompensated_02.ct5", "start_offset": 35, "end_offset": 87}]}
+{"id": 162, "text": "configure scanner calibration file path to: \"C:\\Users\\JamesKing\\XYC.ct5\"", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 30, "end_offset": 34}, {"label": "Path", "content": "C:\\Users\\JamesKing\\XYC.ct5", "start_offset": 45, "end_offset": 71}]}
+{"id": 163, "text": "specify control scanner file as: \"D:\\jiaozheng\\formula.ct5\"", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 24, "end_offset": 28}, {"label": "Path", "content": "D:\\jiaozheng\\formula.ct5", "start_offset": 34, "end_offset": 58}]}
+{"id": 164, "text": "set control scanner correction file path to: \"D:\\file\\formula.ct5\"", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 31, "end_offset": 35}, {"label": "Path", "content": "D:\\file\\formula.ct5", "start_offset": 46, "end_offset": 65}]}
+{"id": 165, "text": "configure scanner file as: \"C:\\Users\\JamesKing\\XYC-ZB_0826_XYZcompensated_02.ct5\"", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 18, "end_offset": 22}, {"label": "Path", "content": "C:\\Users\\JamesKing\\XYC-ZB_0826_XYZcompensated_02.ct5", "start_offset": 28, "end_offset": 80}]}
+{"id": 166, "text": "set control scanner calibration file to: \"C:\\Users\\JamesKing\\XYC.ct5\"", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 32, "end_offset": 36}, {"label": "Path", "content": "C:\\Users\\JamesKing\\XYC.ct5", "start_offset": 42, "end_offset": 68}]}
+{"id": 167, "text": "select scanner file path as: \"D:\\jiaozheng\\formula.ct5\"", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 15, "end_offset": 19}, {"label": "Path", "content": "D:\\jiaozheng\\formula.ct5", "start_offset": 30, "end_offset": 54}]}
+{"id": 168, "text": "specify control scanner correction file: \"D:\\file\\formula.ct5\"", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 35, "end_offset": 39}, {"label": "Path", "content": "D:\\file\\formula.ct5", "start_offset": 42, "end_offset": 61}]}
+{"id": 169, "text": "set scanner file location to: \"C:\\Users\\JamesKing\\XYC-ZB_0826_XYZcompensated_02.ct5\"", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 12, "end_offset": 16}, {"label": "Path", "content": "C:\\Users\\JamesKing\\XYC-ZB_0826_XYZcompensated_02.ct5", "start_offset": 31, "end_offset": 83}]}
+{"id": 170, "text": "configure control scanner correction file to: \"D:\\file\\formula.ct5\"", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 37, "end_offset": 41}, {"label": "Path", "content": "D:\\file\\formula.ct5", "start_offset": 47, "end_offset": 66}]}
+{"id": 171, "text": "select control scanner calibration file path as: \"C:\\Users\\JamesKing\\XYC.ct5\"", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 35, "end_offset": 39}, {"label": "Path", "content": "C:\\Users\\JamesKing\\XYC.ct5", "start_offset": 50, "end_offset": 76}]}
+{"id": 172, "text": "select scanner correction file: \"D:\\file\\formula.ct5\"", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 26, "end_offset": 30}, {"label": "Path", "content": "D:\\file\\formula.ct5", "start_offset": 33, "end_offset": 52}]}
+{"id": 173, "text": "configure scanner correction file: \"D:\\jiaozheng\\formula.ct5\"", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 29, "end_offset": 33}, {"label": "Path", "content": "D:\\jiaozheng\\formula.ct5", "start_offset": 36, "end_offset": 60}]}
+{"id": 174, "text": "select control scanner file location: \"C:\\Users\\JamesKing\\XYC-ZB_0826_XYZcompensated_02.ct5\"", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 23, "end_offset": 27}, {"label": "Path", "content": "C:\\Users\\JamesKing\\XYC-ZB_0826_XYZcompensated_02.ct5", "start_offset": 39, "end_offset": 91}]}
+{"id": 175, "text": "select control scanner file path as: \"C:\\Users\\JamesKing\\XYC.ct5\"", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 23, "end_offset": 27}, {"label": "Path", "content": "C:\\Users\\JamesKing\\XYC.ct5", "start_offset": 38, "end_offset": 64}]}
+{"id": 176, "text": "select scanner file: \"D:\\jiaozheng\\formula.ct5\"", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 15, "end_offset": 19}, {"label": "Path", "content": "D:\\jiaozheng\\formula.ct5", "start_offset": 22, "end_offset": 46}]}
+{"id": 177, "text": "specify scanner correction file: \"D:\\file\\formula.ct5\"", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 27, "end_offset": 31}, {"label": "Path", "content": "D:\\file\\formula.ct5", "start_offset": 34, "end_offset": 53}]}
+{"id": 178, "text": "set control scanner file to: \"C:\\Users\\JamesKing\\XYC.ct5\"", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 20, "end_offset": 24}, {"label": "Path", "content": "C:\\Users\\JamesKing\\XYC.ct5", "start_offset": 30, "end_offset": 56}]}
+{"id": 179, "text": "configure control scanner correction file to: \"D:\\file\\formula.ct5\"", "event_type": 9, "entities": [{"label": "trigger", "content": "file", "start_offset": 37, "end_offset": 41}, {"label": "Path", "content": "D:\\file\\formula.ct5", "start_offset": 47, "end_offset": 66}]}
+{"id": 180, "text": "connect scanner", "event_type": 10, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}]}
+{"id": 181, "text": "disconnect control scanner connection", "event_type": 10, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}]}
+{"id": 182, "text": "connect galvanometer", "event_type": 10, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}]}
+{"id": 183, "text": "disconnect galvanometer connection", "event_type": 10, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}]}
+{"id": 184, "text": "connect this galvanometer to system", "event_type": 10, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}]}
+{"id": 185, "text": "disconnect galvanometer from system", "event_type": 10, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}]}
+{"id": 186, "text": "connect galvanometer device", "event_type": 10, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}]}
+{"id": 187, "text": "release galvanometer connection", "event_type": 10, "entities": [{"label": "trigger", "content": "release", "start_offset": 0, "end_offset": 7}]}
+{"id": 188, "text": "disconnect this galvanometer connection", "event_type": 10, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}]}
+{"id": 189, "text": "reconnect galvanometer", "event_type": 10, "entities": [{"label": "trigger", "content": "reconnect", "start_offset": 0, "end_offset": 9}]}
+{"id": 190, "text": "terminate galvanometer connection", "event_type": 10, "entities": [{"label": "trigger", "content": "terminate", "start_offset": 0, "end_offset": 9}]}
+{"id": 191, "text": "connect RTC6 galvanometer, control mode set to 1", "event_type": 10, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "RTC6", "start_offset": 8, "end_offset": 12}, {"label": "Mode", "content": "1", "start_offset": 47, "end_offset": 48}]}
+{"id": 192, "text": "connect RTC6, mode is 3", "event_type": 10, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "RTC6", "start_offset": 8, "end_offset": 12}, {"label": "Mode", "content": "3", "start_offset": 22, "end_offset": 23}]}
+{"id": 193, "text": "disconnect RTC6 connection", "event_type": 10, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "RTC6", "start_offset": 11, "end_offset": 15}]}
+{"id": 194, "text": "disconnect RTC6 galvanometer", "event_type": 10, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "RTC6", "start_offset": 11, "end_offset": 15}]}
+{"id": 195, "text": "connect simulation galvanometer, control mode set to 2", "event_type": 10, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "simulation", "start_offset": 8, "end_offset": 18}, {"label": "Mode", "content": "2", "start_offset": 53, "end_offset": 54}]}
+{"id": 196, "text": "connect simu control card, mode set to 4", "event_type": 10, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "simu", "start_offset": 8, "end_offset": 12}, {"label": "Mode", "content": "4", "start_offset": 39, "end_offset": 40}]}
+{"id": 197, "text": "release simulation galvanometer connection", "event_type": 10, "entities": [{"label": "trigger", "content": "release", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "simulation", "start_offset": 8, "end_offset": 18}]}
+{"id": 198, "text": "disconnect simu card connection", "event_type": 10, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "simu", "start_offset": 11, "end_offset": 15}]}
+{"id": 199, "text": "connect simulation control card, set control mode to 5", "event_type": 10, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "simulation", "start_offset": 8, "end_offset": 18}, {"label": "Mode", "content": "5", "start_offset": 53, "end_offset": 54}]}
+{"id": 200, "text": "connect simu galvanometer, set control to 6", "event_type": 10, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "simu", "start_offset": 8, "end_offset": 12}, {"label": "Mode", "content": "6", "start_offset": 42, "end_offset": 43}]}
+{"id": 201, "text": "disconnect simulation control card connection", "event_type": 10, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "simulation", "start_offset": 11, "end_offset": 21}]}
+{"id": 202, "text": "release simu galvanometer connection", "event_type": 10, "entities": [{"label": "trigger", "content": "release", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "simu", "start_offset": 8, "end_offset": 12}]}
+{"id": 203, "text": "galvanometer parameters", "event_type": 11, "entities": [{"label": "trigger", "content": "parameters", "start_offset": 13, "end_offset": 23}]}
+{"id": 204, "text": "set galvanometer parameters", "event_type": 11, "entities": [{"label": "trigger", "content": "parameters", "start_offset": 17, "end_offset": 27}]}
+{"id": 205, "text": "control card parameters", "event_type": 11, "entities": [{"label": "trigger", "content": "parameters", "start_offset": 13, "end_offset": 23}]}
+{"id": 206, "text": "set card parameters", "event_type": 11, "entities": [{"label": "trigger", "content": "parameters", "start_offset": 9, "end_offset": 19}]}
+{"id": 207, "text": "set marking speed to 10m/s", "event_type": 11, "entities": [{"label": "trigger", "content": "marking speed", "start_offset": 4, "end_offset": 17}, {"label": "Variable", "content": "marking speed", "start_offset": 4, "end_offset": 17}, {"label": "Value", "content": "10m/s", "start_offset": 21, "end_offset": 26}]}
+{"id": 208, "text": "jump speed set to 30cm/s", "event_type": 11, "entities": [{"label": "trigger", "content": "jump speed", "start_offset": 0, "end_offset": 10}, {"label": "Variable", "content": "jump speed", "start_offset": 0, "end_offset": 10}, {"label": "Value", "content": "30cm/s", "start_offset": 18, "end_offset": 24}]}
+{"id": 209, "text": "set marking-speed to 20 meters per second", "event_type": 11, "entities": [{"label": "trigger", "content": "marking-speed", "start_offset": 4, "end_offset": 17}, {"label": "Variable", "content": "marking-speed", "start_offset": 4, "end_offset": 17}, {"label": "Value", "content": "20 meters per second", "start_offset": 21, "end_offset": 41}]}
+{"id": 210, "text": "set jump-speed to fifteen centimeters per second", "event_type": 11, "entities": [{"label": "trigger", "content": "jump-speed", "start_offset": 4, "end_offset": 14}, {"label": "Variable", "content": "jump-speed", "start_offset": 4, "end_offset": 14}, {"label": "Value", "content": "fifteen centimeters per second", "start_offset": 18, "end_offset": 48}]}
+{"id": 211, "text": "laser-on-delay set to 30μs", "event_type": 11, "entities": [{"label": "trigger", "content": "laser-on-delay", "start_offset": 0, "end_offset": 14}, {"label": "Variable", "content": "laser-on-delay", "start_offset": 0, "end_offset": 14}, {"label": "Value", "content": "30μs", "start_offset": 22, "end_offset": 26}]}
+{"id": 212, "text": "set laser on delay to 40 microseconds", "event_type": 11, "entities": [{"label": "trigger", "content": "laser on delay", "start_offset": 4, "end_offset": 18}, {"label": "Variable", "content": "laser on delay", "start_offset": 4, "end_offset": 18}, {"label": "Value", "content": "40 microseconds", "start_offset": 22, "end_offset": 37}]}
+{"id": 213, "text": "set laser-off-delay to twenty ms", "event_type": 11, "entities": [{"label": "trigger", "content": "laser-off-delay", "start_offset": 4, "end_offset": 19}, {"label": "Variable", "content": "laser-off-delay", "start_offset": 4, "end_offset": 19}, {"label": "Value", "content": "twenty ms", "start_offset": 23, "end_offset": 32}]}
+{"id": 214, "text": "laser off delay is twenty-five milliseconds", "event_type": 11, "entities": [{"label": "trigger", "content": "laser off delay", "start_offset": 0, "end_offset": 15}, {"label": "Variable", "content": "laser off delay", "start_offset": 0, "end_offset": 15}, {"label": "Value", "content": "twenty-five milliseconds", "start_offset": 19, "end_offset": 43}]}
+{"id": 215, "text": "change jump-delay to 17μs", "event_type": 11, "entities": [{"label": "trigger", "content": " jump-delay", "start_offset": 6, "end_offset": 17}, {"label": "Variable", "content": "jump-delay", "start_offset": 7, "end_offset": 17}, {"label": "Value", "content": "17μs", "start_offset": 21, "end_offset": 25}]}
+{"id": 216, "text": "set jump delay to 10 microseconds", "event_type": 11, "entities": [{"label": "trigger", "content": "jump delay", "start_offset": 4, "end_offset": 14}, {"label": "Variable", "content": "jump delay", "start_offset": 4, "end_offset": 14}, {"label": "Value", "content": "10 microseconds", "start_offset": 18, "end_offset": 33}]}
+{"id": 217, "text": "set marking-delay to 50μs", "event_type": 11, "entities": [{"label": "trigger", "content": "marking-delay", "start_offset": 4, "end_offset": 17}, {"label": "Variable", "content": "marking-delay", "start_offset": 4, "end_offset": 17}, {"label": "Value", "content": "50μs", "start_offset": 21, "end_offset": 25}]}
+{"id": 218, "text": "set marking delay to 60 microseconds", "event_type": 11, "entities": [{"label": "trigger", "content": "marking delay", "start_offset": 4, "end_offset": 17}, {"label": "Variable", "content": "marking delay", "start_offset": 4, "end_offset": 17}, {"label": "Value", "content": "60 microseconds", "start_offset": 21, "end_offset": 36}]}
+{"id": 219, "text": "set polygon delay to 25ms", "event_type": 11, "entities": [{"label": "trigger", "content": "polygon delay", "start_offset": 4, "end_offset": 17}, {"label": "Variable", "content": "polygon delay", "start_offset": 4, "end_offset": 17}, {"label": "Value", "content": "25ms", "start_offset": 21, "end_offset": 25}]}
+{"id": 220, "text": "polygon-delay set to 30 milliseconds", "event_type": 11, "entities": [{"label": "trigger", "content": "polygon-delay", "start_offset": 0, "end_offset": 13}, {"label": "Variable", "content": "polygon-delay", "start_offset": 0, "end_offset": 13}, {"label": "Value", "content": "30 milliseconds", "start_offset": 21, "end_offset": 36}]}
+{"id": 221, "text": "first-pulse-suppression set to 100μs", "event_type": 11, "entities": [{"label": "trigger", "content": "first-pulse-suppression", "start_offset": 0, "end_offset": 23}, {"label": "Variable", "content": "first-pulse-suppression", "start_offset": 0, "end_offset": 23}, {"label": "Value", "content": "100μs", "start_offset": 31, "end_offset": 36}]}
+{"id": 222, "text": "set first pulse suppression to 120 microseconds", "event_type": 11, "entities": [{"label": "trigger", "content": "first pulse suppression", "start_offset": 4, "end_offset": 27}, {"label": "Variable", "content": "first pulse suppression", "start_offset": 4, "end_offset": 27}, {"label": "Value", "content": "120 microseconds", "start_offset": 31, "end_offset": 47}]}
+{"id": 223, "text": "scan field offset", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 11, "end_offset": 17}]}
+{"id": 224, "text": "galvanometer scan field offset", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 24, "end_offset": 30}]}
+{"id": 225, "text": "set galvanometer scan field offset", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 28, "end_offset": 34}]}
+{"id": 226, "text": "set scan field offset X to 130°", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 15, "end_offset": 21}, {"label": "Variable", "content": "X", "start_offset": 22, "end_offset": 23}, {"label": "Value", "content": "130°", "start_offset": 27, "end_offset": 31}]}
+{"id": 227, "text": "set galvanometer scan field offset X to 180.2 degrees", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 28, "end_offset": 34}, {"label": "Variable", "content": "X", "start_offset": 35, "end_offset": 36}, {"label": "Value", "content": "180.2 degrees", "start_offset": 40, "end_offset": 53}]}
+{"id": 228, "text": "set scan field offset Y to 75°", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 15, "end_offset": 21}, {"label": "Variable", "content": "Y", "start_offset": 22, "end_offset": 23}, {"label": "Value", "content": "75°", "start_offset": 27, "end_offset": 30}]}
+{"id": 229, "text": "galvanometer scan field offset Y set to 90.5 degrees", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 24, "end_offset": 30}, {"label": "Variable", "content": "Y", "start_offset": 31, "end_offset": 32}, {"label": "Value", "content": "90.5 degrees", "start_offset": 40, "end_offset": 52}]}
+{"id": 230, "text": "set scan field offset Z to 45.6°", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 15, "end_offset": 21}, {"label": "Variable", "content": "Z", "start_offset": 22, "end_offset": 23}, {"label": "Value", "content": "45.6°", "start_offset": 27, "end_offset": 32}]}
+{"id": 231, "text": "set galvanometer scan field offset Z to 120 degrees", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 28, "end_offset": 34}, {"label": "Variable", "content": "Z", "start_offset": 35, "end_offset": 36}, {"label": "Value", "content": "120 degrees", "start_offset": 40, "end_offset": 51}]}
+{"id": 232, "text": "scan field offset α assigned 15.5°", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 11, "end_offset": 17}, {"label": "Variable", "content": "α", "start_offset": 18, "end_offset": 19}, {"label": "Value", "content": "15.5°", "start_offset": 29, "end_offset": 34}]}
+{"id": 233, "text": "galvanometer scan field offset α set to 30 degrees", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 24, "end_offset": 30}, {"label": "Variable", "content": "α", "start_offset": 31, "end_offset": 32}, {"label": "Value", "content": "30 degrees", "start_offset": 40, "end_offset": 50}]}
+{"id": 234, "text": "set scan field offset β to 60°", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 15, "end_offset": 21}, {"label": "Variable", "content": "β", "start_offset": 22, "end_offset": 23}, {"label": "Value", "content": "60°", "start_offset": 27, "end_offset": 30}]}
+{"id": 235, "text": "galvanometer scan field offset parameter β changed to 75.3 degrees", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 24, "end_offset": 30}, {"label": "Variable", "content": "β", "start_offset": 41, "end_offset": 42}, {"label": "Value", "content": "75.3 degrees", "start_offset": 54, "end_offset": 66}]}
+{"id": 236, "text": "set scan field offset γ to 90°", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 15, "end_offset": 21}, {"label": "Variable", "content": "γ", "start_offset": 22, "end_offset": 23}, {"label": "Value", "content": "90°", "start_offset": 27, "end_offset": 30}]}
+{"id": 237, "text": "set galvanometer scan field offset γ to 110.2 degrees", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 28, "end_offset": 34}, {"label": "Variable", "content": "γ", "start_offset": 35, "end_offset": 36}, {"label": "Value", "content": "110.2 degrees", "start_offset": 40, "end_offset": 53}]}
+{"id": 238, "text": "set X axis scan field offset to 170.3°", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 22, "end_offset": 28}, {"label": "Variable", "content": "X", "start_offset": 4, "end_offset": 5}, {"label": "Value", "content": "170.3°", "start_offset": 32, "end_offset": 38}]}
+{"id": 239, "text": "set Y axis scan field offset to 65°", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 22, "end_offset": 28}, {"label": "Variable", "content": "Y", "start_offset": 4, "end_offset": 5}, {"label": "Value", "content": "65°", "start_offset": 32, "end_offset": 35}]}
+{"id": 240, "text": "set Z axis scan field offset to 80.7°", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 22, "end_offset": 28}, {"label": "Variable", "content": "Z", "start_offset": 4, "end_offset": 5}, {"label": "Value", "content": "80.7°", "start_offset": 32, "end_offset": 37}]}
+{"id": 241, "text": "set α direction scan field offset to 45°", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 27, "end_offset": 33}, {"label": "Variable", "content": "α", "start_offset": 4, "end_offset": 5}, {"label": "Value", "content": "45°", "start_offset": 37, "end_offset": 40}]}
+{"id": 242, "text": "set β direction scan field offset to 35.5°", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 27, "end_offset": 33}, {"label": "Variable", "content": "β", "start_offset": 4, "end_offset": 5}, {"label": "Value", "content": "35.5°", "start_offset": 37, "end_offset": 42}]}
+{"id": 243, "text": "set γ direction scan field offset to 100°", "event_type": 12, "entities": [{"label": "trigger", "content": "offset", "start_offset": 27, "end_offset": 33}, {"label": "Variable", "content": "γ", "start_offset": 4, "end_offset": 5}, {"label": "Value", "content": "100°", "start_offset": 37, "end_offset": 41}]}
+{"id": 244, "text": "camera calibration file selection", "event_type": 13, "entities": [{"label": "trigger", "content": "file", "start_offset": 19, "end_offset": 23}]}
+{"id": 245, "text": "select camera calibration file", "event_type": 13, "entities": [{"label": "trigger", "content": "calibration file", "start_offset": 14, "end_offset": 30}]}
+{"id": 246, "text": "camera calibration file", "event_type": 13, "entities": [{"label": "trigger", "content": "file", "start_offset": 19, "end_offset": 23}]}
+{"id": 247, "text": "specify camera calibration file", "event_type": 13, "entities": [{"label": "trigger", "content": "calibration file", "start_offset": 15, "end_offset": 31}]}
+{"id": 248, "text": "set camera calibration file path to: \"C:\\Users\\JamesKing\\camera.ct5\"", "event_type": 13, "entities": [{"label": "trigger", "content": "calibration file", "start_offset": 11, "end_offset": 27}, {"label": "Path", "content": "C:\\Users\\JamesKing\\camera.ct5", "start_offset": 38, "end_offset": 67}]}
+{"id": 249, "text": "configure camera calibration file path to: \"C:\\Users\\JamesKing\\cam.ct5\"", "event_type": 13, "entities": [{"label": "trigger", "content": "calibration file", "start_offset": 17, "end_offset": 33}, {"label": "Path", "content": "C:\\Users\\JamesKing\\cam.ct5", "start_offset": 44, "end_offset": 70}]}
+{"id": 250, "text": "camera calibration file used is D:\\calibration\\biaoding.ct5", "event_type": 13, "entities": [{"label": "trigger", "content": "calibration file", "start_offset": 7, "end_offset": 23}, {"label": "Path", "content": "D:\\calibration\\biaoding.ct5", "start_offset": 32, "end_offset": 59}]}
+{"id": 251, "text": "set camera calibration file to: D:\\file\\biao.ct5", "event_type": 13, "entities": [{"label": "trigger", "content": "file", "start_offset": 23, "end_offset": 27}, {"label": "Path", "content": "D:\\file\\biao.ct5", "start_offset": 33, "end_offset": 49}]}
+{"id": 252, "text": "load camera calibration file, path is: \"C:\\Users\\JamesKing\\camera.ct5\"", "event_type": 13, "entities": [{"label": "trigger", "content": "calibration file", "start_offset": 12, "end_offset": 28}, {"label": "Path", "content": "C:\\Users\\JamesKing\\camera.ct5", "start_offset": 41, "end_offset": 70}]}
+{"id": 253, "text": "camera calibration file path is D:\\calibration\\biaoding.ct5", "event_type": 13, "entities": [{"label": "trigger", "content": "file", "start_offset": 19, "end_offset": 23}, {"label": "Path", "content": "D:\\calibration\\biaoding.ct5", "start_offset": 32, "end_offset": 59}]}
+{"id": 254, "text": "camera calibration file path set to D:\\file\\biao.ct5", "event_type": 13, "entities": [{"label": "trigger", "content": "calibration file", "start_offset": 7, "end_offset": 23}, {"label": "Path", "content": "D:\\file\\biao.ct5", "start_offset": 36, "end_offset": 52}]}
+{"id": 255, "text": "set camera calibration file to: \"C:\\Users\\JamesKing\\camera.ct5\"", "event_type": 13, "entities": [{"label": "trigger", "content": "file", "start_offset": 23, "end_offset": 27}, {"label": "Path", "content": "C:\\Users\\JamesKing\\camera.ct5", "start_offset": 34, "end_offset": 63}]}
+{"id": 256, "text": "select camera calibration file as: \"C:\\Users\\JamesKing\\cam.ct5\"", "event_type": 13, "entities": [{"label": "trigger", "content": "calibration file", "start_offset": 14, "end_offset": 30}, {"label": "Path", "content": "C:\\Users\\JamesKing\\cam.ct5", "start_offset": 37, "end_offset": 63}]}
+{"id": 257, "text": "calibration file path is D:\\calibration\\biaoding.ct5, applied to camera", "event_type": 13, "entities": [{"label": "trigger", "content": "file", "start_offset": 12, "end_offset": 16}, {"label": "Path", "content": "D:\\calibration\\biaoding.ct5", "start_offset": 25, "end_offset": 52}]}
+{"id": 258, "text": "set camera calibration file to: D:\\file\\biao.ct5", "event_type": 13, "entities": [{"label": "trigger", "content": "calibration file", "start_offset": 11, "end_offset": 27}, {"label": "Path", "content": "D:\\file\\biao.ct5", "start_offset": 33, "end_offset": 49}]}
+{"id": 259, "text": "camera selection", "event_type": 14, "entities": [{"label": "trigger", "content": "selection", "start_offset": 7, "end_offset": 16}]}
+{"id": 260, "text": "select camera", "event_type": 14, "entities": [{"label": "trigger", "content": "select", "start_offset": 0, "end_offset": 6}]}
+{"id": 261, "text": "switch camera", "event_type": 14, "entities": [{"label": "trigger", "content": "switch", "start_offset": 0, "end_offset": 6}]}
+{"id": 262, "text": "camera switch", "event_type": 14, "entities": [{"label": "trigger", "content": "switch", "start_offset": 7, "end_offset": 13}]}
+{"id": 263, "text": "switch current camera", "event_type": 14, "entities": [{"label": "trigger", "content": "switch", "start_offset": 0, "end_offset": 6}]}
+{"id": 264, "text": "select Hikvision camera", "event_type": 14, "entities": [{"label": "trigger", "content": "select", "start_offset": 0, "end_offset": 6}, {"label": "Type", "content": "Hikvision", "start_offset": 7, "end_offset": 16}]}
+{"id": 265, "text": "select Basler camera", "event_type": 14, "entities": [{"label": "trigger", "content": "select", "start_offset": 0, "end_offset": 6}, {"label": "Type", "content": "Basler", "start_offset": 7, "end_offset": 13}]}
+{"id": 266, "text": "camera selected as Hikvision", "event_type": 14, "entities": [{"label": "trigger", "content": "selected", "start_offset": 7, "end_offset": 15}, {"label": "Type", "content": "Hikvision", "start_offset": 19, "end_offset": 28}]}
+{"id": 267, "text": "use Basler camera", "event_type": 14, "entities": [{"label": "trigger", "content": "use", "start_offset": 0, "end_offset": 3}, {"label": "Type", "content": "Basler", "start_offset": 4, "end_offset": 10}]}
+{"id": 268, "text": "set current camera to Hikvision", "event_type": 14, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "Type", "content": "Hikvision", "start_offset": 22, "end_offset": 31}]}
+{"id": 269, "text": "set current camera as Basler", "event_type": 14, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "Type", "content": "Basler", "start_offset": 22, "end_offset": 28}]}
+{"id": 270, "text": "switch camera to Hikvision", "event_type": 14, "entities": [{"label": "trigger", "content": "switch", "start_offset": 0, "end_offset": 6}, {"label": "Type", "content": "Hikvision", "start_offset": 17, "end_offset": 26}]}
+{"id": 271, "text": "select Basler brand camera", "event_type": 14, "entities": [{"label": "trigger", "content": "select", "start_offset": 0, "end_offset": 6}, {"label": "Type", "content": "Basler", "start_offset": 7, "end_offset": 13}]}
+{"id": 272, "text": "set camera to Hikvision", "event_type": 14, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "Type", "content": "Hikvision", "start_offset": 14, "end_offset": 23}]}
+{"id": 273, "text": "select camera as Basler", "event_type": 14, "entities": [{"label": "trigger", "content": "select", "start_offset": 0, "end_offset": 6}, {"label": "Type", "content": "Basler", "start_offset": 17, "end_offset": 23}]}
+{"id": 274, "text": "use Hikvision camera", "event_type": 14, "entities": [{"label": "trigger", "content": "use", "start_offset": 0, "end_offset": 3}, {"label": "Type", "content": "Hikvision", "start_offset": 4, "end_offset": 13}]}
+{"id": 275, "text": "switch to Basler camera", "event_type": 14, "entities": [{"label": "trigger", "content": "switch", "start_offset": 0, "end_offset": 6}, {"label": "Type", "content": "Basler", "start_offset": 10, "end_offset": 16}]}
+{"id": 276, "text": "set current camera as Hikvision", "event_type": 14, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "Type", "content": "Hikvision", "start_offset": 22, "end_offset": 31}]}
+{"id": 277, "text": "use Basler as current camera", "event_type": 14, "entities": [{"label": "trigger", "content": "use", "start_offset": 0, "end_offset": 3}, {"label": "Type", "content": "Basler", "start_offset": 4, "end_offset": 10}]}
+{"id": 278, "text": "set default camera to Hikvision", "event_type": 14, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "Type", "content": "Hikvision", "start_offset": 22, "end_offset": 31}]}
+{"id": 279, "text": "select Hikvision as current camera", "event_type": 14, "entities": [{"label": "trigger", "content": "select", "start_offset": 0, "end_offset": 6}, {"label": "Type", "content": "Hikvision", "start_offset": 7, "end_offset": 16}]}
+{"id": 280, "text": "set Basler as current camera", "event_type": 14, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "Type", "content": "Basler", "start_offset": 4, "end_offset": 10}]}
+{"id": 281, "text": "switch current device to Hikvision camera", "event_type": 14, "entities": [{"label": "trigger", "content": "switch", "start_offset": 0, "end_offset": 6}, {"label": "Type", "content": "Hikvision", "start_offset": 25, "end_offset": 34}]}
+{"id": 282, "text": "switch to Basler camera mode", "event_type": 14, "entities": [{"label": "trigger", "content": "switch", "start_offset": 0, "end_offset": 6}, {"label": "Type", "content": "Basler", "start_offset": 10, "end_offset": 16}]}
+{"id": 283, "text": "set Hikvision as primary camera", "event_type": 14, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "Type", "content": "Hikvision", "start_offset": 4, "end_offset": 13}]}
+{"id": 284, "text": "set Basler as primary camera", "event_type": 14, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "Type", "content": "Basler", "start_offset": 4, "end_offset": 10}]}
+{"id": 285, "text": "connect laser", "event_type": 15, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}]}
+{"id": 286, "text": "disconnect laser", "event_type": 15, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}]}
+{"id": 287, "text": "connect this laser", "event_type": 15, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}]}
+{"id": 288, "text": "disconnect this laser", "event_type": 15, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}]}
+{"id": 289, "text": "establish laser connection", "event_type": 15, "entities": [{"label": "trigger", "content": "establish", "start_offset": 0, "end_offset": 9}]}
+{"id": 290, "text": "terminate laser connection", "event_type": 15, "entities": [{"label": "trigger", "content": "terminate", "start_offset": 0, "end_offset": 9}]}
+{"id": 291, "text": "connect laser source", "event_type": 15, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}]}
+{"id": 292, "text": "disconnect laser connection", "event_type": 15, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}]}
+{"id": 293, "text": "disconnect this laser source", "event_type": 15, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}]}
+{"id": 294, "text": "connect to this laser", "event_type": 15, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}]}
+{"id": 295, "text": "terminate laser connection", "event_type": 15, "entities": [{"label": "trigger", "content": "terminate", "start_offset": 0, "end_offset": 9}]}
+{"id": 296, "text": "connect IPG laser, serial port COM3", "event_type": 15, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "IPG", "start_offset": 8, "end_offset": 11}, {"label": "Mode", "content": "serial port", "start_offset": 19, "end_offset": 30}, {"label": "Port", "content": "COM3", "start_offset": 31, "end_offset": 35}]}
+{"id": 297, "text": "disconnect IPG laser serial port connection", "event_type": 15, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "IPG", "start_offset": 11, "end_offset": 14}, {"label": "Mode", "content": "serial port", "start_offset": 21, "end_offset": 32}]}
+{"id": 298, "text": "connect IPG laser, IP: 192.168.0.1, Port: 502", "event_type": 15, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "IPG", "start_offset": 8, "end_offset": 11}, {"label": "Address", "content": "192.168.0.1", "start_offset": 23, "end_offset": 34}, {"label": "Port", "content": "502", "start_offset": 42, "end_offset": 45}]}
+{"id": 299, "text": "disconnect IPG laser ethernet connection", "event_type": 15, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "IPG", "start_offset": 11, "end_offset": 14}, {"label": "Mode", "content": "ethernet", "start_offset": 21, "end_offset": 29}]}
+{"id": 300, "text": "connect IPG laser, serial port set to COM5", "event_type": 15, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "IPG", "start_offset": 8, "end_offset": 11}, {"label": "Mode", "content": "serial port", "start_offset": 19, "end_offset": 30}, {"label": "Port", "content": "COM5", "start_offset": 38, "end_offset": 42}]}
+{"id": 301, "text": "disconnect IPG laser serial port connection", "event_type": 15, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "IPG", "start_offset": 11, "end_offset": 14}, {"label": "Mode", "content": "serial port", "start_offset": 21, "end_offset": 32}]}
+{"id": 302, "text": "connect IPG laser, ethernet IP address 192.168.1.10, port 503", "event_type": 15, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "IPG", "start_offset": 8, "end_offset": 11}, {"label": "Mode", "content": "ethernet", "start_offset": 19, "end_offset": 27}, {"label": "Address", "content": "192.168.1.10", "start_offset": 39, "end_offset": 51}, {"label": "Port", "content": "503", "start_offset": 58, "end_offset": 61}]}
+{"id": 303, "text": "disconnect IPG laser ethernet connection", "event_type": 15, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "IPG", "start_offset": 11, "end_offset": 14}, {"label": "Mode", "content": "ethernet", "start_offset": 21, "end_offset": 29}]}
+{"id": 304, "text": "connect IPG laser, serial port COM7", "event_type": 15, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "IPG", "start_offset": 8, "end_offset": 11}, {"label": "Mode", "content": "serial port", "start_offset": 19, "end_offset": 30}, {"label": "Port", "content": "COM7", "start_offset": 31, "end_offset": 35}]}
+{"id": 305, "text": "disconnect IPG laser, terminate ethernet connection, IP: 192.168.1.100, Port: 504", "event_type": 15, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "IPG", "start_offset": 11, "end_offset": 14}, {"label": "Mode", "content": "ethernet", "start_offset": 32, "end_offset": 40}, {"label": "Address", "content": "192.168.1.100", "start_offset": 57, "end_offset": 70}, {"label": "Port", "content": "504", "start_offset": 78, "end_offset": 81}]}
+{"id": 306, "text": "connect simulation laser, serial port COM4", "event_type": 15, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "simulation", "start_offset": 8, "end_offset": 18}, {"label": "Mode", "content": "serial port", "start_offset": 26, "end_offset": 37}, {"label": "Port", "content": "COM4", "start_offset": 38, "end_offset": 42}]}
+{"id": 307, "text": "disconnect simulation laser serial port connection", "event_type": 15, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "simulation", "start_offset": 11, "end_offset": 21}, {"label": "Mode", "content": "serial port", "start_offset": 28, "end_offset": 39}]}
+{"id": 308, "text": "connect simulation laser, ethernet IP: 10.0.0.10, port 701", "event_type": 15, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "simulation", "start_offset": 8, "end_offset": 18}, {"label": "Mode", "content": "ethernet", "start_offset": 26, "end_offset": 34}, {"label": "Address", "content": "10.0.0.10", "start_offset": 39, "end_offset": 48}, {"label": "Port", "content": "701", "start_offset": 55, "end_offset": 58}]}
+{"id": 309, "text": "disconnect simulation laser ethernet connection", "event_type": 15, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "simulation", "start_offset": 11, "end_offset": 21}, {"label": "Mode", "content": "ethernet", "start_offset": 28, "end_offset": 36}]}
+{"id": 310, "text": "connect simulation laser, serial port set to COM6", "event_type": 15, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "simulation", "start_offset": 8, "end_offset": 18}, {"label": "Mode", "content": "serial port", "start_offset": 26, "end_offset": 37}, {"label": "Port", "content": "COM6", "start_offset": 45, "end_offset": 49}]}
+{"id": 311, "text": "disconnect simulation laser serial port connection", "event_type": 15, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "simulation", "start_offset": 11, "end_offset": 21}, {"label": "Mode", "content": "serial port", "start_offset": 28, "end_offset": 39}]}
+{"id": 312, "text": "connect simulation laser, IP 192.168.2.1, port 702", "event_type": 15, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "simulation", "start_offset": 8, "end_offset": 18}, {"label": "Address", "content": "192.168.2.1", "start_offset": 29, "end_offset": 40}, {"label": "Port", "content": "702", "start_offset": 47, "end_offset": 50}]}
+{"id": 313, "text": "disconnect simulation laser ethernet connection", "event_type": 15, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "simulation", "start_offset": 11, "end_offset": 21}, {"label": "Mode", "content": "ethernet", "start_offset": 28, "end_offset": 36}]}
+{"id": 314, "text": "connect simu laser, serial port set to COM2", "event_type": 15, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "simu", "start_offset": 8, "end_offset": 12}, {"label": "Mode", "content": "serial port", "start_offset": 20, "end_offset": 31}, {"label": "Port", "content": "COM2", "start_offset": 39, "end_offset": 43}]}
+{"id": 315, "text": "disconnect simu laser serial port connection", "event_type": 15, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "simu", "start_offset": 11, "end_offset": 15}, {"label": "Mode", "content": "serial port", "start_offset": 22, "end_offset": 33}]}
+{"id": 316, "text": "connect simu laser, IP: 10.1.1.1, Port: 800", "event_type": 15, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "simu", "start_offset": 8, "end_offset": 12}, {"label": "Address", "content": "10.1.1.1", "start_offset": 24, "end_offset": 32}, {"label": "Port", "content": "800", "start_offset": 40, "end_offset": 43}]}
+{"id": 317, "text": "disconnect simu laser ethernet connection", "event_type": 15, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "simu", "start_offset": 11, "end_offset": 15}, {"label": "Mode", "content": "ethernet", "start_offset": 22, "end_offset": 30}]}
+{"id": 318, "text": "connect simu laser, serial port COM8", "event_type": 15, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "simu", "start_offset": 8, "end_offset": 12}, {"label": "Mode", "content": "serial port", "start_offset": 20, "end_offset": 31}, {"label": "Port", "content": "COM8", "start_offset": 32, "end_offset": 36}]}
+{"id": 319, "text": "disconnect simu laser serial port connection", "event_type": 15, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "simu", "start_offset": 11, "end_offset": 15}, {"label": "Mode", "content": "serial port", "start_offset": 22, "end_offset": 33}]}
+{"id": 320, "text": "connect simu laser, ethernet IP address set to 192.168.3.3, port 900", "event_type": 15, "entities": [{"label": "trigger", "content": "connect", "start_offset": 0, "end_offset": 7}, {"label": "Type", "content": "simu", "start_offset": 8, "end_offset": 12}, {"label": "Mode", "content": "ethernet", "start_offset": 20, "end_offset": 28}, {"label": "Address", "content": "192.168.3.3", "start_offset": 47, "end_offset": 58}, {"label": "Port", "content": "900", "start_offset": 65, "end_offset": 68}]}
+{"id": 321, "text": "disconnect simu laser ethernet connection", "event_type": 15, "entities": [{"label": "trigger", "content": "disconnect", "start_offset": 0, "end_offset": 10}, {"label": "Type", "content": "simu", "start_offset": 11, "end_offset": 15}, {"label": "Mode", "content": "ethernet", "start_offset": 22, "end_offset": 30}]}
+{"id": 322, "text": "indicator light", "event_type": 16, "entities": [{"label": "trigger", "content": "indicator light", "start_offset": 0, "end_offset": 15}, {"label": "Event", "content": "indicator light", "start_offset": 0, "end_offset": 15}]}
+{"id": 323, "text": "red light", "event_type": 16, "entities": [{"label": "trigger", "content": "red light", "start_offset": 0, "end_offset": 9}, {"label": "Event", "content": "red light", "start_offset": 0, "end_offset": 9}]}
+{"id": 324, "text": "laser enable", "event_type": 16, "entities": [{"label": "trigger", "content": "enable", "start_offset": 6, "end_offset": 12}, {"label": "Event", "content": "laser enable", "start_offset": 0, "end_offset": 12}]}
+{"id": 325, "text": "laser", "event_type": 16, "entities": [{"label": "trigger", "content": "laser", "start_offset": 0, "end_offset": 5}, {"label": "Event", "content": "laser", "start_offset": 0, "end_offset": 5}]}
+{"id": 326, "text": "turn on laser indicator light", "event_type": 16, "entities": [{"label": "trigger", "content": "turn on", "start_offset": 0, "end_offset": 7}, {"label": "Switch", "content": "turn on", "start_offset": 0, "end_offset": 7}, {"label": "Event", "content": "indicator light", "start_offset": 14, "end_offset": 29}]}
+{"id": 327, "text": "turn off laser indicatorlight", "event_type": 16, "entities": [{"label": "trigger", "content": "turn off", "start_offset": 0, "end_offset": 8}, {"label": "Switch", "content": "turn off", "start_offset": 0, "end_offset": 8}, {"label": "Event", "content": "indicatorlight", "start_offset": 15, "end_offset": 29}]}
+{"id": 328, "text": "turn on laser indicator light", "event_type": 16, "entities": [{"label": "trigger", "content": "turn on", "start_offset": 0, "end_offset": 7}, {"label": "Switch", "content": "turn on", "start_offset": 0, "end_offset": 7}, {"label": "Event", "content": "indicator light", "start_offset": 14, "end_offset": 29}]}
+{"id": 329, "text": "turn off laser indicator light", "event_type": 16, "entities": [{"label": "trigger", "content": "turn off", "start_offset": 0, "end_offset": 8}, {"label": "Switch", "content": "turn off", "start_offset": 0, "end_offset": 8}, {"label": "Event", "content": "indicator light", "start_offset": 15, "end_offset": 30}]}
+{"id": 330, "text": "turn on laser red light", "event_type": 16, "entities": [{"label": "trigger", "content": "turn on", "start_offset": 0, "end_offset": 7}, {"label": "Switch", "content": "turn on", "start_offset": 0, "end_offset": 7}, {"label": "Event", "content": "red light", "start_offset": 14, "end_offset": 23}]}
+{"id": 331, "text": "turn off laser red light", "event_type": 16, "entities": [{"label": "trigger", "content": "turn off", "start_offset": 0, "end_offset": 8}, {"label": "Switch", "content": "turn off", "start_offset": 0, "end_offset": 8}, {"label": "Event", "content": "red light", "start_offset": 15, "end_offset": 24}]}
+{"id": 332, "text": "turn on laser red light", "event_type": 16, "entities": [{"label": "trigger", "content": "turn on", "start_offset": 0, "end_offset": 7}, {"label": "Switch", "content": "turn on", "start_offset": 0, "end_offset": 7}, {"label": "Event", "content": "red light", "start_offset": 14, "end_offset": 23}]}
+{"id": 333, "text": "turn off laser red light", "event_type": 16, "entities": [{"label": "trigger", "content": "turn off", "start_offset": 0, "end_offset": 8}, {"label": "Switch", "content": "turn off", "start_offset": 0, "end_offset": 8}, {"label": "Event", "content": "red light", "start_offset": 15, "end_offset": 24}]}
+{"id": 334, "text": "turn off red light", "event_type": 16, "entities": [{"label": "trigger", "content": "turn off", "start_offset": 0, "end_offset": 8}, {"label": "Switch", "content": "turn off", "start_offset": 0, "end_offset": 8}, {"label": "Event", "content": "red light", "start_offset": 9, "end_offset": 18}]}
+{"id": 335, "text": "activate laser enable", "event_type": 16, "entities": [{"label": "trigger", "content": "activate", "start_offset": 0, "end_offset": 8}, {"label": "Switch", "content": "activate", "start_offset": 0, "end_offset": 8}, {"label": "Event", "content": "laser enable", "start_offset": 9, "end_offset": 21}]}
+{"id": 336, "text": "turn on laser enable", "event_type": 16, "entities": [{"label": "trigger", "content": "turn on", "start_offset": 0, "end_offset": 7}, {"label": "Switch", "content": "turn on", "start_offset": 0, "end_offset": 7}, {"label": "Event", "content": "laser enable", "start_offset": 8, "end_offset": 20}]}
+{"id": 337, "text": "turn off laser enable", "event_type": 16, "entities": [{"label": "trigger", "content": "turn off", "start_offset": 0, "end_offset": 8}, {"label": "Switch", "content": "turn off", "start_offset": 0, "end_offset": 8}, {"label": "Event", "content": "laser enable", "start_offset": 9, "end_offset": 21}]}
+{"id": 338, "text": "turn on laser", "event_type": 16, "entities": [{"label": "trigger", "content": "turn on", "start_offset": 0, "end_offset": 7}, {"label": "Switch", "content": "turn on", "start_offset": 0, "end_offset": 7}, {"label": "Event", "content": "laser", "start_offset": 8, "end_offset": 13}]}
+{"id": 339, "text": "turn off laser", "event_type": 16, "entities": [{"label": "trigger", "content": "turn off", "start_offset": 0, "end_offset": 8}, {"label": "Switch", "content": "turn off", "start_offset": 0, "end_offset": 8}, {"label": "Event", "content": "laser", "start_offset": 9, "end_offset": 14}]}
+{"id": 340, "text": "activate laser emission", "event_type": 16, "entities": [{"label": "trigger", "content": "activate", "start_offset": 0, "end_offset": 8}, {"label": "Switch", "content": "activate", "start_offset": 0, "end_offset": 8}, {"label": "Event", "content": "laser emission", "start_offset": 9, "end_offset": 23}]}
+{"id": 341, "text": "deactivate laser emission", "event_type": 16, "entities": [{"label": "trigger", "content": "deactivate", "start_offset": 0, "end_offset": 10}, {"label": "Switch", "content": "deactivate", "start_offset": 0, "end_offset": 10}, {"label": "Event", "content": "laser emission", "start_offset": 11, "end_offset": 25}]}
+{"id": 342, "text": "enable laser", "event_type": 16, "entities": [{"label": "trigger", "content": "enable", "start_offset": 0, "end_offset": 6}, {"label": "Switch", "content": "enable", "start_offset": 0, "end_offset": 6}, {"label": "Event", "content": "laser", "start_offset": 7, "end_offset": 12}]}
+{"id": 343, "text": "laser output", "event_type": 16, "entities": [{"label": "trigger", "content": "output", "start_offset": 6, "end_offset": 12}, {"label": "Event", "content": "laser output", "start_offset": 0, "end_offset": 12}]}
+{"id": 344, "text": "stop laser output", "event_type": 16, "entities": [{"label": "trigger", "content": "stop", "start_offset": 0, "end_offset": 4}, {"label": "Switch", "content": "stop", "start_offset": 0, "end_offset": 4}, {"label": "Event", "content": "laser output", "start_offset": 5, "end_offset": 17}]}
+{"id": 345, "text": "start laser output", "event_type": 16, "entities": [{"label": "trigger", "content": "start", "start_offset": 0, "end_offset": 5}, {"label": "Switch", "content": "start", "start_offset": 0, "end_offset": 5}, {"label": "Event", "content": "laser output", "start_offset": 6, "end_offset": 18}]}
+{"id": 346, "text": "stop laser emission", "event_type": 16, "entities": [{"label": "trigger", "content": "stop", "start_offset": 0, "end_offset": 4}, {"label": "Switch", "content": "stop", "start_offset": 0, "end_offset": 4}, {"label": "Event", "content": "laser emission", "start_offset": 5, "end_offset": 19}]}
+{"id": 347, "text": "halt laser output", "event_type": 16, "entities": [{"label": "trigger", "content": "halt", "start_offset": 0, "end_offset": 4}, {"label": "Switch", "content": "halt", "start_offset": 0, "end_offset": 4}, {"label": "Event", "content": "laser output", "start_offset": 5, "end_offset": 17}]}
+{"id": 348, "text": "laser frequency", "event_type": 17, "entities": [{"label": "trigger", "content": "laser frequency", "start_offset": 0, "end_offset": 15}, {"label": "Variable", "content": "laser frequency", "start_offset": 0, "end_offset": 15}]}
+{"id": 349, "text": "laser power", "event_type": 17, "entities": [{"label": "trigger", "content": "laser power", "start_offset": 0, "end_offset": 11}, {"label": "Variable", "content": "laser power", "start_offset": 0, "end_offset": 11}]}
+{"id": 350, "text": "laser pulse width", "event_type": 17, "entities": [{"label": "trigger", "content": "laser pulse width", "start_offset": 0, "end_offset": 17}, {"label": "Variable", "content": "laser pulse width", "start_offset": 0, "end_offset": 17}]}
+{"id": 351, "text": "laser parameters", "event_type": 17, "entities": [{"label": "trigger", "content": "laser parameters", "start_offset": 0, "end_offset": 16}]}
+{"id": 352, "text": "set laser parameters", "event_type": 17, "entities": [{"label": "trigger", "content": "laser parameters", "start_offset": 4, "end_offset": 20}]}
+{"id": 353, "text": "adjust laser frequency", "event_type": 17, "entities": [{"label": "trigger", "content": "laser frequency", "start_offset": 7, "end_offset": 22}, {"label": "Variable", "content": "laser frequency", "start_offset": 7, "end_offset": 22}]}
+{"id": 354, "text": "adjust laser power", "event_type": 17, "entities": [{"label": "trigger", "content": "laser power", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "laser power", "start_offset": 7, "end_offset": 18}]}
+{"id": 355, "text": "change laser pulse width", "event_type": 17, "entities": [{"label": "trigger", "content": "laser pulse width", "start_offset": 7, "end_offset": 24}, {"label": "Variable", "content": "laser pulse width", "start_offset": 7, "end_offset": 24}]}
+{"id": 356, "text": "set laser power to 50%", "event_type": 17, "entities": [{"label": "trigger", "content": "laser power", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "laser power", "start_offset": 4, "end_offset": 15}, {"label": "Value", "content": "50%", "start_offset": 19, "end_offset": 22}]}
+{"id": 357, "text": "set laser power to ninety percent", "event_type": 17, "entities": [{"label": "trigger", "content": "laser power", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "laser power", "start_offset": 4, "end_offset": 15}, {"label": "Value", "content": "ninety percent", "start_offset": 19, "end_offset": 33}]}
+{"id": 358, "text": "adjust laser power to 30 percent", "event_type": 17, "entities": [{"label": "trigger", "content": "laser power", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "laser power", "start_offset": 7, "end_offset": 18}, {"label": "Value", "content": "30 percent", "start_offset": 22, "end_offset": 32}]}
+{"id": 359, "text": "set laser power value to 90%", "event_type": 17, "entities": [{"label": "trigger", "content": "laser power", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "laser power", "start_offset": 4, "end_offset": 15}, {"label": "Value", "content": "90%", "start_offset": 25, "end_offset": 28}]}
+{"id": 360, "text": "laser frequency is 50khz", "event_type": 17, "entities": [{"label": "trigger", "content": "laser frequency", "start_offset": 0, "end_offset": 15}, {"label": "Variable", "content": "laser frequency", "start_offset": 0, "end_offset": 15}, {"label": "Value", "content": "50khz", "start_offset": 19, "end_offset": 24}]}
+{"id": 361, "text": "set laser frequency to 100 kilohertz", "event_type": 17, "entities": [{"label": "trigger", "content": "laser frequency", "start_offset": 4, "end_offset": 19}, {"label": "Variable", "content": "laser frequency", "start_offset": 4, "end_offset": 19}, {"label": "Value", "content": "100 kilohertz", "start_offset": 23, "end_offset": 36}]}
+{"id": 362, "text": "adjust laser frequency value to sixty khz", "event_type": 17, "entities": [{"label": "trigger", "content": "laser frequency", "start_offset": 7, "end_offset": 22}, {"label": "Variable", "content": "laser frequency", "start_offset": 7, "end_offset": 22}, {"label": "Value", "content": "sixty khz", "start_offset": 32, "end_offset": 41}]}
+{"id": 363, "text": "set laser frequency to one hundred thousand hertz", "event_type": 17, "entities": [{"label": "trigger", "content": "laser frequency", "start_offset": 4, "end_offset": 19}, {"label": "Variable", "content": "laser frequency", "start_offset": 4, "end_offset": 19}, {"label": "Value", "content": "one hundred thousand hertz", "start_offset": 23, "end_offset": 49}]}
+{"id": 364, "text": "laser pulse width 0.3 microseconds", "event_type": 17, "entities": [{"label": "trigger", "content": "laser pulse width", "start_offset": 0, "end_offset": 17}, {"label": "Variable", "content": "laser pulse width", "start_offset": 0, "end_offset": 17}, {"label": "Value", "content": "0.3 microseconds", "start_offset": 18, "end_offset": 34}]}
+{"id": 365, "text": "adjust laser pulse width to 200ns", "event_type": 17, "entities": [{"label": "trigger", "content": "laser pulse width", "start_offset": 7, "end_offset": 24}, {"label": "Variable", "content": "laser pulse width", "start_offset": 7, "end_offset": 24}, {"label": "Value", "content": "200ns", "start_offset": 28, "end_offset": 33}]}
+{"id": 366, "text": "set laser pulse width to 400 nanoseconds", "event_type": 17, "entities": [{"label": "trigger", "content": "laser pulse width", "start_offset": 4, "end_offset": 21}, {"label": "Variable", "content": "laser pulse width", "start_offset": 4, "end_offset": 21}, {"label": "Value", "content": "400 nanoseconds", "start_offset": 25, "end_offset": 40}]}
+{"id": 367, "text": "adjust laser pulse width value to 0.4 microseconds", "event_type": 17, "entities": [{"label": "trigger", "content": "laser pulse width", "start_offset": 7, "end_offset": 24}, {"label": "Variable", "content": "laser pulse width", "start_offset": 7, "end_offset": 24}, {"label": "Value", "content": "0.4 microseconds", "start_offset": 34, "end_offset": 50}]}
+{"id": 368, "text": "scanner coordinate system", "event_type": 18, "entities": [{"label": "trigger", "content": "scanner coordinate system", "start_offset": 0, "end_offset": 25}, {"label": "System", "content": "scanner", "start_offset": 0, "end_offset": 7}]}
+{"id": 369, "text": "camera coordinate system", "event_type": 18, "entities": [{"label": "trigger", "content": "camera coordinate system", "start_offset": 0, "end_offset": 24}, {"label": "System", "content": "camera", "start_offset": 0, "end_offset": 6}]}
+{"id": 370, "text": "galvanometer origin coordinates", "event_type": 18, "entities": [{"label": "trigger", "content": "galvanometer origin coordinates", "start_offset": 0, "end_offset": 31}, {"label": "System", "content": "galvanometer", "start_offset": 0, "end_offset": 12}]}
+{"id": 371, "text": "camera origin coordinates", "event_type": 18, "entities": [{"label": "trigger", "content": "camera origin coordinates", "start_offset": 0, "end_offset": 25}, {"label": "System", "content": "camera", "start_offset": 0, "end_offset": 6}]}
+{"id": 372, "text": "adjust scanner origin coordinates", "event_type": 18, "entities": [{"label": "trigger", "content": "adjust", "start_offset": 0, "end_offset": 6}, {"label": "System", "content": "scanner", "start_offset": 7, "end_offset": 14}]}
+{"id": 373, "text": "set camera origin coordinates", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "camera", "start_offset": 4, "end_offset": 10}]}
+{"id": 374, "text": "set galvanometer coordinate system origin X axis to 0", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "galvanometer coordinate system", "start_offset": 4, "end_offset": 34}, {"label": "Axis", "content": "X", "start_offset": 42, "end_offset": 43}, {"label": "Value", "content": "0", "start_offset": 52, "end_offset": 53}]}
+{"id": 375, "text": "change galvanometer coordinate system X coordinate to -5.4", "event_type": 18, "entities": [{"label": "trigger", "content": "change", "start_offset": 0, "end_offset": 6}, {"label": "System", "content": "galvanometer coordinate system", "start_offset": 7, "end_offset": 37}, {"label": "Axis", "content": "X", "start_offset": 38, "end_offset": 39}, {"label": "Value", "content": "-5.4", "start_offset": 54, "end_offset": 58}]}
+{"id": 376, "text": "set scanner coordinate system X value to +30.2", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "scanner coordinate system", "start_offset": 4, "end_offset": 29}, {"label": "Axis", "content": "X", "start_offset": 30, "end_offset": 31}, {"label": "Value", "content": "+30.2", "start_offset": 41, "end_offset": 46}]}
+{"id": 377, "text": "adjust galvanometer coordinate system X axis coordinate to zero", "event_type": 18, "entities": [{"label": "trigger", "content": "adjust", "start_offset": 0, "end_offset": 6}, {"label": "System", "content": "galvanometer coordinate system", "start_offset": 7, "end_offset": 37}, {"label": "Axis", "content": "X", "start_offset": 38, "end_offset": 39}, {"label": "Value", "content": "zero", "start_offset": 59, "end_offset": 63}]}
+{"id": 378, "text": "set scanner coordinate system X to negative five point four", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "scanner coordinate system", "start_offset": 4, "end_offset": 29}, {"label": "Axis", "content": "X", "start_offset": 30, "end_offset": 31}, {"label": "Value", "content": "negative five point four", "start_offset": 35, "end_offset": 59}]}
+{"id": 379, "text": "set galvanometer X axis coordinate to -30.2", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "galvanometer", "start_offset": 4, "end_offset": 16}, {"label": "Axis", "content": "X", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "-30.2", "start_offset": 38, "end_offset": 43}]}
+{"id": 380, "text": "set scanner coordinate system Y coordinate to negative twenty point six", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "scanner coordinate system", "start_offset": 4, "end_offset": 29}, {"label": "Axis", "content": "Y", "start_offset": 30, "end_offset": 31}, {"label": "Value", "content": "negative twenty point six", "start_offset": 46, "end_offset": 71}]}
+{"id": 381, "text": "galvanometer coordinate system Y axis changed to +20.5", "event_type": 18, "entities": [{"label": "trigger", "content": "changed", "start_offset": 38, "end_offset": 45}, {"label": "System", "content": "galvanometer coordinate system", "start_offset": 0, "end_offset": 30}, {"label": "Axis", "content": "Y", "start_offset": 31, "end_offset": 32}, {"label": "Value", "content": "+20.5", "start_offset": 49, "end_offset": 54}]}
+{"id": 382, "text": "set galvanometer Y axis value to negative 10", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "galvanometer", "start_offset": 4, "end_offset": 16}, {"label": "Axis", "content": "Y", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "negative 10", "start_offset": 33, "end_offset": 44}]}
+{"id": 383, "text": "set scanner Y axis coordinate to 20.5", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "scanner", "start_offset": 4, "end_offset": 11}, {"label": "Axis", "content": "Y", "start_offset": 12, "end_offset": 13}, {"label": "Value", "content": "20.5", "start_offset": 33, "end_offset": 37}]}
+{"id": 384, "text": "set galvanometer Y value to negative twenty point six", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "galvanometer", "start_offset": 4, "end_offset": 16}, {"label": "Axis", "content": "Y", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "negative twenty point six", "start_offset": 28, "end_offset": 53}]}
+{"id": 385, "text": "set scanner Y axis to -10", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "scanner", "start_offset": 4, "end_offset": 11}, {"label": "Axis", "content": "Y", "start_offset": 12, "end_offset": 13}, {"label": "Value", "content": "-10", "start_offset": 22, "end_offset": 25}]}
+{"id": 386, "text": "galvanometer coordinate system Z axis coordinate set to 10.5", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 49, "end_offset": 52}, {"label": "System", "content": "galvanometer coordinate system", "start_offset": 0, "end_offset": 30}, {"label": "Axis", "content": "Z", "start_offset": 31, "end_offset": 32}, {"label": "Value", "content": "10.5", "start_offset": 56, "end_offset": 60}]}
+{"id": 387, "text": "set scanner Z axis coordinate to -15.2", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "scanner", "start_offset": 4, "end_offset": 11}, {"label": "Axis", "content": "Z", "start_offset": 12, "end_offset": 13}, {"label": "Value", "content": "-15.2", "start_offset": 33, "end_offset": 38}]}
+{"id": 388, "text": "set galvanometer Z coordinate to 5", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "galvanometer", "start_offset": 4, "end_offset": 16}, {"label": "Axis", "content": "Z", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "5", "start_offset": 33, "end_offset": 34}]}
+{"id": 389, "text": "set galvanometer coordinate system Z axis to negative twenty point three", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "galvanometer coordinate system", "start_offset": 4, "end_offset": 34}, {"label": "Axis", "content": "Z", "start_offset": 35, "end_offset": 36}, {"label": "Value", "content": "negative twenty point three", "start_offset": 45, "end_offset": 72}]}
+{"id": 390, "text": "set scanner Z value to 0", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "scanner", "start_offset": 4, "end_offset": 11}, {"label": "Axis", "content": "Z", "start_offset": 12, "end_offset": 13}, {"label": "Value", "content": "0", "start_offset": 23, "end_offset": 24}]}
+{"id": 391, "text": "galvanometer Z axis coordinate changed to -5.6", "event_type": 18, "entities": [{"label": "trigger", "content": "changed", "start_offset": 31, "end_offset": 38}, {"label": "System", "content": "galvanometer", "start_offset": 0, "end_offset": 12}, {"label": "Axis", "content": "Z", "start_offset": 13, "end_offset": 14}, {"label": "Value", "content": "-5.6", "start_offset": 42, "end_offset": 46}]}
+{"id": 392, "text": "set camera coordinate system X axis to 0", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "camera coordinate system", "start_offset": 4, "end_offset": 28}, {"label": "Axis", "content": "X", "start_offset": 29, "end_offset": 30}, {"label": "Value", "content": "0", "start_offset": 39, "end_offset": 40}]}
+{"id": 393, "text": "camera X coordinate reset to -10.5", "event_type": 18, "entities": [{"label": "trigger", "content": "reset", "start_offset": 20, "end_offset": 25}, {"label": "System", "content": "camera", "start_offset": 0, "end_offset": 6}, {"label": "Axis", "content": "X", "start_offset": 7, "end_offset": 8}, {"label": "Value", "content": "-10.5", "start_offset": 29, "end_offset": 34}]}
+{"id": 394, "text": "change camera coordinate system X value to +15.2", "event_type": 18, "entities": [{"label": "trigger", "content": "change", "start_offset": 0, "end_offset": 6}, {"label": "System", "content": "camera coordinate system", "start_offset": 7, "end_offset": 31}, {"label": "Axis", "content": "X", "start_offset": 32, "end_offset": 33}, {"label": "Value", "content": "+15.2", "start_offset": 43, "end_offset": 48}]}
+{"id": 395, "text": "set camera X axis coordinate to zero", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "camera", "start_offset": 4, "end_offset": 10}, {"label": "Axis", "content": "X", "start_offset": 11, "end_offset": 12}, {"label": "Value", "content": "zero", "start_offset": 32, "end_offset": 36}]}
+{"id": 396, "text": "camera X value adjusted to negative 25.3", "event_type": 18, "entities": [{"label": "trigger", "content": "adjusted", "start_offset": 15, "end_offset": 23}, {"label": "System", "content": "camera", "start_offset": 0, "end_offset": 6}, {"label": "Axis", "content": "X", "start_offset": 7, "end_offset": 8}, {"label": "Value", "content": "negative 25.3", "start_offset": 27, "end_offset": 40}]}
+{"id": 397, "text": "set camera coordinate system X axis to 30.0", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "camera coordinate system", "start_offset": 4, "end_offset": 28}, {"label": "Axis", "content": "X", "start_offset": 29, "end_offset": 30}, {"label": "Value", "content": "30.0", "start_offset": 39, "end_offset": 43}]}
+{"id": 398, "text": "set camera Y axis coordinate to -12.4", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "camera", "start_offset": 4, "end_offset": 10}, {"label": "Axis", "content": "Y", "start_offset": 11, "end_offset": 12}, {"label": "Value", "content": "-12.4", "start_offset": 32, "end_offset": 37}]}
+{"id": 399, "text": "camera coordinate system Y value changed to +25.1", "event_type": 18, "entities": [{"label": "trigger", "content": "changed", "start_offset": 33, "end_offset": 40}, {"label": "System", "content": "camera coordinate system", "start_offset": 0, "end_offset": 24}, {"label": "Axis", "content": "Y", "start_offset": 25, "end_offset": 26}, {"label": "Value", "content": "+25.1", "start_offset": 44, "end_offset": 49}]}
+{"id": 400, "text": "camera Y axis value adjusted to negative 5", "event_type": 18, "entities": [{"label": "trigger", "content": "adjusted", "start_offset": 20, "end_offset": 28}, {"label": "System", "content": "camera", "start_offset": 0, "end_offset": 6}, {"label": "Axis", "content": "Y", "start_offset": 7, "end_offset": 8}, {"label": "Value", "content": "negative 5", "start_offset": 32, "end_offset": 42}]}
+{"id": 401, "text": "set camera Y coordinate to +10.5", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "camera", "start_offset": 4, "end_offset": 10}, {"label": "Axis", "content": "Y", "start_offset": 11, "end_offset": 12}, {"label": "Value", "content": "+10.5", "start_offset": 27, "end_offset": 32}]}
+{"id": 402, "text": "change camera coordinate system Y axis to -18.2", "event_type": 18, "entities": [{"label": "trigger", "content": "change", "start_offset": 0, "end_offset": 6}, {"label": "System", "content": "camera coordinate system", "start_offset": 7, "end_offset": 31}, {"label": "Axis", "content": "Y", "start_offset": 32, "end_offset": 33}, {"label": "Value", "content": "-18.2", "start_offset": 42, "end_offset": 47}]}
+{"id": 403, "text": "camera Y value set to +20", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 15, "end_offset": 18}, {"label": "System", "content": "camera", "start_offset": 0, "end_offset": 6}, {"label": "Axis", "content": "Y", "start_offset": 7, "end_offset": 8}, {"label": "Value", "content": "+20", "start_offset": 22, "end_offset": 25}]}
+{"id": 404, "text": "set camera coordinate system Z value to 15.5", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "camera coordinate system", "start_offset": 4, "end_offset": 28}, {"label": "Axis", "content": "Z", "start_offset": 29, "end_offset": 30}, {"label": "Value", "content": "15.5", "start_offset": 40, "end_offset": 44}]}
+{"id": 405, "text": "camera Z axis coordinate adjusted to -7.8", "event_type": 18, "entities": [{"label": "trigger", "content": "adjusted", "start_offset": 25, "end_offset": 33}, {"label": "System", "content": "camera", "start_offset": 0, "end_offset": 6}, {"label": "Axis", "content": "Z", "start_offset": 7, "end_offset": 8}, {"label": "Value", "content": "-7.8", "start_offset": 37, "end_offset": 41}]}
+{"id": 406, "text": "set camera Z value to zero", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "camera", "start_offset": 4, "end_offset": 10}, {"label": "Axis", "content": "Z", "start_offset": 11, "end_offset": 12}, {"label": "Value", "content": "zero", "start_offset": 22, "end_offset": 26}]}
+{"id": 407, "text": "adjust camera coordinate system Z value to -12.5", "event_type": 18, "entities": [{"label": "trigger", "content": "adjust", "start_offset": 0, "end_offset": 6}, {"label": "System", "content": "camera coordinate system", "start_offset": 7, "end_offset": 31}, {"label": "Axis", "content": "Z", "start_offset": 32, "end_offset": 33}, {"label": "Value", "content": "-12.5", "start_offset": 43, "end_offset": 48}]}
+{"id": 408, "text": "camera Z axis set to +8.6", "event_type": 18, "entities": [{"label": "trigger", "content": "set", "start_offset": 14, "end_offset": 17}, {"label": "System", "content": "camera", "start_offset": 0, "end_offset": 6}, {"label": "Axis", "content": "Z", "start_offset": 7, "end_offset": 8}, {"label": "Value", "content": "+8.6", "start_offset": 21, "end_offset": 25}]}
+{"id": 409, "text": "switch coordinate system", "event_type": 19, "entities": [{"label": "trigger", "content": "switch", "start_offset": 0, "end_offset": 6}]}
+{"id": 410, "text": "switch to scanner coordinate system", "event_type": 19, "entities": [{"label": "trigger", "content": "switch", "start_offset": 0, "end_offset": 6}, {"label": "System", "content": "scanner coordinate system", "start_offset": 10, "end_offset": 35}]}
+{"id": 411, "text": "switch to camera coordinate system", "event_type": 19, "entities": [{"label": "trigger", "content": "switch", "start_offset": 0, "end_offset": 6}, {"label": "System", "content": "camera coordinate system", "start_offset": 10, "end_offset": 34}]}
+{"id": 412, "text": "change to galvanometer as origin", "event_type": 19, "entities": [{"label": "trigger", "content": "change", "start_offset": 0, "end_offset": 6}, {"label": "System", "content": "galvanometer", "start_offset": 10, "end_offset": 22}]}
+{"id": 413, "text": "change to camera as origin", "event_type": 19, "entities": [{"label": "trigger", "content": "change", "start_offset": 0, "end_offset": 6}, {"label": "System", "content": "camera", "start_offset": 10, "end_offset": 16}]}
+{"id": 414, "text": "use scanner as origin", "event_type": 19, "entities": [{"label": "trigger", "content": "use", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "scanner", "start_offset": 4, "end_offset": 11}]}
+{"id": 415, "text": "use camera as origin", "event_type": 19, "entities": [{"label": "trigger", "content": "use", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "camera", "start_offset": 4, "end_offset": 10}]}
+{"id": 416, "text": "change to galvanometer coordinate system", "event_type": 19, "entities": [{"label": "trigger", "content": "change", "start_offset": 0, "end_offset": 6}, {"label": "System", "content": "galvanometer coordinate system", "start_offset": 10, "end_offset": 40}]}
+{"id": 417, "text": "switch to camera coordinate system", "event_type": 19, "entities": [{"label": "trigger", "content": "switch", "start_offset": 0, "end_offset": 6}, {"label": "System", "content": "camera coordinate system", "start_offset": 10, "end_offset": 34}]}
+{"id": 418, "text": "set current coordinate system to galvanometer coordinate system", "event_type": 19, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "galvanometer coordinate system", "start_offset": 33, "end_offset": 63}]}
+{"id": 419, "text": "adjust coordinate system to camera coordinate system", "event_type": 19, "entities": [{"label": "trigger", "content": "adjust", "start_offset": 0, "end_offset": 6}, {"label": "System", "content": "camera coordinate system", "start_offset": 28, "end_offset": 52}]}
+{"id": 420, "text": "use scanner coordinate system as current coordinate system", "event_type": 19, "entities": [{"label": "trigger", "content": "use", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "scanner coordinate system", "start_offset": 4, "end_offset": 29}]}
+{"id": 421, "text": "use camera coordinate system as reference coordinate system", "event_type": 19, "entities": [{"label": "trigger", "content": "use", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "camera coordinate system", "start_offset": 4, "end_offset": 28}]}
+{"id": 422, "text": "switch coordinate origin to galvanometer", "event_type": 19, "entities": [{"label": "trigger", "content": "switch", "start_offset": 0, "end_offset": 6}, {"label": "System", "content": "galvanometer", "start_offset": 28, "end_offset": 40}]}
+{"id": 423, "text": "switch coordinate origin to camera", "event_type": 19, "entities": [{"label": "trigger", "content": "switch", "start_offset": 0, "end_offset": 6}, {"label": "System", "content": "camera", "start_offset": 28, "end_offset": 34}]}
+{"id": 424, "text": "set scanner as coordinate system origin", "event_type": 19, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "scanner", "start_offset": 4, "end_offset": 11}]}
+{"id": 425, "text": "set camera as coordinate system origin", "event_type": 19, "entities": [{"label": "trigger", "content": "set", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "camera", "start_offset": 4, "end_offset": 10}]}
+{"id": 426, "text": "use galvanometer as reference coordinate system", "event_type": 19, "entities": [{"label": "trigger", "content": "use", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "galvanometer", "start_offset": 4, "end_offset": 16}]}
+{"id": 427, "text": "use camera as reference coordinate system", "event_type": 19, "entities": [{"label": "trigger", "content": "use", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "camera", "start_offset": 4, "end_offset": 10}]}
+{"id": 428, "text": "change reference origin to scanner", "event_type": 19, "entities": [{"label": "trigger", "content": "change", "start_offset": 0, "end_offset": 6}, {"label": "System", "content": "scanner", "start_offset": 27, "end_offset": 34}]}
+{"id": 429, "text": "change reference origin to camera", "event_type": 19, "entities": [{"label": "trigger", "content": "change", "start_offset": 0, "end_offset": 6}, {"label": "System", "content": "camera", "start_offset": 27, "end_offset": 33}]}
+{"id": 430, "text": "switch coordinate system to galvanometer coordinate system", "event_type": 19, "entities": [{"label": "trigger", "content": "switch", "start_offset": 0, "end_offset": 6}, {"label": "System", "content": "galvanometer coordinate system", "start_offset": 28, "end_offset": 58}]}
+{"id": 431, "text": "switch coordinate system to camera coordinate system", "event_type": 19, "entities": [{"label": "trigger", "content": "switch", "start_offset": 0, "end_offset": 6}, {"label": "System", "content": "camera coordinate system", "start_offset": 28, "end_offset": 52}]}
+{"id": 432, "text": "use galvanometer as coordinate origin", "event_type": 19, "entities": [{"label": "trigger", "content": "use", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "galvanometer", "start_offset": 4, "end_offset": 16}]}
+{"id": 433, "text": "use camera as coordinate origin", "event_type": 19, "entities": [{"label": "trigger", "content": "use", "start_offset": 0, "end_offset": 3}, {"label": "System", "content": "camera", "start_offset": 4, "end_offset": 10}]}
+{"id": 434, "text": "tool retract enable", "event_type": 20, "entities": [{"label": "trigger", "content": "tool retract enable", "start_offset": 0, "end_offset": 19}]}
+{"id": 435, "text": "activate tool retract enable", "event_type": 20, "entities": [{"label": "trigger", "content": "tool retract enable", "start_offset": 9, "end_offset": 28}, {"label": "Switch", "content": "activate", "start_offset": 0, "end_offset": 8}]}
+{"id": 436, "text": "turn on tool retract enable", "event_type": 20, "entities": [{"label": "trigger", "content": "tool retract enable", "start_offset": 8, "end_offset": 27}, {"label": "Switch", "content": "turn on", "start_offset": 0, "end_offset": 7}]}
+{"id": 437, "text": "turn off tool retract enable", "event_type": 20, "entities": [{"label": "trigger", "content": "tool retract enable", "start_offset": 9, "end_offset": 28}, {"label": "Switch", "content": "turn off", "start_offset": 0, "end_offset": 8}]}
+{"id": 438, "text": "deactivate tool retract enable", "event_type": 20, "entities": [{"label": "trigger", "content": "tool retract enable", "start_offset": 11, "end_offset": 30}, {"label": "Switch", "content": "deactivate", "start_offset": 0, "end_offset": 10}]}
+{"id": 439, "text": "enable tool retract", "event_type": 20, "entities": [{"label": "trigger", "content": "tool retract", "start_offset": 7, "end_offset": 19}, {"label": "Switch", "content": "enable", "start_offset": 0, "end_offset": 6}]}
+{"id": 440, "text": "tool retract distance", "event_type": 21, "entities": [{"label": "trigger", "content": "tool retract distance", "start_offset": 0, "end_offset": 21}]}
+{"id": 441, "text": "modify tool retract distance", "event_type": 21, "entities": [{"label": "trigger", "content": "tool retract distance", "start_offset": 7, "end_offset": 27}]}
+{"id": 442, "text": "adjust tool retract distance", "event_type": 21, "entities": [{"label": "trigger", "content": "tool retract distance", "start_offset": 7, "end_offset": 27}]}
+{"id": 443, "text": "adjust tool retract distance to 200", "event_type": 21, "entities": [{"label": "trigger", "content": "tool retract distance", "start_offset": 7, "end_offset": 27}, {"label": "Value", "content": "200", "start_offset": 32, "end_offset": 35}]}
+{"id": 444, "text": "set tool retract distance to one hundred fifty", "event_type": 21, "entities": [{"label": "trigger", "content": "tool retract distance", "start_offset": 4, "end_offset": 24}, {"label": "Value", "content": "one hundred fifty", "start_offset": 29, "end_offset": 46}]}
+{"id": 445, "text": "set tool retract distance to 270", "event_type": 21, "entities": [{"label": "trigger", "content": "tool retract distance", "start_offset": 4, "end_offset": 24}, {"label": "Value", "content": "270", "start_offset": 29, "end_offset": 32}]}
+{"id": 446, "text": "change tool retract distance to 150", "event_type": 21, "entities": [{"label": "trigger", "content": "tool retract distance", "start_offset": 7, "end_offset": 27}, {"label": "Value", "content": "150", "start_offset": 32, "end_offset": 35}]}
+{"id": 447, "text": "set tool retract distance to 200", "event_type": 21, "entities": [{"label": "trigger", "content": "tool retract distance", "start_offset": 4, "end_offset": 24}, {"label": "Value", "content": "200", "start_offset": 29, "end_offset": 32}]}
+{"id": 448, "text": "adjust tool retract distance to two hundred", "event_type": 21, "entities": [{"label": "trigger", "content": "tool retract distance", "start_offset": 7, "end_offset": 27}, {"label": "Value", "content": "two hundred", "start_offset": 32, "end_offset": 43}]}
+{"id": 449, "text": "set tool retract distance to 150", "event_type": 21, "entities": [{"label": "trigger", "content": "tool retract distance", "start_offset": 4, "end_offset": 24}, {"label": "Value", "content": "150", "start_offset": 29, "end_offset": 32}]}
+{"id": 450, "text": "adjust tool retract distance to 270", "event_type": 21, "entities": [{"label": "trigger", "content": "tool retract distance", "start_offset": 7, "end_offset": 27}, {"label": "Value", "content": "270", "start_offset": 32, "end_offset": 35}]}
+{"id": 451, "text": "change tool retract distance value to 150", "event_type": 21, "entities": [{"label": "trigger", "content": "tool retract distance", "start_offset": 7, "end_offset": 27}, {"label": "Value", "content": "150", "start_offset": 38, "end_offset": 41}]}
+{"id": 452, "text": "set tool retract distance to 200", "event_type": 21, "entities": [{"label": "trigger", "content": "tool retract distance", "start_offset": 4, "end_offset": 24}, {"label": "Value", "content": "200", "start_offset": 29, "end_offset": 32}]}
+{"id": 453, "text": "tool movement", "event_type": 22, "entities": [{"label": "trigger", "content": "movement", "start_offset": 5, "end_offset": 13}]}
+{"id": 454, "text": "move tool X axis by one unit", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "X", "start_offset": 10, "end_offset": 11}, {"label": "Distance", "content": "one unit", "start_offset": 20, "end_offset": 28}]}
+{"id": 455, "text": "move tool Y axis by twenty units", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Y", "start_offset": 10, "end_offset": 11}, {"label": "Distance", "content": "twenty units", "start_offset": 20, "end_offset": 32}]}
+{"id": 456, "text": "move tool Z axis in positive direction by 34 units", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Z", "start_offset": 10, "end_offset": 11}, {"label": "Direction", "content": "positive", "start_offset": 20, "end_offset": 28}, {"label": "Distance", "content": "34 units", "start_offset": 42, "end_offset": 50}]}
+{"id": 457, "text": "move tool X axis in forward direction by one unit", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "X", "start_offset": 10, "end_offset": 11}, {"label": "Direction", "content": "forward", "start_offset": 20, "end_offset": 27}, {"label": "Distance", "content": "one unit", "start_offset": 41, "end_offset": 49}]}
+{"id": 458, "text": "move tool Y axis in negative direction by four units", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Y", "start_offset": 10, "end_offset": 11}, {"label": "Direction", "content": "negative", "start_offset": 20, "end_offset": 28}, {"label": "Distance", "content": "four units", "start_offset": 42, "end_offset": 52}]}
+{"id": 459, "text": "tool Z axis move -22", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 12, "end_offset": 16}, {"label": "Axis", "content": "Z", "start_offset": 5, "end_offset": 6}, {"label": "Distance", "content": "-22", "start_offset": 17, "end_offset": 20}]}
+{"id": 460, "text": "tool X positive direction move 34", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 26, "end_offset": 30}, {"label": "Axis", "content": "X", "start_offset": 5, "end_offset": 6}, {"label": "Direction", "content": "positive", "start_offset": 7, "end_offset": 15}, {"label": "Distance", "content": "34", "start_offset": 31, "end_offset": 33}]}
+{"id": 461, "text": "tool Y backward direction move 29", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 26, "end_offset": 30}, {"label": "Axis", "content": "Y", "start_offset": 5, "end_offset": 6}, {"label": "Direction", "content": "backward", "start_offset": 7, "end_offset": 15}, {"label": "Distance", "content": "29", "start_offset": 31, "end_offset": 33}]}
+{"id": 462, "text": "move tool Z negative fourteen", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Z", "start_offset": 10, "end_offset": 11}, {"label": "Direction", "content": "negative", "start_offset": 12, "end_offset": 20}, {"label": "Distance", "content": "fourteen", "start_offset": 21, "end_offset": 29}]}
+{"id": 463, "text": "tool X positive direction move 38", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 26, "end_offset": 30}, {"label": "Axis", "content": "X", "start_offset": 5, "end_offset": 6}, {"label": "Direction", "content": "positive", "start_offset": 7, "end_offset": 15}, {"label": "Distance", "content": "38", "start_offset": 31, "end_offset": 33}]}
+{"id": 464, "text": "move tool X axis in forward direction by 17 units", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "X", "start_offset": 10, "end_offset": 11}, {"label": "Direction", "content": "forward", "start_offset": 20, "end_offset": 27}, {"label": "Distance", "content": "17 units", "start_offset": 41, "end_offset": 49}]}
+{"id": 465, "text": "tool X axis in backward direction move six units", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 38, "end_offset": 42}, {"label": "Axis", "content": "X", "start_offset": 5, "end_offset": 6}, {"label": "Direction", "content": "backward", "start_offset": 15, "end_offset": 23}, {"label": "Distance", "content": "six units", "start_offset": 43, "end_offset": 52}]}
+{"id": 466, "text": "tool X axis move to 43", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 12, "end_offset": 16}, {"label": "Axis", "content": "X", "start_offset": 5, "end_offset": 6}, {"label": "Coordinate", "content": "43", "start_offset": 20, "end_offset": 22}]}
+{"id": 467, "text": "move tool Z to absolute coordinate 40", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Z", "start_offset": 10, "end_offset": 11}, {"label": "Coordinate", "content": "40", "start_offset": 35, "end_offset": 37}]}
+{"id": 468, "text": "move tool Y axis to coordinate -22", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Y", "start_offset": 10, "end_offset": 11}, {"label": "Coordinate", "content": "-22", "start_offset": 31, "end_offset": 34}]}
+{"id": 469, "text": "tool third axis move to 33", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 16, "end_offset": 20}, {"label": "Axis", "content": "third", "start_offset": 5, "end_offset": 10}, {"label": "Coordinate", "content": "33", "start_offset": 24, "end_offset": 26}]}
+{"id": 470, "text": "move tool first axis to fifty", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "first", "start_offset": 10, "end_offset": 15}, {"label": "Coordinate", "content": "fifty", "start_offset": 24, "end_offset": 29}]}
+{"id": 471, "text": "tool X move to absolute coordinate 89", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 7, "end_offset": 11}, {"label": "Axis", "content": "X", "start_offset": 5, "end_offset": 6}, {"label": "Coordinate", "content": "89", "start_offset": 35, "end_offset": 37}]}
+{"id": 472, "text": "move tool Y axis to -21", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Y", "start_offset": 10, "end_offset": 11}, {"label": "Coordinate", "content": "-21", "start_offset": 20, "end_offset": 23}]}
+{"id": 473, "text": "tool Z move to +44", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 7, "end_offset": 11}, {"label": "Axis", "content": "Z", "start_offset": 5, "end_offset": 6}, {"label": "Coordinate", "content": "+44", "start_offset": 15, "end_offset": 18}]}
+{"id": 474, "text": "move tool X axis to +13", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "X", "start_offset": 10, "end_offset": 11}, {"label": "Coordinate", "content": "+13", "start_offset": 20, "end_offset": 23}]}
+{"id": 475, "text": "move tool Y axis to -16", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Y", "start_offset": 10, "end_offset": 11}, {"label": "Coordinate", "content": "-16", "start_offset": 20, "end_offset": 23}]}
+{"id": 476, "text": "move tool X to absolute position 45", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "X", "start_offset": 10, "end_offset": 11}, {"label": "Coordinate", "content": "45", "start_offset": 33, "end_offset": 35}]}
+{"id": 477, "text": "move tool Y axis in negative direction by 3 units", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Y", "start_offset": 10, "end_offset": 11}, {"label": "Direction", "content": "negative", "start_offset": 20, "end_offset": 28}, {"label": "Distance", "content": "3 units", "start_offset": 42, "end_offset": 49}]}
+{"id": 478, "text": "move tool first axis to absolute coordinate 72", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "first", "start_offset": 10, "end_offset": 15}, {"label": "Coordinate", "content": "72", "start_offset": 44, "end_offset": 46}]}
+{"id": 479, "text": "move tool third axis to 18", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "third", "start_offset": 10, "end_offset": 15}, {"label": "Coordinate", "content": "18", "start_offset": 24, "end_offset": 26}]}
+{"id": 480, "text": "move tool X axis to absolute coordinate -15", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "X", "start_offset": 10, "end_offset": 11}, {"label": "Coordinate", "content": "-15", "start_offset": 40, "end_offset": 43}]}
+{"id": 481, "text": "move tool Z axis in positive direction by 9 units", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Z", "start_offset": 10, "end_offset": 11}, {"label": "Direction", "content": "positive", "start_offset": 20, "end_offset": 28}, {"label": "Distance", "content": "9 units", "start_offset": 42, "end_offset": 49}]}
+{"id": 482, "text": "move tool Y axis to absolute coordinate 25", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Y", "start_offset": 10, "end_offset": 11}, {"label": "Coordinate", "content": "25", "start_offset": 40, "end_offset": 42}]}
+{"id": 483, "text": "move tool X axis in backward direction by 5", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "X", "start_offset": 10, "end_offset": 11}, {"label": "Direction", "content": "backward", "start_offset": 20, "end_offset": 28}, {"label": "Distance", "content": "5", "start_offset": 42, "end_offset": 43}]}
+{"id": 484, "text": "move tool Z axis to 31", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Z", "start_offset": 10, "end_offset": 11}, {"label": "Coordinate", "content": "31", "start_offset": 20, "end_offset": 22}]}
+{"id": 485, "text": "move tool X axis in forward direction by 10 units", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "X", "start_offset": 10, "end_offset": 11}, {"label": "Direction", "content": "forward", "start_offset": 20, "end_offset": 27}, {"label": "Distance", "content": "10 units", "start_offset": 41, "end_offset": 49}]}
+{"id": 486, "text": "move tool Y axis to -13", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Y", "start_offset": 10, "end_offset": 11}, {"label": "Coordinate", "content": "-13", "start_offset": 20, "end_offset": 23}]}
 {"id": 487, "text": "processing parameter settings", "type": 23}
 {"id": 488, "text": "processing count settings", "type": 23}
 {"id": 489, "text": "adjust processing count", "type": 23}
