@@ -484,189 +484,189 @@
 {"id": 484, "text": "move tool Z axis to 31", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Z", "start_offset": 10, "end_offset": 11}, {"label": "Coordinate", "content": "31", "start_offset": 20, "end_offset": 22}]}
 {"id": 485, "text": "move tool X axis in forward direction by 10 units", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "X", "start_offset": 10, "end_offset": 11}, {"label": "Direction", "content": "forward", "start_offset": 20, "end_offset": 27}, {"label": "Distance", "content": "10 units", "start_offset": 41, "end_offset": 49}]}
 {"id": 486, "text": "move tool Y axis to -13", "event_type": 22, "entities": [{"label": "trigger", "content": "move", "start_offset": 0, "end_offset": 4}, {"label": "Axis", "content": "Y", "start_offset": 10, "end_offset": 11}, {"label": "Coordinate", "content": "-13", "start_offset": 20, "end_offset": 23}]}
-{"id": 487, "text": "processing parameter settings", "type": 23}
-{"id": 488, "text": "processing count settings", "type": 23}
-{"id": 489, "text": "adjust processing count", "type": 23}
-{"id": 490, "text": "parameter id settings", "type": 23}
-{"id": 491, "text": "adjust parameter ID", "type": 23}
-{"id": 492, "text": "modify parameter number", "type": 23}
-{"id": 493, "text": "contour parameter id settings", "type": 23}
-{"id": 494, "text": "adjust contour parameter ID", "type": 23}
-{"id": 495, "text": "modify contour parameter number", "type": 23}
-{"id": 496, "text": "set contour scanning", "type": 23}
-{"id": 497, "text": "contour scanning options", "type": 23}
-{"id": 498, "text": "contour pass count settings", "type": 23}
-{"id": 499, "text": "adjust contour count", "type": 23}
-{"id": 500, "text": "modify contour count", "type": 23}
-{"id": 501, "text": "set processing count to 1", "type": 23}
-{"id": 502, "text": "set processing count to 2", "type": 23}
-{"id": 503, "text": "set processing loop count to 3", "type": 23}
-{"id": 504, "text": "increase processing loop count to 4", "type": 23}
-{"id": 505, "text": "set processing count to 5", "type": 23}
-{"id": 506, "text": "update processing count to 6", "type": 23}
-{"id": 507, "text": "reduce processing count to 2", "type": 23}
-{"id": 508, "text": "set parameter id to 10", "type": 23}
-{"id": 509, "text": "adjust parameter ID to 12", "type": 23}
-{"id": 510, "text": "set parameter ID to 20", "type": 23}
-{"id": 511, "text": "change parameter number to 15", "type": 23}
-{"id": 512, "text": "set parameter ID to 18", "type": 23}
-{"id": 513, "text": "adjust parameter number to 22", "type": 23}
-{"id": 514, "text": "set contour parameter ID to 15", "type": 23}
-{"id": 515, "text": "set contour parameter number to 20", "type": 23}
-{"id": 516, "text": "change contour parameter ID to 25", "type": 23}
-{"id": 517, "text": "adjust contour parameter id to 30", "type": 23}
-{"id": 518, "text": "set contour parameter number to 35", "type": 23}
-{"id": 519, "text": "set contour parameter ID to 40", "type": 23}
-{"id": 520, "text": "do not scan contour", "type": 23}
-{"id": 521, "text": "do not perform contour scan", "type": 23}
-{"id": 522, "text": "skip contour scanning step", "type": 23}
-{"id": 523, "text": "contour does not need scanning", "type": 23}
-{"id": 524, "text": "contour scanning feature disabled", "type": 23}
-{"id": 525, "text": "scan contour first", "type": 23}
-{"id": 526, "text": "perform contour scan first", "type": 23}
-{"id": 527, "text": "prioritize contour scanning", "type": 23}
-{"id": 528, "text": "set contour scan as priority step", "type": 23}
-{"id": 529, "text": "scan contour first", "type": 23}
-{"id": 530, "text": "scan contour later", "type": 23}
-{"id": 531, "text": "scan contour afterwards", "type": 23}
-{"id": 532, "text": "set contour scan as final step", "type": 23}
-{"id": 533, "text": "deferred contour scanning", "type": 23}
-{"id": 534, "text": "postpone contour scanning step", "type": 23}
-{"id": 535, "text": "set contour count to 14", "type": 23}
-{"id": 536, "text": "set contour count to 16", "type": 23}
-{"id": 537, "text": "adjust contour scan count to 18", "type": 23}
-{"id": 538, "text": "set contour scan loops to 20", "type": 23}
-{"id": 539, "text": "change contour count to 22", "type": 23}
-{"id": 540, "text": "update contour count to 24", "type": 23}
-{"id": 541, "text": "positioning parameter settings", "type": 23}
-{"id": 542, "text": "workpiece position adjustment", "type": 23}
-{"id": 543, "text": "modify workpiece X value", "type": 23}
-{"id": 544, "text": "set workpiece position Y", "type": 23}
-{"id": 545, "text": "reset workpiece Z value", "type": 23}
-{"id": 546, "text": "adjust workpiece position alpha", "type": 23}
-{"id": 547, "text": "assign value to workpiece beta", "type": 23}
-{"id": 548, "text": "workpiece gamma value", "type": 23}
-{"id": 549, "text": "set workpiece X axis position to 0", "type": 23}
-{"id": 550, "text": "change workpiece X coordinate to +10.5", "type": 23}
-{"id": 551, "text": "set workpiece X value to -20.3", "type": 23}
-{"id": 552, "text": "adjust workpiece X axis coordinate to zero", "type": 23}
-{"id": 553, "text": "set workpiece X coordinate to +15.6", "type": 23}
-{"id": 554, "text": "set workpiece X value to -5.4", "type": 23}
-{"id": 555, "text": "change workpiece X axis to 30.0", "type": 23}
-{"id": 556, "text": "set workpiece X coordinate to -12.7", "type": 23}
-{"id": 557, "text": "adjust workpiece X value to 25.3", "type": 23}
-{"id": 558, "text": "set workpiece X axis value to -30.5", "type": 23}
-{"id": 559, "text": "set workpiece Y coordinate to -5.2", "type": 23}
-{"id": 560, "text": "set workpiece Y coordinate to +15.8", "type": 23}
-{"id": 561, "text": "set workpiece Y coordinate to -10.5", "type": 23}
-{"id": 562, "text": "set workpiece Y axis position to 0", "type": 23}
-{"id": 563, "text": "set workpiece Y axis value to +20.1", "type": 23}
-{"id": 564, "text": "adjust workpiece Y axis coordinate to -25.4", "type": 23}
-{"id": 565, "text": "set workpiece Y value to +5.6", "type": 23}
-{"id": 566, "text": "set workpiece Y coordinate to -12.3", "type": 23}
-{"id": 567, "text": "change workpiece Y axis coordinate to +10.0", "type": 23}
-{"id": 568, "text": "adjust workpiece Y value to -18.7", "type": 23}
-{"id": 569, "text": "set workpiece Z axis position to +8.5", "type": 23}
-{"id": 570, "text": "set workpiece Z axis coordinate to -10.2", "type": 23}
-{"id": 571, "text": "set workpiece Z value to 0", "type": 23}
-{"id": 572, "text": "adjust workpiece Z axis to +5.3", "type": 23}
-{"id": 573, "text": "set workpiece Z coordinate to -20.1", "type": 23}
-{"id": 574, "text": "set workpiece Z axis coordinate to +12.5", "type": 23}
-{"id": 575, "text": "adjust workpiece Z axis coordinate to -7.8", "type": 23}
-{"id": 576, "text": "set workpiece Z axis value to +3.9", "type": 23}
-{"id": 577, "text": "change workpiece Z coordinate to zero", "type": 23}
-{"id": 578, "text": "set workpiece Z value to -15.6", "type": 23}
-{"id": 579, "text": "set workpiece alpha axis to +5.5", "type": 23}
-{"id": 580, "text": "adjust workpiece α coordinate to -10.1", "type": 23}
-{"id": 581, "text": "set workpiece alpha value to zero", "type": 23}
-{"id": 582, "text": "set workpiece α axis to +12.3", "type": 23}
-{"id": 583, "text": "set workpiece alpha axis to -7.6", "type": 23}
-{"id": 584, "text": "adjust workpiece α coordinate to +15.0", "type": 23}
-{"id": 585, "text": "set workpiece alpha value to -3.2", "type": 23}
-{"id": 586, "text": "set workpiece α axis to +20.5", "type": 23}
-{"id": 587, "text": "set workpiece alpha to -8.9", "type": 23}
-{"id": 588, "text": "change workpiece α coordinate to zero", "type": 23}
-{"id": 589, "text": "set workpiece beta axis to +10.5", "type": 23}
-{"id": 590, "text": "adjust workpiece β axis to -5.7", "type": 23}
-{"id": 591, "text": "set workpiece beta coordinate to zero", "type": 23}
-{"id": 592, "text": "set workpiece β value to +25.3", "type": 23}
-{"id": 593, "text": "adjust workpiece beta axis to -12.1", "type": 23}
-{"id": 594, "text": "set workpiece β axis to +8.4", "type": 23}
-{"id": 595, "text": "set workpiece beta value to -6.0", "type": 23}
-{"id": 596, "text": "change workpiece β axis to +15.0", "type": 23}
-{"id": 597, "text": "set workpiece beta coordinate to -10.9", "type": 23}
-{"id": 598, "text": "adjust workpiece β value to +5.1", "type": 23}
-{"id": 599, "text": "set workpiece γ axis to -12.5", "type": 23}
-{"id": 600, "text": "set workpiece gamma coordinate to +7.2", "type": 23}
-{"id": 601, "text": "set workpiece γ value to zero", "type": 23}
-{"id": 602, "text": "set workpiece gamma axis to -8.3", "type": 23}
-{"id": 603, "text": "adjust workpiece γ coordinate to +10.4", "type": 23}
-{"id": 604, "text": "set workpiece gamma value to -6.7", "type": 23}
-{"id": 605, "text": "set workpiece γ coordinate to +14.5", "type": 23}
-{"id": 606, "text": "set workpiece gamma axis value to zero", "type": 23}
-{"id": 607, "text": "adjust workpiece γ coordinate to +3.9", "type": 23}
-{"id": 608, "text": "set workpiece gamma axis to -9.0", "type": 23}
-{"id": 609, "text": "marking mode settings", "type": 23}
-{"id": 610, "text": "marking mode: by zone", "type": 23}
-{"id": 611, "text": "marking mode: by cell", "type": 23}
-{"id": 612, "text": "select partition marking mode", "type": 23}
-{"id": 613, "text": "select cell marking mode", "type": 23}
-{"id": 614, "text": "marking mode set to zone", "type": 23}
-{"id": 615, "text": "marking mode set to cell", "type": 23}
-{"id": 616, "text": "partition marking", "type": 23}
-{"id": 617, "text": "cell marking", "type": 23}
-{"id": 618, "text": "switch marking mode to zone", "type": 23}
-{"id": 619, "text": "choose partition marking", "type": 23}
-{"id": 620, "text": "set marking to zone mode", "type": 23}
-{"id": 621, "text": "enable partition marking mode", "type": 23}
-{"id": 622, "text": "marking method set to zone", "type": 23}
-{"id": 623, "text": "set marking method to partition marking", "type": 23}
-{"id": 624, "text": "perform marking in zone mode", "type": 23}
-{"id": 625, "text": "marking mode selected: cell mode", "type": 23}
-{"id": 626, "text": "switch marking mode to cell mode", "type": 23}
-{"id": 627, "text": "select cell mode marking", "type": 23}
-{"id": 628, "text": "set marking to cell mode", "type": 23}
-{"id": 629, "text": "enable cell marking mode", "type": 23}
-{"id": 630, "text": "marking method set to cell", "type": 23}
-{"id": 631, "text": "set marking method to cell marking", "type": 23}
-{"id": 632, "text": "perform marking in cell mode", "type": 23}
-{"id": 633, "text": "start processing", "type": 24}
-{"id": 634, "text": "start processing workflow", "type": 24}
-{"id": 635, "text": "start processing file", "type": 24}
-{"id": 636, "text": "initiate processing", "type": 24}
-{"id": 637, "text": "start processing workflow", "type": 24}
-{"id": 638, "text": "begin execution of processing", "type": 24}
-{"id": 639, "text": "start processing task", "type": 24}
-{"id": 640, "text": "start processing file handling", "type": 24}
-{"id": 641, "text": "pause processing", "type": 24}
-{"id": 642, "text": "pause processing workflow", "type": 24}
-{"id": 643, "text": "pause processing file", "type": 24}
-{"id": 644, "text": "pause current processing", "type": 24}
-{"id": 645, "text": "interrupt processing operation", "type": 24}
-{"id": 646, "text": "temporarily stop processing", "type": 24}
-{"id": 647, "text": "pause processing task", "type": 24}
-{"id": 648, "text": "pause processing file handling", "type": 24}
-{"id": 649, "text": "resume processing", "type": 24}
-{"id": 650, "text": "resume processing workflow", "type": 24}
-{"id": 651, "text": "resume processing file", "type": 24}
-{"id": 652, "text": "restore processing", "type": 24}
-{"id": 653, "text": "continue execution of processing", "type": 24}
-{"id": 654, "text": "restore processing workflow", "type": 24}
-{"id": 655, "text": "continue processing operations", "type": 24}
-{"id": 656, "text": "continue processing file handling", "type": 24}
-{"id": 657, "text": "restore processing file handling", "type": 24}
-{"id": 658, "text": "terminate processing", "type": 24}
-{"id": 659, "text": "abort processing", "type": 24}
-{"id": 660, "text": "terminate processing workflow", "type": 24}
-{"id": 661, "text": "abort processing workflow", "type": 24}
-{"id": 662, "text": "terminate processing file", "type": 24}
-{"id": 663, "text": "abort processing file", "type": 24}
-{"id": 664, "text": "stop processing operation", "type": 24}
-{"id": 665, "text": "terminate current processing task", "type": 24}
-{"id": 666, "text": "abort processing workflow", "type": 24}
-{"id": 667, "text": "stop processing workflow", "type": 24}
-{"id": 668, "text": "terminate processing file handling", "type": 24}
-{"id": 669, "text": "abort processing file handling", "type": 24}
-{"id": 670, "text": "end processing", "type": 24}
-{"id": 671, "text": "end processing workflow", "type": 24}
-{"id": 672, "text": "stop processing file operation", "type": 24}
+{"id": 487, "text": "processing parameter settings", "event_type": 23, "entities": [{"label": "trigger", "content": "processing parameter ", "start_offset": 0, "end_offset": 21}]}
+{"id": 488, "text": "processing count settings", "event_type": 23, "entities": [{"label": "trigger", "content": "processing count", "start_offset": 0, "end_offset": 16}]}
+{"id": 489, "text": "adjust processing count", "event_type": 23, "entities": [{"label": "trigger", "content": "processing count", "start_offset": 7, "end_offset": 23}]}
+{"id": 490, "text": "parameter id settings", "event_type": 23, "entities": [{"label": "trigger", "content": "parameter id", "start_offset": 0, "end_offset": 12}]}
+{"id": 491, "text": "adjust parameter ID", "event_type": 23, "entities": [{"label": "trigger", "content": "parameter ID", "start_offset": 7, "end_offset": 19}]}
+{"id": 492, "text": "modify parameter number", "event_type": 23, "entities": [{"label": "trigger", "content": "parameter number", "start_offset": 7, "end_offset": 23}]}
+{"id": 493, "text": "contour parameter id settings", "event_type": 23, "entities": [{"label": "trigger", "content": "contour parameter id", "start_offset": 0, "end_offset": 20}]}
+{"id": 494, "text": "adjust contour parameter ID", "event_type": 23, "entities": [{"label": "trigger", "content": "contour parameter ID", "start_offset": 7, "end_offset": 27}]}
+{"id": 495, "text": "modify contour parameter number", "event_type": 23, "entities": [{"label": "trigger", "content": "contour parameter number", "start_offset": 7, "end_offset": 31}]}
+{"id": 496, "text": "set contour scanning", "event_type": 23, "entities": [{"label": "trigger", "content": "contour scanning", "start_offset": 4, "end_offset": 20}]}
+{"id": 497, "text": "contour scanning options", "event_type": 23, "entities": [{"label": "trigger", "content": "contour scanning", "start_offset": 0, "end_offset": 16}]}
+{"id": 498, "text": "contour pass count settings", "event_type": 23, "entities": [{"label": "trigger", "content": "contour pass count", "start_offset": 0, "end_offset": 18}]}
+{"id": 499, "text": "adjust contour count", "event_type": 23, "entities": [{"label": "trigger", "content": "contour count", "start_offset": 7, "end_offset": 20}]}
+{"id": 500, "text": "modify contour count", "event_type": 23, "entities": [{"label": "trigger", "content": "contour count", "start_offset": 7, "end_offset": 20}]}
+{"id": 501, "text": "set processing count to 1", "event_type": 23, "entities": [{"label": "trigger", "content": "processing count", "start_offset": 4, "end_offset": 20}, {"label": "Variable", "content": "processing count", "start_offset": 4, "end_offset": 20}, {"label": "Value", "content": "1", "start_offset": 24, "end_offset": 25}]}
+{"id": 502, "text": "set processing count to 2", "event_type": 23, "entities": [{"label": "trigger", "content": "processing count", "start_offset": 4, "end_offset": 20}, {"label": "Variable", "content": "processing count", "start_offset": 4, "end_offset": 20}, {"label": "Value", "content": "2", "start_offset": 24, "end_offset": 25}]}
+{"id": 503, "text": "set processing loop count to 3", "event_type": 23, "entities": [{"label": "trigger", "content": "processing loop count", "start_offset": 4, "end_offset": 26}, {"label": "Variable", "content": "processing loop count", "start_offset": 4, "end_offset": 26}, {"label": "Value", "content": "3", "start_offset": 30, "end_offset": 31}]}
+{"id": 504, "text": "increase processing loop count to 4", "event_type": 23, "entities": [{"label": "trigger", "content": "processing loop count", "start_offset": 9, "end_offset": 31}, {"label": "Variable", "content": "processing loop count", "start_offset": 9, "end_offset": 31}, {"label": "Value", "content": "4", "start_offset": 35, "end_offset": 36}]}
+{"id": 505, "text": "set processing count to 5", "event_type": 23, "entities": [{"label": "trigger", "content": "processing count", "start_offset": 4, "end_offset": 20}, {"label": "Variable", "content": "processing count", "start_offset": 4, "end_offset": 20}, {"label": "Value", "content": "5", "start_offset": 24, "end_offset": 25}]}
+{"id": 506, "text": "update processing count to 6", "event_type": 23, "entities": [{"label": "trigger", "content": "processing count", "start_offset": 7, "end_offset": 23}, {"label": "Variable", "content": "processing count", "start_offset": 7, "end_offset": 23}, {"label": "Value", "content": "6", "start_offset": 27, "end_offset": 28}]}
+{"id": 507, "text": "reduce processing count to 2", "event_type": 23, "entities": [{"label": "trigger", "content": "processing count", "start_offset": 7, "end_offset": 23}, {"label": "Variable", "content": "processing count", "start_offset": 7, "end_offset": 23}, {"label": "Value", "content": "2", "start_offset": 27, "end_offset": 28}]}
+{"id": 508, "text": "set parameter id to 10", "event_type": 23, "entities": [{"label": "trigger", "content": "parameter id", "start_offset": 4, "end_offset": 16}, {"label": "Variable", "content": "parameter id", "start_offset": 4, "end_offset": 16}, {"label": "Value", "content": "10", "start_offset": 20, "end_offset": 22}]}
+{"id": 509, "text": "adjust parameter ID to 12", "event_type": 23, "entities": [{"label": "trigger", "content": "parameter ID", "start_offset": 7, "end_offset": 19}, {"label": "Variable", "content": "parameter ID", "start_offset": 7, "end_offset": 19}, {"label": "Value", "content": "12", "start_offset": 23, "end_offset": 25}]}
+{"id": 510, "text": "set parameter ID to 20", "event_type": 23, "entities": [{"label": "trigger", "content": "parameter ID", "start_offset": 4, "end_offset": 16}, {"label": "Variable", "content": "parameter ID", "start_offset": 4, "end_offset": 16}, {"label": "Value", "content": "20", "start_offset": 20, "end_offset": 22}]}
+{"id": 511, "text": "change parameter number to 15", "event_type": 23, "entities": [{"label": "trigger", "content": "parameter number", "start_offset": 7, "end_offset": 23}, {"label": "Variable", "content": "parameter number", "start_offset": 7, "end_offset": 23}, {"label": "Value", "content": "15", "start_offset": 27, "end_offset": 29}]}
+{"id": 512, "text": "set parameter ID to 18", "event_type": 23, "entities": [{"label": "trigger", "content": "parameter ID", "start_offset": 4, "end_offset": 16}, {"label": "Variable", "content": "parameter ID", "start_offset": 4, "end_offset": 16}, {"label": "Value", "content": "18", "start_offset": 20, "end_offset": 22}]}
+{"id": 513, "text": "adjust parameter number to 22", "event_type": 23, "entities": [{"label": "trigger", "content": "parameter number", "start_offset": 7, "end_offset": 23}, {"label": "Variable", "content": "parameter number", "start_offset": 7, "end_offset": 23}, {"label": "Value", "content": "22", "start_offset": 27, "end_offset": 29}]}
+{"id": 514, "text": "set contour parameter ID to 15", "event_type": 23, "entities": [{"label": "trigger", "content": "contour parameter ID", "start_offset": 4, "end_offset": 24}, {"label": "Variable", "content": "contour parameter ID", "start_offset": 4, "end_offset": 24}, {"label": "Value", "content": "15", "start_offset": 28, "end_offset": 30}]}
+{"id": 515, "text": "set contour parameter number to 20", "event_type": 23, "entities": [{"label": "trigger", "content": "contour parameter number", "start_offset": 4, "end_offset": 28}, {"label": "Variable", "content": "contour parameter number", "start_offset": 4, "end_offset": 28}, {"label": "Value", "content": "20", "start_offset": 32, "end_offset": 34}]}
+{"id": 516, "text": "change contour parameter ID to 25", "event_type": 23, "entities": [{"label": "trigger", "content": "contour parameter ID", "start_offset": 7, "end_offset": 27}, {"label": "Variable", "content": "contour parameter ID", "start_offset": 7, "end_offset": 27}, {"label": "Value", "content": "25", "start_offset": 31, "end_offset": 33}]}
+{"id": 517, "text": "adjust contour parameter id to 30", "event_type": 23, "entities": [{"label": "trigger", "content": "contour parameter id", "start_offset": 7, "end_offset": 27}, {"label": "Variable", "content": "contour parameter id", "start_offset": 7, "end_offset": 27}, {"label": "Value", "content": "30", "start_offset": 31, "end_offset": 33}]}
+{"id": 518, "text": "set contour parameter number to 35", "event_type": 23, "entities": [{"label": "trigger", "content": "contour parameter number", "start_offset": 4, "end_offset": 28}, {"label": "Variable", "content": "contour parameter number", "start_offset": 4, "end_offset": 28}, {"label": "Value", "content": "35", "start_offset": 32, "end_offset": 34}]}
+{"id": 519, "text": "set contour parameter ID to 40", "event_type": 23, "entities": [{"label": "trigger", "content": "contour parameter ID", "start_offset": 4, "end_offset": 24}, {"label": "Variable", "content": "contour parameter ID", "start_offset": 4, "end_offset": 24}, {"label": "Value", "content": "40", "start_offset": 28, "end_offset": 30}]}
+{"id": 520, "text": "do not scan contour", "event_type": 23, "entities": [{"label": "trigger", "content": "scan contour", "start_offset": 7, "end_offset": 19}, {"label": "Option", "content": "do not", "start_offset": 0, "end_offset": 6}]}
+{"id": 521, "text": "do not perform contour scan", "event_type": 23, "entities": [{"label": "trigger", "content": "contour scan", "start_offset": 18, "end_offset": 30}, {"label": "Option", "content": "do not perform", "start_offset": 0, "end_offset": 14}]}
+{"id": 522, "text": "skip contour scanning step", "event_type": 23, "entities": [{"label": "trigger", "content": "contour scanning", "start_offset": 5, "end_offset": 21}, {"label": "Option", "content": "skip", "start_offset": 0, "end_offset": 4}]}
+{"id": 523, "text": "contour does not need scanning", "event_type": 23, "entities": [{"label": "trigger", "content": "scanning", "start_offset": 22, "end_offset": 30}, {"label": "Option", "content": "does not need", "start_offset": 8, "end_offset": 21}]}
+{"id": 524, "text": "contour scanning feature disabled", "event_type": 23, "entities": [{"label": "trigger", "content": "contour scanning", "start_offset": 0, "end_offset": 16}, {"label": "Option", "content": "disabled", "start_offset": 25, "end_offset": 33}]}
+{"id": 525, "text": "scan contour first", "event_type": 23, "entities": [{"label": "trigger", "content": "scan contour", "start_offset": 0, "end_offset": 12}, {"label": "Option", "content": "first", "start_offset": 13, "end_offset": 18}]}
+{"id": 526, "text": "perform contour scan first", "event_type": 23, "entities": [{"label": "trigger", "content": "contour scan", "start_offset": 8, "end_offset": 20}, {"label": "Option", "content": "first", "start_offset": 21, "end_offset": 26}]}
+{"id": 527, "text": "prioritize contour scanning", "event_type": 23, "entities": [{"label": "trigger", "content": "contour scanning", "start_offset": 11, "end_offset": 27}, {"label": "Option", "content": "prioritize", "start_offset": 0, "end_offset": 10}]}
+{"id": 528, "text": "set contour scan as priority step", "event_type": 23, "entities": [{"label": "trigger", "content": "contour scan", "start_offset": 4, "end_offset": 16}, {"label": "Option", "content": "priority", "start_offset": 20, "end_offset": 28}]}
+{"id": 529, "text": "scan contour first", "event_type": 23, "entities": [{"label": "trigger", "content": "scan contour", "start_offset": 0, "end_offset": 12}, {"label": "Option", "content": "first", "start_offset": 13, "end_offset": 18}]}
+{"id": 530, "text": "scan contour later", "event_type": 23, "entities": [{"label": "trigger", "content": "scan contour", "start_offset": 0, "end_offset": 12}, {"label": "Option", "content": "later", "start_offset": 13, "end_offset": 18}]}
+{"id": 531, "text": "scan contour afterwards", "event_type": 23, "entities": [{"label": "trigger", "content": "scan contour", "start_offset": 0, "end_offset": 12}, {"label": "Option", "content": "afterwards", "start_offset": 13, "end_offset": 23}]}
+{"id": 532, "text": "set contour scan as final step", "event_type": 23, "entities": [{"label": "trigger", "content": "contour scan", "start_offset": 4, "end_offset": 16}, {"label": "Option", "content": "final", "start_offset": 20, "end_offset": 25}]}
+{"id": 533, "text": "deferred contour scanning", "event_type": 23, "entities": [{"label": "trigger", "content": "contour scanning", "start_offset": 9, "end_offset": 25}, {"label": "Option", "content": "deferred", "start_offset": 0, "end_offset": 8}]}
+{"id": 534, "text": "postpone contour scanning step", "event_type": 23, "entities": [{"label": "trigger", "content": "contour scanning", "start_offset": 9, "end_offset": 25}, {"label": "Option", "content": "postpone", "start_offset": 0, "end_offset": 8}]}
+{"id": 535, "text": "set contour count to 14", "event_type": 23, "entities": [{"label": "trigger", "content": "contour count", "start_offset": 4, "end_offset": 17}, {"label": "Variable", "content": "contour count", "start_offset": 4, "end_offset": 17}, {"label": "Value", "content": "14", "start_offset": 21, "end_offset": 23}]}
+{"id": 536, "text": "set contour count to 16", "event_type": 23, "entities": [{"label": "trigger", "content": "contour count", "start_offset": 4, "end_offset": 17}, {"label": "Variable", "content": "contour count", "start_offset": 4, "end_offset": 17}, {"label": "Value", "content": "16", "start_offset": 21, "end_offset": 23}]}
+{"id": 537, "text": "adjust contour scan count to 18", "event_type": 23, "entities": [{"label": "trigger", "content": "contour scan count", "start_offset": 7, "end_offset": 25}, {"label": "Variable", "content": "contour scan count", "start_offset": 7, "end_offset": 25}, {"label": "Value", "content": "18", "start_offset": 29, "end_offset": 31}]}
+{"id": 538, "text": "set contour scan loops to 20", "event_type": 23, "entities": [{"label": "trigger", "content": "contour scan loops", "start_offset": 4, "end_offset": 22}, {"label": "Variable", "content": "contour scan loops", "start_offset": 4, "end_offset": 22}, {"label": "Value", "content": "20", "start_offset": 26, "end_offset": 28}]}
+{"id": 539, "text": "change contour count to 22", "event_type": 23, "entities": [{"label": "trigger", "content": "contour count", "start_offset": 7, "end_offset": 20}, {"label": "Variable", "content": "contour count", "start_offset": 7, "end_offset": 20}, {"label": "Value", "content": "22", "start_offset": 24, "end_offset": 26}]}
+{"id": 540, "text": "update contour count to 24", "event_type": 23, "entities": [{"label": "trigger", "content": "contour count", "start_offset": 7, "end_offset": 20}, {"label": "Variable", "content": "contour count", "start_offset": 7, "end_offset": 20}, {"label": "Value", "content": "24", "start_offset": 24, "end_offset": 26}]}
+{"id": 541, "text": "positioning parameter settings", "event_type": 23, "entities": [{"label": "trigger", "content": "positioning parameter", "start_offset": 0, "end_offset": 21}]}
+{"id": 542, "text": "workpiece position adjustment", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece position", "start_offset": 0, "end_offset": 18}]}
+{"id": 543, "text": "modify workpiece X value", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece X", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "X", "start_offset": 17, "end_offset": 18}]}
+{"id": 544, "text": "set workpiece position Y", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece position", "start_offset": 4, "end_offset": 22}, {"label": "Variable", "content": "Y", "start_offset": 23, "end_offset": 24}]}
+{"id": 545, "text": "reset workpiece Z value", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Z", "start_offset": 6, "end_offset": 17}, {"label": "Variable", "content": "Z", "start_offset": 16, "end_offset": 17}]}
+{"id": 546, "text": "adjust workpiece position alpha", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece position", "start_offset": 7, "end_offset": 25}, {"label": "Variable", "content": "alpha", "start_offset": 26, "end_offset": 31}]}
+{"id": 547, "text": "assign value to workpiece beta", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece beta", "start_offset": 19, "end_offset": 33}, {"label": "Variable", "content": "beta", "start_offset": 26, "end_offset": 30}]}
+{"id": 548, "text": "workpiece gamma value", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece gamma", "start_offset": 0, "end_offset": 15}, {"label": "Variable", "content": "gamma", "start_offset": 10, "end_offset": 15}]}
+{"id": 549, "text": "set workpiece X axis position to 0", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece X", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "X", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "0", "start_offset": 33, "end_offset": 34}]}
+{"id": 550, "text": "change workpiece X coordinate to +10.5", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece X", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "X", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "+10.5", "start_offset": 33, "end_offset": 38}]}
+{"id": 551, "text": "set workpiece X value to -20.3", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece X", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "X", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "-20.3", "start_offset": 25, "end_offset": 30}]}
+{"id": 552, "text": "adjust workpiece X axis coordinate to zero", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece X", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "X", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "zero", "start_offset": 38, "end_offset": 42}]}
+{"id": 553, "text": "set workpiece X coordinate to +15.6", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece X", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "X", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "+15.6", "start_offset": 30, "end_offset": 35}]}
+{"id": 554, "text": "set workpiece X value to -5.4", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece X", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "X", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "-5.4", "start_offset": 25, "end_offset": 29}]}
+{"id": 555, "text": "change workpiece X axis to 30.0", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece X", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "X", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "30.0", "start_offset": 27, "end_offset": 31}]}
+{"id": 556, "text": "set workpiece X coordinate to -12.7", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece X", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "X", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "-12.7", "start_offset": 30, "end_offset": 35}]}
+{"id": 557, "text": "adjust workpiece X value to 25.3", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece X", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "X", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "25.3", "start_offset": 28, "end_offset": 32}]}
+{"id": 558, "text": "set workpiece X axis value to -30.5", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece X", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "X", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "-30.5", "start_offset": 30, "end_offset": 35}]}
+{"id": 559, "text": "set workpiece Y coordinate to -5.2", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Y", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "Y", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "-5.2", "start_offset": 30, "end_offset": 34}]}
+{"id": 560, "text": "set workpiece Y coordinate to +15.8", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Y", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "Y", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "+15.8", "start_offset": 30, "end_offset": 35}]}
+{"id": 561, "text": "set workpiece Y coordinate to -10.5", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Y", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "Y", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "-10.5", "start_offset": 30, "end_offset": 35}]}  
+{"id": 562, "text": "set workpiece Y axis position to 0", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Y", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "Y", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "0", "start_offset": 33, "end_offset": 34}]}  
+{"id": 563, "text": "set workpiece Y axis value to +20.1", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Y", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "Y", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "+20.1", "start_offset": 30, "end_offset": 35}]}  
+{"id": 564, "text": "adjust workpiece Y axis coordinate to -25.4", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Y", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "Y", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "-25.4", "start_offset": 38, "end_offset": 43}]}  
+{"id": 565, "text": "set workpiece Y value to +5.6", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Y", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "Y", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "+5.6", "start_offset": 25, "end_offset": 29}]}  
+{"id": 566, "text": "set workpiece Y coordinate to -12.3", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Y", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "Y", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "-12.3", "start_offset": 30, "end_offset": 35}]}  
+{"id": 567, "text": "change workpiece Y axis coordinate to +10.0", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Y", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "Y", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "+10.0", "start_offset": 38, "end_offset": 43}]}  
+{"id": 568, "text": "adjust workpiece Y value to -18.7", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Y", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "Y", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "-18.7", "start_offset": 28, "end_offset": 33}]}  
+{"id": 569, "text": "set workpiece Z axis position to +8.5", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Z", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "Z", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "+8.5", "start_offset": 33, "end_offset": 37}]}  
+{"id": 570, "text": "set workpiece Z axis coordinate to -10.2", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Z", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "Z", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "-10.2", "start_offset": 35, "end_offset": 40}]}  
+{"id": 571, "text": "set workpiece Z value to 0", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Z", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "Z", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "0", "start_offset": 25, "end_offset": 26}]}  
+{"id": 572, "text": "adjust workpiece Z axis to +5.3", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Z", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "Z", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "+5.3", "start_offset": 27, "end_offset": 31}]}  
+{"id": 573, "text": "set workpiece Z coordinate to -20.1", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Z", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "Z", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "-20.1", "start_offset": 30, "end_offset": 35}]}  
+{"id": 574, "text": "set workpiece Z axis coordinate to +12.5", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Z", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "Z", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "+12.5", "start_offset": 35, "end_offset": 40}]}  
+{"id": 575, "text": "adjust workpiece Z axis coordinate to -7.8", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Z", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "Z", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "-7.8", "start_offset": 38, "end_offset": 42}]}  
+{"id": 576, "text": "set workpiece Z axis value to +3.9", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Z", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "Z", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "+3.9", "start_offset": 30, "end_offset": 34}]}  
+{"id": 577, "text": "change workpiece Z coordinate to zero", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Z", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "Z", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "zero", "start_offset": 33, "end_offset": 37}]}  
+{"id": 578, "text": "set workpiece Z value to -15.6", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece Z", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "Z", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "-15.6", "start_offset": 25, "end_offset": 30}]}  
+{"id": 579, "text": "set workpiece alpha axis to +5.5", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece alpha", "start_offset": 4, "end_offset": 19}, {"label": "Variable", "content": "alpha", "start_offset": 14, "end_offset": 19}, {"label": "Value", "content": "+5.5", "start_offset": 28, "end_offset": 32}]}  
+{"id": 580, "text": "adjust workpiece α coordinate to -10.1", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece α", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "α", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "-10.1", "start_offset": 33, "end_offset": 38}]}  
+{"id": 581, "text": "set workpiece alpha value to zero", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece alpha", "start_offset": 4, "end_offset": 19}, {"label": "Variable", "content": "alpha", "start_offset": 14, "end_offset": 19}, {"label": "Value", "content": "zero", "start_offset": 29, "end_offset": 33}]}  
+{"id": 582, "text": "set workpiece α axis to +12.3", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece α", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "α", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "+12.3", "start_offset": 24, "end_offset": 29}]}  
+{"id": 583, "text": "set workpiece alpha axis to -7.6", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece alpha", "start_offset": 4, "end_offset": 19}, {"label": "Variable", "content": "alpha", "start_offset": 14, "end_offset": 19}, {"label": "Value", "content": "-7.6", "start_offset": 28, "end_offset": 32}]}  
+{"id": 584, "text": "adjust workpiece α coordinate to +15.0", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece α", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "α", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "+15.0", "start_offset": 33, "end_offset": 38}]}  
+{"id": 585, "text": "set workpiece alpha value to -3.2", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece alpha", "start_offset": 4, "end_offset": 19}, {"label": "Variable", "content": "alpha", "start_offset": 14, "end_offset": 19}, {"label": "Value", "content": "-3.2", "start_offset": 29, "end_offset": 33}]}  
+{"id": 586, "text": "set workpiece α axis to +20.5", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece α", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "α", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "+20.5", "start_offset": 24, "end_offset": 29}]}  
+{"id": 587, "text": "set workpiece alpha to -8.9", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece alpha", "start_offset": 4, "end_offset": 19}, {"label": "Variable", "content": "alpha", "start_offset": 14, "end_offset": 19}, {"label": "Value", "content": "-8.9", "start_offset": 23, "end_offset": 27}]}  
+{"id": 588, "text": "change workpiece α coordinate to zero", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece α", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "α", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "zero", "start_offset": 33, "end_offset": 37}]}  
+{"id": 589, "text": "set workpiece beta axis to +10.5", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece beta", "start_offset": 4, "end_offset": 18}, {"label": "Variable", "content": "beta", "start_offset": 14, "end_offset": 18}, {"label": "Value", "content": "+10.5", "start_offset": 27, "end_offset": 32}]}  
+{"id": 590, "text": "adjust workpiece β axis to -5.7", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece β", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "β", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "-5.7", "start_offset": 27, "end_offset": 31}]}
+{"id": 591, "text": "set workpiece beta coordinate to zero", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece beta", "start_offset": 4, "end_offset": 18}, {"label": "Variable", "content": "beta", "start_offset": 14, "end_offset": 18}, {"label": "Value", "content": "zero", "start_offset": 33, "end_offset": 37}]}
+{"id": 592, "text": "set workpiece β value to +25.3", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece β", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "β", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "+25.3", "start_offset": 25, "end_offset": 30}]}
+{"id": 593, "text": "adjust workpiece beta axis to -12.1", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece beta", "start_offset": 7, "end_offset": 21}, {"label": "Variable", "content": "beta", "start_offset": 17, "end_offset": 21}, {"label": "Value", "content": "-12.1", "start_offset": 30, "end_offset": 35}]}
+{"id": 594, "text": "set workpiece β axis to +8.4", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece β", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "β", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "+8.4", "start_offset": 24, "end_offset": 28}]}
+{"id": 595, "text": "set workpiece beta value to -6.0", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece beta", "start_offset": 4, "end_offset": 18}, {"label": "Variable", "content": "beta", "start_offset": 14, "end_offset": 18}, {"label": "Value", "content": "-6.0", "start_offset": 28, "end_offset": 32}]}
+{"id": 596, "text": "change workpiece β axis to +15.0", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece β", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "β", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "+15.0", "start_offset": 27, "end_offset": 32}]}
+{"id": 597, "text": "set workpiece beta coordinate to -10.9", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece beta", "start_offset": 4, "end_offset": 18}, {"label": "Variable", "content": "beta", "start_offset": 14, "end_offset": 18}, {"label": "Value", "content": "-10.9", "start_offset": 33, "end_offset": 38}]}
+{"id": 598, "text": "adjust workpiece β value to +5.1", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece β", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "β", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "+5.1", "start_offset": 28, "end_offset": 32}]}
+{"id": 599, "text": "set workpiece γ axis to -12.5", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece γ", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "γ", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "-12.5", "start_offset": 24, "end_offset": 29}]}
+{"id": 600, "text": "set workpiece gamma coordinate to +7.2", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece gamma", "start_offset": 4, "end_offset": 20}, {"label": "Variable", "content": "gamma", "start_offset": 14, "end_offset": 19}, {"label": "Value", "content": "+7.2", "start_offset": 34, "end_offset": 38}]}
+{"id": 601, "text": "set workpiece γ value to zero", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece γ", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "γ", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "zero", "start_offset": 25, "end_offset": 29}]}
+{"id": 602, "text": "set workpiece gamma axis to -8.3", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece gamma", "start_offset": 4, "end_offset": 20}, {"label": "Variable", "content": "gamma", "start_offset": 14, "end_offset": 19}, {"label": "Value", "content": "-8.3", "start_offset": 28, "end_offset": 32}]}
+{"id": 603, "text": "adjust workpiece γ coordinate to +10.4", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece γ", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "γ", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "+10.4", "start_offset": 33, "end_offset": 38}]}
+{"id": 604, "text": "set workpiece gamma value to -6.7", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece gamma", "start_offset": 4, "end_offset": 20}, {"label": "Variable", "content": "gamma", "start_offset": 14, "end_offset": 19}, {"label": "Value", "content": "-6.7", "start_offset": 29, "end_offset": 33}]}
+{"id": 605, "text": "set workpiece γ coordinate to +14.5", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece γ", "start_offset": 4, "end_offset": 15}, {"label": "Variable", "content": "γ", "start_offset": 14, "end_offset": 15}, {"label": "Value", "content": "+14.5", "start_offset": 30, "end_offset": 35}]}
+{"id": 606, "text": "set workpiece gamma axis value to zero", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece gamma", "start_offset": 4, "end_offset": 20}, {"label": "Variable", "content": "gamma", "start_offset": 14, "end_offset": 19}, {"label": "Value", "content": "zero", "start_offset": 34, "end_offset": 38}]}
+{"id": 607, "text": "adjust workpiece γ coordinate to +3.9", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece γ", "start_offset": 7, "end_offset": 18}, {"label": "Variable", "content": "γ", "start_offset": 17, "end_offset": 18}, {"label": "Value", "content": "+3.9", "start_offset": 33, "end_offset": 37}]}
+{"id": 608, "text": "set workpiece gamma axis to -9.0", "event_type": 23, "entities": [{"label": "trigger", "content": "workpiece gamma", "start_offset": 4, "end_offset": 20}, {"label": "Variable", "content": "gamma", "start_offset": 14, "end_offset": 19}, {"label": "Value", "content": "-9.0", "start_offset": 28, "end_offset": 32}]}
+{"id": 609, "text": "marking mode settings", "event_type": 23, "entities": [{"label": "trigger", "content": "marking mode", "start_offset": 0, "end_offset": 12}]}
+{"id": 610, "text": "marking mode: by zone", "event_type": 23, "entities": [{"label": "trigger", "content": "marking mode", "start_offset": 0, "end_offset": 12}, {"label": "Option", "content": "by zone", "start_offset": 14, "end_offset": 21}]}
+{"id": 611, "text": "marking mode: by cell", "event_type": 23, "entities": [{"label": "trigger", "content": "marking mode", "start_offset": 0, "end_offset": 12}, {"label": "Option", "content": "by cell", "start_offset": 14, "end_offset": 21}]}
+{"id": 612, "text": "select partition marking mode", "event_type": 23, "entities": [{"label": "trigger", "content": "marking mode", "start_offset": 25, "end_offset": 37}, {"label": "Option", "content": "partition", "start_offset": 7, "end_offset": 16}]}
+{"id": 613, "text": "select cell marking mode", "event_type": 23, "entities": [{"label": "trigger", "content": "marking mode", "start_offset": 20, "end_offset": 32}, {"label": "Option", "content": "cell", "start_offset": 7, "end_offset": 11}]}
+{"id": 614, "text": "marking mode set to zone", "event_type": 23, "entities": [{"label": "trigger", "content": "marking mode", "start_offset": 0, "end_offset": 12}, {"label": "Option", "content": "zone", "start_offset": 20, "end_offset": 24}]}
+{"id": 615, "text": "marking mode set to cell", "event_type": 23, "entities": [{"label": "trigger", "content": "marking mode", "start_offset": 0, "end_offset": 12}, {"label": "Option", "content": "cell", "start_offset": 20, "end_offset": 24}]}
+{"id": 616, "text": "partition marking", "event_type": 23, "entities": [{"label": "trigger", "content": "marking", "start_offset": 10, "end_offset": 17}, {"label": "Option", "content": "partition", "start_offset": 0, "end_offset": 9}]}
+{"id": 617, "text": "cell marking", "event_type": 23, "entities": [{"label": "trigger", "content": "marking", "start_offset": 5, "end_offset": 12}, {"label": "Option", "content": "cell", "start_offset": 0, "end_offset": 4}]}
+{"id": 618, "text": "switch marking mode to zone", "event_type": 23, "entities": [{"label": "trigger", "content": "marking mode", "start_offset": 7, "end_offset": 19}, {"label": "Option", "content": "zone", "start_offset": 23, "end_offset": 27}]}
+{"id": 619, "text": "choose partition marking", "event_type": 23, "entities": [{"label": "trigger", "content": "marking", "start_offset": 17, "end_offset": 24}, {"label": "Option", "content": "partition", "start_offset": 7, "end_offset": 16}]}
+{"id": 620, "text": "set marking to zone mode", "event_type": 23, "entities": [{"label": "trigger", "content": "marking", "start_offset": 4, "end_offset": 11}, {"label": "Option", "content": "zone", "start_offset": 15, "end_offset": 19}]}
+{"id": 621, "text": "enable partition marking mode", "event_type": 23, "entities": [{"label": "trigger", "content": "marking mode", "start_offset": 24, "end_offset": 36}, {"label": "Option", "content": "partition", "start_offset": 7, "end_offset": 16}]}
+{"id": 622, "text": "marking method set to zone", "event_type": 23, "entities": [{"label": "trigger", "content": "marking method", "start_offset": 0, "end_offset": 14}, {"label": "Option", "content": "zone", "start_offset": 22, "end_offset": 26}]}
+{"id": 623, "text": "set marking method to partition marking", "event_type": 23, "entities": [{"label": "trigger", "content": "marking method", "start_offset": 4, "end_offset": 18}, {"label": "Option", "content": "partition", "start_offset": 22, "end_offset": 31}]}
+{"id": 624, "text": "perform marking in zone mode", "event_type": 23, "entities": [{"label": "trigger", "content": "marking", "start_offset": 8, "end_offset": 15}, {"label": "Option", "content": "zone", "start_offset": 19, "end_offset": 23}]}
+{"id": 625, "text": "marking mode selected: cell mode", "event_type": 23, "entities": [{"label": "trigger", "content": "marking mode", "start_offset": 0, "end_offset": 12}, {"label": "Option", "content": "cell", "start_offset": 23, "end_offset": 27}]}
+{"id": 626, "text": "switch marking mode to cell mode", "event_type": 23, "entities": [{"label": "trigger", "content": "marking mode", "start_offset": 7, "end_offset": 19}, {"label": "Option", "content": "cell", "start_offset": 23, "end_offset": 27}]}
+{"id": 627, "text": "select cell mode marking", "event_type": 23, "entities": [{"label": "trigger", "content": "marking", "start_offset": 17, "end_offset": 24}, {"label": "Option", "content": "cell", "start_offset": 7, "end_offset": 11}]}
+{"id": 628, "text": "set marking to cell mode", "event_type": 23, "entities": [{"label": "trigger", "content": "marking", "start_offset": 4, "end_offset": 11}, {"label": "Option", "content": "cell", "start_offset": 15, "end_offset": 19}]}
+{"id": 629, "text": "enable cell marking mode", "event_type": 23, "entities": [{"label": "trigger", "content": "marking mode", "start_offset": 12, "end_offset": 24}, {"label": "Option", "content": "cell", "start_offset": 7, "end_offset": 11}]}
+{"id": 630, "text": "marking method set to cell", "event_type": 23, "entities": [{"label": "trigger", "content": "marking method", "start_offset": 0, "end_offset": 14}, {"label": "Option", "content": "cell", "start_offset": 22, "end_offset": 26}]}
+{"id": 631, "text": "set marking method to cell marking", "event_type": 23, "entities": [{"label": "trigger", "content": "marking method", "start_offset": 4, "end_offset": 18}, {"label": "Option", "content": "cell", "start_offset": 22, "end_offset": 26}]}
+{"id": 632, "text": "perform marking in cell mode", "event_type": 23, "entities": [{"label": "trigger", "content": "marking", "start_offset": 8, "end_offset": 15}, {"label": "Option", "content": "cell", "start_offset": 19, "end_offset": 23}]}
+{"id": 633, "text": "start processing", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 6, "end_offset": 16}, {"label": "Event", "content": "start", "start_offset": 0, "end_offset": 5}]}
+{"id": 634, "text": "start processing workflow", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 6, "end_offset": 16}, {"label": "Event", "content": "start", "start_offset": 0, "end_offset": 5}]}
+{"id": 635, "text": "start processing file", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 6, "end_offset": 16}, {"label": "Event", "content": "start", "start_offset": 0, "end_offset": 5}]}
+{"id": 636, "text": "initiate processing", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 9, "end_offset": 19}, {"label": "Event", "content": "initiate", "start_offset": 0, "end_offset": 8}]}
+{"id": 637, "text": "start processing workflow", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 6, "end_offset": 16}, {"label": "Event", "content": "start", "start_offset": 0, "end_offset": 5}]}
+{"id": 638, "text": "begin execution of processing", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 19, "end_offset": 29}, {"label": "Event", "content": "begin", "start_offset": 0, "end_offset": 5}]}
+{"id": 639, "text": "start processing task", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 6, "end_offset": 16}, {"label": "Event", "content": "start", "start_offset": 0, "end_offset": 5}]}
+{"id": 640, "text": "start processing file handling", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 6, "end_offset": 16}, {"label": "Event", "content": "start", "start_offset": 0, "end_offset": 5}]}
+{"id": 641, "text": "pause processing", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 6, "end_offset": 16}, {"label": "Event", "content": "pause", "start_offset": 0, "end_offset": 5}]}
+{"id": 642, "text": "pause processing workflow", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 6, "end_offset": 16}, {"label": "Event", "content": "pause", "start_offset": 0, "end_offset": 5}]}
+{"id": 643, "text": "pause processing file", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 6, "end_offset": 16}, {"label": "Event", "content": "pause", "start_offset": 0, "end_offset": 5}]}
+{"id": 644, "text": "pause current processing", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 14, "end_offset": 24}, {"label": "Event", "content": "pause", "start_offset": 0, "end_offset": 5}]}
+{"id": 645, "text": "interrupt processing operation", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 10, "end_offset": 20}, {"label": "Event", "content": "interrupt", "start_offset": 0, "end_offset": 9}]}
+{"id": 646, "text": "temporarily stop processing", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 17, "end_offset": 27}, {"label": "Event", "content": "stop", "start_offset": 12, "end_offset": 16}]}
+{"id": 647, "text": "pause processing task", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 6, "end_offset": 16}, {"label": "Event", "content": "pause", "start_offset": 0, "end_offset": 5}]}
+{"id": 648, "text": "pause processing file handling", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 6, "end_offset": 16}, {"label": "Event", "content": "pause", "start_offset": 0, "end_offset": 5}]}
+{"id": 649, "text": "resume processing", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 7, "end_offset": 17}, {"label": "Event", "content": "resume", "start_offset": 0, "end_offset": 6}]}
+{"id": 650, "text": "resume processing workflow", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 7, "end_offset": 17}, {"label": "Event", "content": "resume", "start_offset": 0, "end_offset": 6}]}
+{"id": 651, "text": "resume processing file", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 7, "end_offset": 17}, {"label": "Event", "content": "resume", "start_offset": 0, "end_offset": 6}]}
+{"id": 652, "text": "restore processing", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 8, "end_offset": 18}, {"label": "Event", "content": "restore", "start_offset": 0, "end_offset": 7}]}
+{"id": 653, "text": "continue execution of processing", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 22, "end_offset": 32}, {"label": "Event", "content": "continue", "start_offset": 0, "end_offset": 8}]}
+{"id": 654, "text": "restore processing workflow", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 8, "end_offset": 18}, {"label": "Event", "content": "restore", "start_offset": 0, "end_offset": 7}]}
+{"id": 655, "text": "continue processing operations", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 9, "end_offset": 19}, {"label": "Event", "content": "continue", "start_offset": 0, "end_offset": 8}]}
+{"id": 656, "text": "continue processing file handling", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 9, "end_offset": 19}, {"label": "Event", "content": "continue", "start_offset": 0, "end_offset": 8}]}
+{"id": 657, "text": "restore processing file handling", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 8, "end_offset": 18}, {"label": "Event", "content": "restore", "start_offset": 0, "end_offset": 7}]}
+{"id": 658, "text": "terminate processing", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 10, "end_offset": 20}, {"label": "Event", "content": "terminate", "start_offset": 0, "end_offset": 9}]}
+{"id": 659, "text": "abort processing", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 6, "end_offset": 16}, {"label": "Event", "content": "abort", "start_offset": 0, "end_offset": 5}]}
+{"id": 660, "text": "terminate processing workflow", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 10, "end_offset": 20}, {"label": "Event", "content": "terminate", "start_offset": 0, "end_offset": 9}]}
+{"id": 661, "text": "abort processing workflow", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 6, "end_offset": 16}, {"label": "Event", "content": "abort", "start_offset": 0, "end_offset": 5}]}
+{"id": 662, "text": "terminate processing file", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 10, "end_offset": 20}, {"label": "Event", "content": "terminate", "start_offset": 0, "end_offset": 9}]}
+{"id": 663, "text": "abort processing file", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 6, "end_offset": 16}, {"label": "Event", "content": "abort", "start_offset": 0, "end_offset": 5}]}
+{"id": 664, "text": "stop processing operation", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 5, "end_offset": 15}, {"label": "Event", "content": "stop", "start_offset": 0, "end_offset": 4}]}
+{"id": 665, "text": "terminate current processing task", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 18, "end_offset": 28}, {"label": "Event", "content": "terminate", "start_offset": 0, "end_offset": 9}]}
+{"id": 666, "text": "abort processing workflow", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 6, "end_offset": 16}, {"label": "Event", "content": "abort", "start_offset": 0, "end_offset": 5}]}
+{"id": 667, "text": "stop processing workflow", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 5, "end_offset": 15}, {"label": "Event", "content": "stop", "start_offset": 0, "end_offset": 4}]}
+{"id": 668, "text": "terminate processing file handling", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 10, "end_offset": 20}, {"label": "Event", "content": "terminate", "start_offset": 0, "end_offset": 9}]}
+{"id": 669, "text": "abort processing file handling", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 6, "end_offset": 16}, {"label": "Event", "content": "abort", "start_offset": 0, "end_offset": 5}]}
+{"id": 670, "text": "end processing", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 4, "end_offset": 14}, {"label": "Event", "content": "end", "start_offset": 0, "end_offset": 3}]}
+{"id": 671, "text": "end processing workflow", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 4, "end_offset": 14}, {"label": "Event", "content": "end", "start_offset": 0, "end_offset": 3}]}
+{"id": 672, "text": "stop processing file operation", "event_type": 24, "entities": [{"label": "trigger", "content": "processing", "start_offset": 5, "end_offset": 15}, {"label": "Event", "content": "stop", "start_offset": 0, "end_offset": 4}]}
