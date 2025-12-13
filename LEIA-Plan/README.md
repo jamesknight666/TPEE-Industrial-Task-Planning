@@ -33,10 +33,6 @@ A large number of specific atomic operation commands from laser etching industri
 | Process-Parameters | Processing Parameters Setting |
 | Process-Operate | Processing Operation |
 
-[event-id](events/event-id.id) and [role-id](events/role-id.id) provide ID-based encoding for events and parameters, making it easier to train the Atomic-Event Classifier and the Event-Extraction Model in TPEE.
-
-[atomic-event-data](events/atomic-event-data.json) contains 672 common atomic operations in industrial processing, along with their event classification results.
-
-<!-- 24 types of atomic events encompassing 25 parameters in total. Among these parameters, 9 parameters can be directly extracted from atomic events without further classification and are referred to as continuous parameters. The remaining 16 parameters require further classification after extraction and are referred to as discrete parameters. These discrete parameters can be further divided into 66 categories. -->
+[atomic-event-data](events/atomic-event-data.json) contains 672 common atomic operations in industrial processing, along with their event classification results and event extraction annotations according to the [event-template](events/event-template.json). It is used for fine-tuning the event extraction model. The [extract-entity-data](events/extract-entity-data.json) further provides refined categorizations of each extracted discrete parameter, which are used to fine-tune a BERT-based classifier.
 
 ⏳ *Other details will be updated soon.*
