@@ -1,0 +1,162 @@
+[
+    {
+        "id": "1",
+        "task": "Move Beckhoff to (30,30,30), formula is beckhoffFormula.fml",
+        "Ini_1": "1. Disconnect Beckhoff machine\\n2. Select machine formula file beckhoffFormula.fml\\n3. Connect Beckhoff machine, address 192.168.1.100, port 851\\n4. Enable X-axis\\n5. Enable Y-axis\\n6. Enable Z-axis\\n7. Set X-axis speed to 10\\n8. Set Y-axis speed to 10\\n9. Set Z-axis speed to 10\\n10. Move X-axis to 30\\n11. Move Y-axis to 30\\n12. Move Z-axis to 30",
+        "Ini_2": "1. Select machine formula file beckhoffFormula.fml\\n2. Connect Beckhoff machine, address 192.168.1.100, port 701\\n3. Enable X-axis\\n4. Enable Y-axis\\n5. Enable Z-axis\\n6. Set X-axis speed to 10\\n7. Set Y-axis speed to 10\\n8. Set Z-axis speed to 10\\n9. Move X-axis to 30\\n10. Move Y-axis to 30\\n11. Move Z-axis to 30",
+        "Ini_3": "1. Disconnect Simu machine\\n2. Select machine formula file beckhoffFormula.fml\\n3. Connect Beckhoff machine, address 192.168.1.100, port 851\\n4. Enable X-axis\\n5. Enable Y-axis\\n6. Enable Z-axis\\n7. Set X-axis speed to 10\\n8. Set Y-axis speed to 10\\n9. Set Z-axis speed to 10\\n10. Move X-axis to 30\\n11. Move Y-axis to 30\\n12. Move Z-axis to 30",
+        "Ini_4": "1. Select machine formula file beckhoffFormula.fml\\n2. Connect Beckhoff machine, address 192.168.1.100, port 701\\n3. Enable X-axis\\n4. Enable Y-axis\\n5. Enable Z-axis\\n6. Set X-axis speed to 10\\n7. Set Y-axis speed to 10\\n8. Set Z-axis speed to 10\\n9. Move X-axis to 30\\n10. Move Y-axis to 30\\n11. Move Z-axis to 30"
+    },
+    {
+        "id": "2",
+        "task": "Home all axes of Simu machine, then move back to original position",
+        "Ini_1": "1. Disconnect Beckhoff machine\\n2. Connect Simu machine, address 192.168.1.100, port 851\\n3. Enable X-axis\\n4. Enable Y-axis\\n5. Enable Z-axis\\n6. Set X-axis speed to 10\\n7. Set Y-axis speed to 10\\n8. Set Z-axis speed to 10\\n9. Home X-axis\\n10. Home Y-axis\\n11. Home Z-axis\\n12. Move X-axis to 409\\n13. Move Y-axis to 13\\n14. Move Z-axis to 5\\n",
+        "Ini_2": "1. Connect Simu machine, address 192.168.1.100, port 701\\n2. Enable X-axis\\n3. Enable Y-axis\\n4. Enable Z-axis\\n5. Set X-axis speed to 10\\n6. Set Y-axis speed to 10\\n7. Set Z-axis speed to 10\\n8. Home X-axis\\n9. Home Y-axis\\n10. Home Z-axis\\n11. Move X-axis to 0\\n12. Move Y-axis to 0\\n13. Move Z-axis to 0\\n",
+        "Ini_3": "1. Set X-axis speed to 10\\n2. Set Y-axis speed to 10\\n3. Set Z-axis speed to 10\\n4. Home X-axis\\n5. Home Y-axis\\n6. Home Z-axis\\n7. Move X-axis to 99\\n8. Move Y-axis to 10\\n9. Move Z-axis to 0\\n",
+        "Ini_4": "1. Connect Simu machine, address 192.168.1.100, port 851\\n2. Enable X-axis\\n3. Enable Y-axis\\n4. Enable Z-axis\\n5. Set X-axis speed to 10\\n6. Set Y-axis speed to 10\\n7. Set Z-axis speed to 10\\n8. Home X-axis\\n9. Home Y-axis\\n10. Home Z-axis\\n11. Move X-axis to 0\\n12. Move Y-axis to 0\\n13. Move Z-axis to 0\\n"
+    },
+    {
+        "id": "3",
+        "task": "Beckhoff BTC and ATW are both 200, origin offsets for three axes are 10, -5, 2 respectively. Move all axes to 50, speed 100",
+        "Ini_1": "1. Set machine structural parameter BTC to 200\n2. Set machine structural parameter ATW to 200\n3. Set X-axis origin offset to 10\n4. Set Y-axis origin offset to -5\n5. Set Z-axis origin offset to 2\n6. Set X-axis speed to 100\n7. Enable Y-axis\n8. Move X-axis to 50\n9. Move Y-axis to 50\n10. Move Z-axis to 50",
+        "Ini_2": "1. Connect Beckhoff machine, address 192.168.1.100, port 701\n2. Set machine structural parameter BTC to 200\n3. Set machine structural parameter ATW to 200\n4. Set X-axis origin offset to 10\n5. Set Y-axis origin offset to -5\n6. Set Z-axis origin offset to 2\n7. Enable X-axis\n8. Enable Y-axis\n9. Enable Z-axis\n10. Set X-axis speed to 100\n11. Set Y-axis speed to 100\n12. Set Z-axis speed to 100\n13. Move X-axis to 50\n14. Move Y-axis to 50\n15. Move Z-axis to 50\n",
+        "Ini_3": "1. Disconnect Simu machine\\n2. Connect Beckhoff machine, address 192.168.1.100, port 701\\n3. Set machine structural parameter BTC to 200\\n4. Set machine structural parameter ATW to 200\\n5. Set X-axis origin offset to 10\\n6. Set Y-axis origin offset to -5\\n7. Set Z-axis origin offset to 2\\n8. Enable X-axis\\n9. Enable Y-axis\\n10. Enable Z-axis\\n11. Set X-axis speed to 100\\n12. Set Y-axis speed to 100\\n13. Set Z-axis speed to 100\\n14. Move X-axis to 50\\n15. Move Y-axis to 50\\n16. Move Z-axis to 50",
+        "Ini_4": "1. Connect Beckhoff machine, address 192.168.1.50, port 851\\n2. Set machine structural parameter BTC to 200\\n3. Set machine structural parameter ATW to 200\\n4. Set X-axis origin offset to 10\\n5. Set Y-axis origin offset to -5\\n6. Set Z-axis origin offset to 2\\n7. Enable X-axis\\n8. Enable Y-axis\\n9. Enable Z-axis\\n10. Set X-axis speed to 100\\n11. Set Y-axis speed to 100\\n12. Set Z-axis speed to 100\\n13. Move X-axis to 50\\n14. Move Y-axis to 50\\n15. Move Z-axis to 50"
+    },
+    {
+        "id": "4",
+        "task": "Connect Simu machine, ip address is 192.168.1.1, port set to 22",
+        "Ini_1": "1. Disconnect Beckhoff machine\n2. Connect Simu machine, address 192.168.1.1, port 22",
+        "Ini_2": "1. Connect Simu machine, address 192.168.1.1, port 22\n",
+        "Ini_3": "1. Disconnect Simu machine\\n2. Connect Simu machine, address 192.168.1.1, port 22",
+        "Ini_4": "1. Connect Simu machine, address 192.168.1.1, port 22"
+    },
+    {
+        "id": "5",
+        "task": "Simu formula is XYZ.fml, ZTA set to -800, move X to 20, speed 100, move Y to 50 speed 90, move Z to 70, speed 80",
+        "Ini_1": "1. Disconnect Beckhoff machine\n2. Select machine formula file XYZ.fml\n3. Connect Simu machine, address 192.168.1.100, port 851\n4. Set machine structural parameter ZTA to -800\n5. Enable X-axis\n6. Set X-axis speed to 100\n7. Move X-axis to 20\n8. Set Y-axis speed to 90\n9. Enable Y-axis\n10. Move Y-axis to 50\n11. Enable Z-axis\n12. Set Z-axis speed to 80\n13. Move Z-axis to 70\n",
+        "Ini_2": "1. Select machine formula file XYZ.fml\n2. Connect Simu machine, address 192.168.1.100, port 701\n3. Set machine structural parameter ZTA to -800\n4. Enable X-axis\n5. Enable Y-axis\n6. Enable Z-axis\n7. Set X-axis speed to 100\n8. Set Y-axis speed to 90\n9. Set Z-axis speed to 80\n13. Move X-axis to 20\n14. Move Y-axis to 50\n15. Move Z-axis to 70\n",
+        "Ini_3": "1. Disconnect Simu machine\\n2. Select machine formula file XYZ.fml\\n3. Connect Simu machine, address 192.168.1.50, port 701\\n4. Set machine structural parameter ZTA to -800\\n5. Enable X-axis\\n6. Set X-axis speed to 100\\n7. Move X-axis to 20\\n8. Set Y-axis speed to 90\\n9. Enable Y-axis\\n10. Move Y-axis to 50\\n11. Enable Z-axis\\n12. Set Z-axis speed to 80\\n13. Move Z-axis to 70",
+        "Ini_4": "1. Select machine formula file XYZ.fml\\n2. Connect Simu machine, address 192.168.1.100, port 701\\n3. Set machine structural parameter ZTA to -800\\n4. Enable X-axis\\n5. Enable Y-axis\\n6. Enable Z-axis\\n7. Set X-axis speed to 100\\n8. Set Y-axis speed to 90\\n9. Set Z-axis speed to 80\\n10. Move X-axis to 20\\n11. Move Y-axis to 50\\n12. Move Z-axis to 70"
+    },
+    {
+        "id": "6",
+        "task": "Set RTC6 scanner offset X to 100 degrees, Y to 90 degrees",
+        "Ini_1": "1. Set scanner offset X to 100 degrees\n2. Set scanner offset Y to 90 degrees",
+        "Ini_2": "1. Disconnect Simu scanner\n2. Connect RTC6 scanner, control mode 4\n3. Set scanner offset X to 100 degrees\n4. Set scanner offset Y to 90 degrees",
+        "Ini_3": "1. Connect RTC6 scanner, control mode 6\\n2. Set scanner offset X to 100 degrees\\n3. Set scanner offset Y to 90 degrees",
+        "Ini_4": "1. Connect RTC6 scanner, control mode 4\\n2. Set scanner offset X to 100 degrees\\n3. Set scanner offset Y to 90 degrees"
+    },
+    {
+        "id": "7",
+        "task": "Switch to Simu scanner, control mode set to 4, correction file is correction.ct5, jump speed and marking speed are both 30cm/s",
+        "Ini_1": "1. Disconnect RTC6 scanner\n2. Select scanner correction file correction.ct5\n3. Connect Simu scanner, control mode 4\n4. Set scanner parameter jump-speed to 30cm/s\n5. Set scanner parameter marking-speed to 30cm/s",
+        "Ini_2": "1. Disconnect Simu scanner\n2. Select scanner correction file correction.ct5\n3. Connect Simu scanner, control mode 4\n4. Set scanner parameter jump-speed to 30cm/s\n5. Set scanner parameter marking-speed to 30cm/s",
+        "Ini_3": "1. Select scanner correction file correction.ct5\\n2. Connect Simu scanner, control mode 4\\n3. Set scanner parameter jump-speed to 30cm/s\\n4. Set scanner parameter marking-speed to 30cm/s",
+        "Ini_4": "1. Select scanner correction file correction.ct5\\n2. Connect Simu scanner, control mode 4\\n3. Set scanner parameter jump-speed to 30cm/s\\n4. Set scanner parameter marking-speed to 30cm/s"
+    },
+    {
+        "id": "8",
+        "task": "Switch to Hikvision camera, calibration file set to cameraCorrection.ct5",
+        "Ini_1": "1. Select camera calibration file cameraCorrection.ct5\n2. Select Hikvision camera",
+        "Ini_2": "1. Select camera calibration file cameraCorrection.ct5\n2. Select Hikvision camera",
+        "Ini_3": "1. Select camera calibration file cameraCorrection.ct5\\n2. Select Hikvision camera",
+        "Ini_4": "1. Select camera calibration file cameraCorrection.ct5\\n2. Select Hikvision camera"
+    },
+    {
+        "id": "9",
+        "task": "Set laser power to 50%, pulse width to 0.3 microseconds, turn on red light and enable",
+        "Ini_1": "1. Set laser parameter pulse-width to 0.3μs",
+        "Ini_2": "1. Set laser parameter pulse-width to 0.3μs\n2. Turn on laser enable\n",
+        "Ini_3": "1. Set laser parameter power to 50%\\n2. Set laser parameter pulse-width to 0.3μs\\n3. Turn on laser red light",
+        "Ini_4": "1. Set laser parameter power to 50%\\n2. Set laser parameter pulse-width to 0.3μs\\n3. Turn on laser red light"
+    },
+    {
+        "id": "10",
+        "task": "Connect IPG laser, serial port COM5, turn on enable after connection, direct emission",
+        "Ini_1": "1. Disconnect IPG laser\n2. Connect IPG laser, serial port COM5\n3. Turn on laser enable\n4. Turn on laser laser",
+        "Ini_2": "1. Turn on laser enable\n2. Turn on laser laser",
+        "Ini_3": "1. Disconnect Simu laser\\n2. Connect IPG laser, serial port COM5\\n3. Turn on laser enable\\n4. Turn on laser laser",
+        "Ini_4": "1. Disconnect Simu laser\\n2. Connect IPG laser, serial port COM5\\n3. Turn on laser enable\\n4. Turn on laser laser"
+    },
+    {
+        "id": "11",
+        "task": "Set Simu laser frequency to 100kHz, turn on indicator light then emit laser directly",
+        "Ini_1": "1. Disconnect IPG laser\n2. Connect Simu laser, address 192.168.1.1, port 851\n3. Set laser parameter frequency to 100khz\n4. Turn on laser indicator light\n5. Turn on laser enable\n6. Turn on laser laser",
+        "Ini_2": "1. Disconnect IPG laser\n2. Connect Simu laser, serial port COM5\n3. Set laser parameter frequency to 100khz\n4. Turn on laser indicator light\n5. Turn on laser enable\n6. Turn on laser laser",
+        "Ini_3": "1. Set laser parameter frequency to 100khz\\n2. Turn on laser laser",
+        "Ini_4": "1. Set laser parameter frequency to 100khz\\n2. Turn on laser indicator light\\n3. Turn on laser laser"
+    },
+    {
+        "id": "12",
+        "task": "Connect Simu laser, Ethernet IP address set to 192.168.3.3, port 900, direct emission",
+        "Ini_1": "1. Disconnect IPG laser\n2. Connect Simu laser, address 192.168.3.3, port 900\n3. Turn on laser enable\n4. Turn on laser laser",
+        "Ini_2": "1. Disconnect IPG laser\n2. Connect Simu laser, address 192.168.3.3, port 900\n3. Turn on laser enable\n4. Turn on laser laser",
+        "Ini_3": "1. Disconnect Simu laser\\n2. Connect Simu laser, address 192.168.3.3, port 900\\n3. Turn on laser enable\\n4. Turn on laser laser",
+        "Ini_4": "1. Disconnect Simu laser\\n2. Connect Simu laser, address 192.168.3.3, port 900\\n3. Turn on laser enable\\n4. Turn on laser laser"
+    },
+    {
+        "id": "13",
+        "task": "Set scanner coordinate system X, Y, Z to (-9, -8, -7) respectively, camera coordinate system to (-1, -2, -3) respectively",
+        "Ini_1": "1. Set scanner coordinate system X-axis to -9\n2. Set scanner coordinate system Y-axis to -8\n3. Set scanner coordinate system Z-axis to -7\n4. Set camera coordinate system X-axis to -1\n5. Set camera coordinate system Y-axis to -2\n6. Set camera coordinate system Z-axis to -3",
+        "Ini_2": "1. Set scanner coordinate system X-axis to -9\n2. Set scanner coordinate system Y-axis to -8\n3. Set scanner coordinate system Z-axis to -7\n4. Set camera coordinate system X-axis to -1\n5. Set camera coordinate system Y-axis to -2\n6. Set camera coordinate system Z-axis to -3",
+        "Ini_3": "1. Set scanner coordinate system X-axis to -9\n2. Set scanner coordinate system Y-axis to -8\n3. Set scanner coordinate system Z-axis to -7\n4. Set camera coordinate system X-axis to -1\n5. Set camera coordinate system Y-axis to -2\n6. Set camera coordinate system Z-axis to -3",
+        "Ini_4": "1. Set scanner coordinate system X-axis to -9\n2. Set scanner coordinate system Y-axis to -8\n3. Set scanner coordinate system Z-axis to -7\n4. Set camera coordinate system X-axis to -1\n5. Set camera coordinate system Y-axis to -2\n6. Set camera coordinate system Z-axis to -3"
+    },
+    {
+        "id": "14",
+        "task": "Switch tool to camera coordinate system, then move to (-5, -6, -7)",
+        "Ini_1": "1. Enable Y-axis\n2. Switch to camera coordinate system\n3. Move tool X-axis to -5\n4. Move tool Y-axis to -6\n5. Move tool Z-axis to -7",
+        "Ini_2": "1. Connect Simu machine, address 192.168.1.100, port 701\n2. Enable X-axis\n3. Enable Y-axis\n4. Enable Z-axis\n5. Set X-axis speed to 10\n6. Set Y-axis speed to 10\n7. Set Z-axis speed to 10\n8. Switch to camera coordinate system\n9. Move tool X-axis to -5\n10. Move tool Y-axis to -6\n11. Move tool Z-axis to -7",
+        "Ini_3": "1. Set Z-axis speed to 10\\n2. Switch to camera coordinate system\\n3. Move tool X-axis to -5\\n4. Move tool Y-axis to -6\\n5. Move tool Z-axis to -7",
+        "Ini_4": "1. Connect Beckhoff machine, address 192.168.1.50, port 851\\n2. Enable X-axis\\n3. Enable Y-axis\\n4. Enable Z-axis\\n5. Set X-axis speed to 10\\n6. Set Y-axis speed to 10\\n7. Set Z-axis speed to 10\\n8. Switch to camera coordinate system\\n9. Move tool X-axis to -5\\n10. Move tool Y-axis to -6\\n11. Move tool Z-axis to -7"
+    },
+    {
+        "id": "15",
+        "task": "Move scanner coordinate system to (10.6, 11.7, 12.8)",
+        "Ini_1": "1. Enable Y-axis\n2. Move tool X-axis to 10.6\n3. Move tool Y-axis to 11.7\n4. Move tool Z-axis to 12.8",
+        "Ini_2": "1. Connect Simu machine, address 192.168.1.100, port 701\n2. Enable X-axis\n3. Enable Y-axis\n4. Enable Z-axis\n5. Set X-axis speed to 10\n6. Set Y-axis speed to 10\n7. Set Z-axis speed to 10\n8. Move tool X-axis to 10.6\n9. Move tool Y-axis to 11.7\n10. Move tool Z-axis to 12.8",
+        "Ini_3": "1. Set Z-axis speed to 10\\n2. Switch to scanner coordinate system\\n3. Move tool X-axis to 10.6\\n4. Move tool Y-axis to 11.7\\n5. Move tool Z-axis to 12.8",
+        "Ini_4": "1. Connect Beckhoff machine, address 192.168.1.50, port 851\\n2. Enable X-axis\\n3. Enable Y-axis\\n4. Enable Z-axis\\n5. Set X-axis speed to 10\\n6. Set Y-axis speed to 10\\n7. Set Z-axis speed to 10\\n8. Switch to scanner coordinate system\\n9. Move tool X-axis to 10.6\\n10. Move tool Y-axis to 11.7\\n11. Move tool Z-axis to 12.8"
+    },
+    {
+        "id": "16",
+        "task": "Do not scan contour, select by cell mode for marking mode, set processing count to 2, start processing",
+        "Ini_1": "1. Set processing parameter contour-scanning to no scanning contour\n2. Set processing parameter marking-mode to by cell\n3. Set processing parameter cycle-count to 2\n4. Enable Y-axis\n5. Start processing",
+        "Ini_2": "1. Connect Simu machine, address 192.168.1.100, port 701\n2. Enable X-axis\n3. Enable Y-axis\n4. Enable Z-axis\n5. Set X-axis speed to 10\n6. Set Y-axis speed to 10\n7. Set Z-axis speed to 10\n8. Turn on laser enable\n9. Enable tool retraction\n10. Set processing parameter contour-scanning to no scanning contour\n11. Set processing parameter marking-mode to by cell\n12. Set processing parameter cycle-count to 2\n13. Start processing",
+        "Ini_3": "1. Connect RTC6 scanner, control mode 6\\n2. Set processing parameter contour-scanning to no scanning contour\\n3. Set processing parameter marking-mode to by cell\\n4. Set processing parameter cycle-count to 2\\n5. Set Z-axis speed to 10\\n6. Start processing",
+        "Ini_4": "1. Connect Beckhoff machine, address 192.168.1.50, port 851\\n2. Enable X-axis\\n3. Enable Y-axis\\n4. Enable Z-axis\\n5. Set X-axis speed to 10\\n6. Set Y-axis speed to 10\\n7. Set Z-axis speed to 10\\n8. Connect RTC6 scanner, control mode 4\\n9. Enable tool retraction\\n10. Set processing parameter contour-scanning to no scanning contour\\n11. Set processing parameter marking-mode to by cell\\n12. Set processing parameter cycle-count to 2\\n13. Start processing"
+    },
+    {
+        "id": "17",
+        "task": "Simu machine, formula is process-1.fml, scanner selected as RTC6, control mode 4, correction file correction-1.ct, laser is Simu, serial port COM3, start processing after all devices are ready",
+        "Ini_1": "1. Disconnect Beckhoff machine\n2. Select machine formula file process-1.fml\n3. Connect Simu machine, address 192.168.1.100, port 851\n4. Enable X-axis\n5. Enable Y-axis\n6. Enable Z-axis\n7. Set X-axis speed to 10\n8. Set Y-axis speed to 10\n9. Set Z-axis speed to 10\n10. Disconnect RTC6 scanner\n11. Select scanner correction file correction-1.ct\n12. Connect RTC6 scanner, control mode 4\n13. Disconnect IPG laser\n14. Connect Simu laser, serial port COM3\n15. Turn on laser enable\n16. Start processing",
+        "Ini_2": "1. Select machine formula file process-1.fml\n2. Connect Simu machine, address 192.168.1.100, port 701\n3. Enable X-axis\n4. Enable Y-axis\n5. Enable Z-axis\n6. Set X-axis speed to 10\n7. Set Y-axis speed to 10\n8. Set Z-axis speed to 10\n9. Disconnect Simu scanner\n10. Select scanner correction file correction-1.ct\n11. Connect RTC6 scanner, control mode 4\n12. Disconnect IPG laser\n13. Connect Simu laser, serial port COM3\n14. Turn on laser enable\n15. Enable tool retraction\n16. Start processing",
+        "Ini_3": "1. Disconnect Simu machine\\n2. Select machine formula file process-1.fml\\n3. Connect Simu machine, address 192.168.1.50, port 701\\n4. Enable X-axis\\n5. Enable Y-axis\\n6. Enable Z-axis\\n7. Set X-axis speed to 10\\n8. Set Y-axis speed to 10\\n9. Set Z-axis speed to 10\\n10. Select scanner correction file correction-1.ct\\n11. Connect RTC6 scanner, control mode 4\\n12. Disconnect Simu laser\\n13. Connect Simu laser, serial port COM3\\n14. Turn on laser enable\\n15. Start processing",
+        "Ini_4": "1. Select machine formula file process-1.fml\\n2. Connect Simu machine, address 192.168.1.100, port 701\\n3. Enable X-axis\\n4. Enable Y-axis\\n5. Enable Z-axis\\n6. Set X-axis speed to 10\\n7. Set Y-axis speed to 10\\n8. Set Z-axis speed to 10\\n9. Select scanner correction file correction-1.ct\\n10. Connect RTC6 scanner, control mode 4\\n11. Disconnect Simu laser\\n12. Connect Simu laser, serial port COM3\\n13. Turn on laser enable\\n14. Enable tool retraction\\n15. Start processing"
+    },
+    {
+        "id": "18",
+        "task": "Beckhoff machine, XTW set to 20, machine origin offset (40,40,40), scanner RTC6, laser-on delay and laser-off delay both set to 100ms, laser is IPG with address 192.168.1.1, port 851, start processing after all devices are ready",
+        "Ini_1": "1. Set machine structural parameter XTW to 20\n2. Set X-axis origin offset to 40\n3. Set Y-axis origin offset to 40\n4. Set Z-axis origin offset to 40\n5. Enable Y-axis\n6. Set scanner parameter laser-on-delay to 100ms\n7. Set scanner parameter laser-off-delay to 100ms\n8. Start processing",
+        "Ini_2": "1. Connect Beckhoff machine, address 192.168.1.100, port 701\n2. Enable X-axis\n3. Enable Y-axis\n4. Enable Z-axis\n5. Set X-axis speed to 10\n6. Set Y-axis speed to 10\n7. Set Z-axis speed to 10\n8. Set machine structural parameter XTW to 20\n9. Set X-axis origin offset to 40\n10. Set Y-axis origin offset to 40\n11. Set Z-axis origin offset to 40\n12. Disconnect Simu scanner\n13. Connect RTC6 scanner, control mode 4\n14. Set scanner parameter laser-on-delay to 100ms\n15. Set scanner parameter laser-off-delay to 100ms\n16. Disconnect IPG laser\n17. Connect IPG laser, address 192.168.1.1, port 851\n18. Turn on laser enable\n19. Enable tool retraction\n20. Start processing",
+        "Ini_3": "1. Disconnect Simu machine\\n2. Connect Beckhoff machine, address 192.168.1.100, port 701\\n3. Set machine structural parameter XTW to 20\\n4. Set X-axis origin offset to 40\\n5. Set Y-axis origin offset to 40\\n6. Set Z-axis origin offset to 40\\n7. Enable X-axis\\n8. Enable Y-axis\\n9. Enable Z-axis\\n10. Set X-axis speed to 10\\n11. Set Y-axis speed to 10\\n12. Set Z-axis speed to 10\\n13. Connect RTC6 scanner, control mode 6\\n14. Set scanner parameter laser-on-delay to 100ms\\n15. Set scanner parameter laser-off-delay to 100ms\\n16. Disconnect Simu laser\\n17. Connect IPG laser, address 192.168.1.1, port 851\\n18. Turn on laser enable\\n19. Start processing",
+        "Ini_4": "1. Connect Beckhoff machine, address 192.168.1.50, port 851\\n2. Set machine structural parameter XTW to 20\\n3. Set X-axis origin offset to 40\\n4. Set Y-axis origin offset to 40\\n5. Set Z-axis origin offset to 40\\n6. Enable X-axis\\n7. Enable Y-axis\\n8. Enable Z-axis\\n9. Set X-axis speed to 10\\n10. Set Y-axis speed to 10\\n11. Set Z-axis speed to 10\\n12. Connect RTC6 scanner, control mode 4\\n13. Set scanner parameter laser-on-delay to 100ms\\n14. Set scanner parameter laser-off-delay to 100ms\\n15. Disconnect Simu laser\\n16. Connect IPG laser, address 192.168.1.1, port 851\\n17. Turn on laser enable\\n18. Enable tool retraction\\n19. Start processing"
+    },
+    {
+        "id": "19",
+        "task": "Change laser to Simu, serial port COM3, then turn on red light and indicator light, start processing",
+        "Ini_1": "1. Enable Y-axis\n2. Disconnect IPG laser\n3. Connect Simu laser, serial port COM3\n4. Turn on laser indicator light\n5. Turn on laser red light\n6. Turn on laser enable\n7. Start processing",
+        "Ini_2": "1. Connect Simu machine, address 192.168.1.100, port 701\n2. Enable X-axis\n3. Enable Y-axis\n4. Enable Z-axis\n5. Set X-axis speed to 10\n6. Set Y-axis speed to 10\n7. Set Z-axis speed to 10\n8. Disconnect IPG laser\n9. Connect Simu laser, serial port COM3\n10. Turn on laser indicator light\n11. Turn on laser red light\n12. Turn on laser enable\n13. Enable tool retraction\n14. Start processing",
+        "Ini_3": "1. Disconnect Simu laser\\n2. Connect Simu laser, serial port COM3\\n3. Turn on laser indicator light\\n4. Turn on laser red light\\n5. Turn on laser enable\\n6. Connect RTC6 scanner, control mode 6\\n7. Set Z-axis speed to 10\\n8. Start processing",
+        "Ini_4": "1. Disconnect Simu laser\\n2. Connect Simu laser, serial port COM3\\n3. Turn on laser indicator light\\n4. Turn on laser red light\\n5. Turn on laser enable\\n6. Connect Beckhoff machine, address 192.168.1.50, port 851\\n7. Enable X-axis\\n8. Enable Y-axis\\n9. Enable Z-axis\\n10. Set X-axis speed to 10\\n11. Set Y-axis speed to 10\\n12. Set Z-axis speed to 10\\n13. Connect RTC6 scanner, control mode 4\\n14. Enable tool retraction\\n15. Start processing"
+    },
+    {
+        "id": "20",
+        "task": "Set scanner offset parameters to (90,0,0,0,180,0) respectively, then process",
+        "Ini_1": "1. Enable Y-axis\n2. Set scanner offset X to 90\n3. Set scanner offset Y to 0\n4. Set scanner offset Z to 0\n5. Set scanner offset α to 0\n6. Set scanner offset β to 180\n7. Set scanner offset γ to 0\n8. Start processing",
+        "Ini_2": "1. Connect Simu machine, address 192.168.1.100, port 701\n2. Enable X-axis\n3. Enable Y-axis\n4. Enable Z-axis\n5. Set X-axis speed to 10\n6. Set Y-axis speed to 10\n7. Set Z-axis speed to 10\n8. Turn on laser enable\n9. Set scanner offset X to 90\n10. Set scanner offset Y to 0\n11. Set scanner offset Z to 0\n12. Set scanner offset α to 0\n13. Set scanner offset β to 180\n14. Set scanner offset γ to 0\n15. Enable tool retraction\n16. Start processing",
+        "Ini_3": "1. Connect RTC6 scanner, control mode 6\\n2. Set scanner offset X to 90\\n3. Set scanner offset Y to 0\\n4. Set scanner offset Z to 0\\n5. Set scanner offset α to 0\\n6. Set scanner offset β to 180\\n7. Set scanner offset γ to 0\\n8. Set Z-axis speed to 10\\n9. Start processing",
+        "Ini_4": "1. Connect Beckhoff machine, address 192.168.1.50, port 851\\n2. Enable X-axis\\n3. Enable Y-axis\\n4. Enable Z-axis\\n5. Set X-axis speed to 10\\n6. Set Y-axis speed to 10\\n7. Set Z-axis speed to 10\\n8. Connect RTC6 scanner, control mode 4\\n9. Set scanner offset X to 90\\n10. Set scanner offset Y to 0\\n11. Set scanner offset Z to 0\\n12. Set scanner offset α to 0\\n13. Set scanner offset β to 180\\n14. Set scanner offset γ to 0\\n15. Enable tool retraction\\n16. Start processing"
+    }
+]
