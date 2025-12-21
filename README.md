@@ -20,12 +20,12 @@ This repository includes:
 ---
 
 ## 📝 LEIA-Plan Dataset
-[LEIA-Plan](./LEIA-Plan/) is a laser-etching industrial dataset constructed from real operational scenarios involving five-axis CNC machines, dynamic-focusing galvanometers, cameras, and pulsed fiber lasers.
+[LEIA-Plan/](./LEIA-Plan/) is a laser-etching industrial dataset constructed from real operational scenarios involving five-axis CNC machines, dynamic-focusing galvanometers, cameras, and pulsed fiber lasers.
 
 ### 🔹 Events
-A large collection of atomic operation commands from real industrial processing scenarios is summarized in [events](./LEIA-Plan/events/).
+A large collection of atomic operation commands from real industrial processing scenarios is summarized in [events/](./LEIA-Plan/events/).
 
-- [event-template](./LEIA-Plan/events/event-template.json) defines **24 event types**, including their categories and parameter structures.
+- [event-template.json](./LEIA-Plan/events/event-template.json) defines **24 event types**, including their categories and parameter structures.
 - The wording of event templates slightly differs from the *Global Information* used in TPEE prompts.
 
 The following table shows the correspondence between event templates and the Global Information used in prompts:
@@ -57,13 +57,13 @@ The following table shows the correspondence between event templates and the Glo
 | Process-Parameters | Processing Parameters Setting |
 | Process-Operate | Processing Operation |
 
-- [atomic-event-data](./LEIA-Plan/events/atomic-event-data.json) contains **672 annotated atomic operations**, including event classification labels and extraction annotations, and is used for fine-tuning the event extraction model.
-- [extract-entity-data](./LEIA-Plan/events/extract-entity-data.json) provides refined categorical annotations for discrete parameters, used to fine-tune a BERT-based parameter classifier.
+- [atomic-event-data.json](./LEIA-Plan/events/atomic-event-data.json) contains **672 annotated atomic operations**, including event classification labels and extraction annotations, and is used for fine-tuning the event extraction model.
+- [extract-entity-data.json](./LEIA-Plan/events/extract-entity-data.json) provides refined categorical annotations for discrete parameters, used to fine-tune a BERT-based parameter classifier.
 
 ### 🔹 Workflow
 The workflow data consists of representative user tasks paired with their golden plans under **four external environments**: machine, galvanometer, laser, and camera states.
 
-- [initial-state](./LEIA-Plan/workflow/initial-state.json) records the initial observation state in a structured dictionary format, including:
+- [initial-state.json](./LEIA-Plan/workflow/initial-state.json) records the initial observation state in a structured dictionary format, including:
   - **Machine**: formula, model, IP, port, connection status (0 = disconnected, 1 = connected), axis-enable states, speeds, offsets, coordinates, and structural parameters
   - **Scanner**: correction file, control mode, model, connection status, parameters, and field offsets
   - **Camera**: calibration file and model
@@ -71,23 +71,38 @@ The workflow data consists of representative user tasks paired with their golden
   - **Tool**: active tool, tool-retraction enable state (0 = off, 1 = on), and retraction distance
   - **Processing**: processing parameters
 
-- [golden-plan](./LEIA-Plan/workflow/golden-plan.json) contains optimal atomic-event sequences for different tasks under different environments. These plans can be used to construct *In-Context Examples* as [prompts](./prompts/) for training or validation.
+- [golden-plan.json](./LEIA-Plan/workflow/golden-plan.json) contains optimal atomic-event sequences for different tasks under different environments. These plans can be used to construct *In-Context Examples* as [prompts](./prompts/) for training or validation.
 
 ---
 
 ## 💬 Prompts
-The [prompts](./prompts/) directory contains all prompt templates used in TPEE.
+The [prompts/](./prompts/) directory contains all prompt templates used in TPEE.
 
-- [task-decomposition-prompt](./prompts/task-decomposition-prompt.txt): task decomposition prompt used in the **Prompt Composition Module** and **Plan Sampling Module**.
-- [task-decomposition-prompt-no-exp](./prompts/task-decomposition-prompt-no-exp.txt): variant without *Explanations Inclusion*, used for ablation studies.
+- [task-decomposition-prompt.txt](./prompts/task-decomposition-prompt.txt): task decomposition prompt used in the **Prompt Composition Module** and **Plan Sampling Module**.
+- [task-decomposition-prompt-no-exp.txt](./prompts/task-decomposition-prompt-no-exp.txt): variant without *Explanations Inclusion*, used for ablation studies.
 
-- [plan-select-prompt](./prompts/plan-select-prompt.txt): prompt for selecting an initial atomic-event sequence from sampled candidates in the **Plan Sampling Module**.
-- [plan-select-prompt-no-exp](./prompts/plan-select-prompt-no-exp.txt): variant without *Explanations Inclusion*.
+- [plan-select-prompt.txt](./prompts/plan-select-prompt.txt): prompt for selecting an initial atomic-event sequence from sampled candidates in the **Plan Sampling Module**.
+- [plan-select-prompt-no-exp.txt](./prompts/plan-select-prompt-no-exp.txt): variant without *Explanations Inclusion*.
 
-- [plan-rewrite-prompt](./prompts/plan-rewrite-prompt.txt): sequence-revision prompt used in the **Plan Rewrite Module**.
-- [plan-rewrite-prompt-no-exp](./prompts/plan-rewrite-prompt-no-exp.txt): variant without *Explanations Inclusion*.
+- [plan-rewrite-prompt.txt](./prompts/plan-rewrite-prompt.txt): sequence-revision prompt used in the **Plan Rewrite Module**.
+- [plan-rewrite-prompt-no-exp.txt](./prompts/plan-rewrite-prompt-no-exp.txt): variant without *Explanations Inclusion*.
 
 ---
 
 ## 💻 Code
-🚧 The implementation is under active development and will be released soon.
+The [code/](./code/) directory contains a reference implementation of the TPEE planning pipeline, illustrating how event-structured planning is performed with large language models under continuous-parameter industrial environments.
+
+### Structure
+```
+code/
+├── tpee-pipline.py   # Main TPEE pipeline
+├── utils.py          # Prompt processing and plan utilities
+└── config.json       # Model, prompt, and dataset configuration
+```
+
+### Description
+- [tpee-pipline.py](./code/tpee-pipline.py) implements the full TPEE workflow, including prompt construction, plan sampling, plan rewriting and event extraction.
+- [utils.py](./code/utils.py) provides helper functions for configuration loading, prompt splitting, atomic-event extraction, candidate plan processing, and optional visualization of sampled plan trees.
+- [config.json](./code/config.json) centralizes experiment settings, including prompt paths, model parameters, dataset locations, and environment selection.
+
+🚧 The code is provided for illustrating the core logic of the TPEE framework, and full requirements and usage documentation will be released soon.

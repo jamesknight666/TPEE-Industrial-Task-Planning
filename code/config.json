@@ -1,0 +1,22 @@
+{
+    "prompt": {
+        "decomposition_prompt_url": "prompts/task-decomposition-prompt.txt",
+        "select_prompt_url": "prompts/plan-select-prompt.txt",
+        "rewrite_prompt_url": "prompts/plan-rewrite-prompt.txt"
+    },
+    "model": {
+        "base_url": "https://xiaoai.plus/v1",
+        "api_key": "sk-qBGT787qai32uJBzDlzdVMfY0QThw4CCNCMvKIWhhdNnUphT",
+        "name": "gpt-4o",
+        "count": 1,
+        "temperature": 0.9,
+        "top_p": 0.95
+    },
+    "dataset":{
+        "golden_plan_url": "LEIA-Plan/workflow/golden-plan.json",
+        "initial_state_url": "LEIA-Plan/workflow/initial-state.json",
+        "in_context_examples_url": "LEIA-Plan/workflow/in-context-examples.json"
+    },
+    "current_state_index": 0,
+    "save_url": "code/"
+}
